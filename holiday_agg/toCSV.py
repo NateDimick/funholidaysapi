@@ -64,5 +64,6 @@ with open("fun_holidays.csv", "w", newline="", encoding="UTF-8") as csv_out:
     rowset = set(rows)
     rows = list(rowset)
     rows.sort(key=lambda x: (x[0], x[1]))
+    rows = [("Month", "Day", "Holiday")] + rows
     writer.writerows(rows)
 
