@@ -32,6 +32,18 @@ GET /api/date?month=11&day=26
 
 ```
 
+### GET /random
+
+arguements: none
+
+returns the date and name of a random holiday
+
+``` JSON
+GET /api/random
+
+{"month": 1, "day": 31, "holiday": "Gorilla Suit Day"}
+``
+
 ### GET /month
 
 arguments: month (int, required)

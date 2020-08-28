@@ -1,6 +1,7 @@
-import datetime, json, psycopg2, os
+import datetime, json, psycopg2, os, random
 from urllib.parse import urlparse
 from flask import Flask, render_template, request
+from flask_api import status
 
 app = Flask(__name__)
 url = urlparse(os.environ.get('DATABASE_URL'))
@@ -8,6 +9,7 @@ db = "dbname=%s user=%s password=%s host=%s " % (url.path[1:], url.username, url
 conn = psycopg2.connect(db)
 
 cur = conn.cursor()
+month_days = [31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
 
 @app.route("/")
 def index():
@@ -39,9 +41,9 @@ def month():
     returns all of the fun holidays the specified month
     """
     m = int(request.args.get("month", 0))
-    if not m:
+    if not 1 <= m <= 12:
         # throw error
-        pass
+        return "{}", status.HTTP_400_BAD_REQUEST
     with open("queries/month.sql", "r") as query:
         cur.execute(query.read(), (str(m)))
         holidays = cur.fetchall()
@@ -61,7 +63,7 @@ def date():
     day = int(request.args.get("day", 0))
     if not month or not day:
         # throw error
-        pass
+        return "{}", status.HTTP_400_BAD_REQUEST
     with open("queries/date.sql", "r") as query:
         cur.execute(query.read(), (month, day))
         holidays = cur.fetchall()
@@ -76,7 +78,7 @@ def when():
     pattern = request.args.get("like", "") # TODO: make sure this is safe from injection attacks
     if not pattern:
         # throw error
-        pass
+        return "{}", status.HTTP_400_BAD_REQUEST
     with open("queries/when.sql", "r") as query:
         cur.execute(query.read(), (f"%{pattern}%", ))
         holidays = cur.fetchall()
@@ -92,8 +94,19 @@ def when():
 
     return json.dumps(days)
 
+@app.route("/api/random")
+def rand_holiday():
+    month = random.randint(1, 12)
+    day = random.randint(1, month_days[month - 1])
+    with open("queries/date.sql", "r") as query:
+        cur.execute(query.read(), (month, day))
+        holidays = cur.fetchall()
+    random.shuffle(holidays)
+    winner = holidays[0]
+    h = winner[0]
+    return json.dumps({"month": month, "day": day, "holiday": h})
 
 
-
-
+# use flask run -h 0.0.0.0
+# also export FLASK_DEBUG=1
 #app.run(debug=True,host='0.0.0.0')

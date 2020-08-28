@@ -1,3 +1,4 @@
 flask
+flask-api
 gunicorn
 psycopg2
