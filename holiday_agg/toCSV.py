@@ -1,9 +1,12 @@
+"""
+this actually exports a tsv, sooooo...
+"""
 import csv, html
 
 months = {"Jan": 1, "Feb": 2, "Mar": 3, "Apr": 4, "May": 5, "Jun": 6, "Jul": 7, "Aug": 8, "Sep": 9, "Oct": 10, "Nov": 11, "Dec": 12}
 
-with open("fun_holidays.csv", "w", newline="", encoding="UTF-8") as csv_out:
-    writer = csv.writer(csv_out)
+with open("fun_holidays.tsv", "w", newline="", encoding="UTF-8") as csv_out:
+    writer = csv.writer(csv_out, delimiter="\t")
     rows = []
     # data copied from https://www.timeanddate.com/holidays/fun/
     with open("fun holidays.txt", 'r', encoding="UTF-8") as f:
