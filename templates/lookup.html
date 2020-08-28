@@ -1,0 +1,36 @@
+{% extends "template.html" %}
+
+{% set title = 'Fun Holiday Lookup Tool' %}
+
+{% block body %}
+    <header>
+        <h1>
+            Fun Holiday Portal
+        </h1>
+    </header>
+    <div id="tabs">
+        <!-- These tabs will toggle which of the forms below actually appears -->
+    </div>
+    <div id="word-search">
+        <!-- This div will be a form to find holidays based on keyword similarity -->
+        <form action="" id="word-form">
+            <label for="keyword">Holiday Keyword</label>
+            <input type="text" name="keyword" id="keyword" placeholder="pizza, flower, etc">
+            <button onclick="">Find Holidays</button>
+        </form>
+    </div>
+    <div id="date-search">
+        <!-- This div will be a form to find holidays based on the date -->
+        <form action="" id="date-form">
+            <label for="date"></label>
+            <input type="date" name="date" id="date">
+            <button onclick="">Find Holidays</button>
+        </form>
+        
+    </div>
+    <div id="results">
+        <p id="result-placeholder">
+            Your Results will appear here
+        </p>
+    </div>
+{% endblock %}
