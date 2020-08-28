@@ -42,7 +42,7 @@ returns the date and name of a random holiday
 GET /api/random
 
 {"month": 1, "day": 31, "holiday": "Gorilla Suit Day"}
-``
+```
 
 ### GET /month
 
