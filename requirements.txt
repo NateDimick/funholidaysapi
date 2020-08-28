@@ -1,4 +1,5 @@
 flask
 flask-api
+flask-cors
 gunicorn
 psycopg2

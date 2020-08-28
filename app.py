@@ -1,9 +1,11 @@
 import datetime, json, psycopg2, os, random
 from urllib.parse import urlparse
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, jsonify
 from flask_api import status
+from flask_cors import CORS, cross_origin
 
 app = Flask(__name__)
+CORS(app)
 url = urlparse(os.environ.get('DATABASE_URL'))
 db = "dbname=%s user=%s password=%s host=%s " % (url.path[1:], url.username, url.password, url.hostname)
 conn = psycopg2.connect(db)
@@ -33,7 +35,7 @@ def today():
         cur.execute(query.read(), (month, day))
         holidays = cur.fetchall()
 
-    return json.dumps({"day": day, "month": month, "holidays": [h[0] for h in holidays]})
+    return jsonify({"day": day, "month": month, "holidays": [h[0] for h in holidays]})
 
 @app.route("/api/month")
 def month():
@@ -43,16 +45,16 @@ def month():
     m = int(request.args.get("month", 0))
     if not 1 <= m <= 12:
         # throw error
-        return "{}", status.HTTP_400_BAD_REQUEST
+        return jsonify({}), status.HTTP_400_BAD_REQUEST
     with open("queries/month.sql", "r") as query:
-        cur.execute(query.read(), (str(m)))
+        cur.execute(query.read(), (m, ))
         holidays = cur.fetchall()
 
     this_month = {}
     for h in holidays:
         this_month[h[0]] = this_month.get(h[0], []) + [h[1]]
 
-    return json.dumps({"month": m, "holidays": this_month})
+    return jsonify({"month": m, "holidays": this_month})
 
 @app.route("/api/date")
 def date():
@@ -61,14 +63,17 @@ def date():
     """
     month = int(request.args.get("month", 0))
     day = int(request.args.get("day", 0))
-    if not month or not day:
-        # throw error
-        return "{}", status.HTTP_400_BAD_REQUEST
+    # throw error
+    if not 1 <= month <= 12:
+        return jsonify({}), status.HTTP_400_BAD_REQUEST
+    else:
+        if not 1 <= day <= month_days[month - 1]:
+            return jsonify({}), status.HTTP_400_BAD_REQUEST
     with open("queries/date.sql", "r") as query:
         cur.execute(query.read(), (month, day))
         holidays = cur.fetchall()
 
-    return json.dumps({"day": day, "month": month, "holidays": [h[0] for h in holidays]})
+    return jsonify({"day": day, "month": month, "holidays": [h[0] for h in holidays]})
 
 @app.route("/api/when")
 def when():
@@ -78,7 +83,7 @@ def when():
     pattern = request.args.get("like", "") # TODO: make sure this is safe from injection attacks
     if not pattern:
         # throw error
-        return "{}", status.HTTP_400_BAD_REQUEST
+        return jsonify({}), status.HTTP_400_BAD_REQUEST
     with open("queries/when.sql", "r") as query:
         cur.execute(query.read(), (f"%{pattern}%", ))
         holidays = cur.fetchall()
@@ -92,7 +97,7 @@ def when():
         m[h[1]] = d             # replace day list (or assign it)
         days[h[0]] = m          # replace (or assign) month dict
 
-    return json.dumps(days)
+    return jsonify(days)
 
 @app.route("/api/random")
 def rand_holiday():
@@ -104,7 +109,7 @@ def rand_holiday():
     random.shuffle(holidays)
     winner = holidays[0]
     h = winner[0]
-    return json.dumps({"month": month, "day": day, "holiday": h})
+    return jsonify({"month": month, "day": day, "holiday": h})
 
 
 # use flask run -h 0.0.0.0
