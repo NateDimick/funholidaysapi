@@ -1,8 +1,10 @@
 # Fun Holidays
 
-An API to get all of those fake holidays you see on social media
+An API to get all of those fake holidays you might see on social media
 
-## functions
+Ever wondered what fake holidays were today? Or this month? Or how many pizza-related holidays there are? 
+
+## Functions
 
 All API urls are extended off of /api
 

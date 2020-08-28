@@ -1,7 +1,33 @@
 html {
     text-align: center;
-    text-justify: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: darkcyan;
+}
+
+body > div {
+    width: 60%;
+    margin: 0% 17%;
     background-color: cadetblue;
+    border-color: dodgerblue;
+    border-radius: 3em;
+    border-style: solid;
+    border-width: 1%;
+    padding: 2%
+}
+
+header > div {
+    width: 20%;
+    margin: 1% 38%;
+    background-color: cadetblue;
+    border-color: dodgerblue;
+    border-radius: 3em;
+    border-style: solid;
+    border-width: 1%;
+    padding: 1%
+}
+
+a {
+    color: rebeccapurple;
+    text-decoration: none;
 }
 
