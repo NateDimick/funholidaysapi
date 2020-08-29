@@ -3,34 +3,45 @@
 {% set title = 'Fun Holiday Lookup Tool' %}
 
 {% block body %}
-    <header>
-        <h1>
-            Fun Holiday Portal
-        </h1>
-    </header>
-    <div id="tabs">
-        <!-- These tabs will toggle which of the forms below actually appears -->
+<header>
+    <h1>
+        Fun Holiday Portal
+    </h1>
+    <div>
+        <h2>
+            <a href="/">Go Home</a>
+        </h2>
     </div>
-    <div id="word-search">
-        <!-- This div will be a form to find holidays based on keyword similarity -->
-        <form action="" id="word-form">
-            <label for="keyword">Holiday Keyword</label>
-            <input type="text" name="keyword" id="keyword" placeholder="pizza, flower, etc">
-            <button onclick="">Find Holidays</button>
-        </form>
-    </div>
-    <div id="date-search">
-        <!-- This div will be a form to find holidays based on the date -->
-        <form action="" id="date-form">
-            <label for="date"></label>
-            <input type="date" name="date" id="date">
-            <button onclick="">Find Holidays</button>
-        </form>
-        
-    </div>
-    <div id="results">
-        <p id="result-placeholder">
-            Your Results will appear here
-        </p>
-    </div>
+</header>
+<div id="tabs">
+    <!-- These tabs will toggle which of the forms below actually appears -->
+<button class="tab" id="word-tab">Keyword Search</button>
+<button class="tab" id="date-tab" style="background-color: slategray;">Date Search</button>
+</div>
+<div id="word-search" class="field">
+    <!-- This div will be a form to find holidays based on keyword similarity -->
+    <label for="keyword">Holiday Keyword</label>
+    <input type="text" name="keyword" id="keyword" placeholder="pizza, flower, etc">
+    <button id="keyword-search">Find Holidays</button>
+</div>
+<div id="date-search" class="field" style="display: none;">
+    <!-- This div will be a form to find holidays based on the date -->
+    <label for="date">Find Holidays by Date</label>
+    <input type="date" name="date" id="date">
+    
+</div>
+<div id="results">
+    <p id="result-placeholder">
+        Your Results will appear here
+    </p>
+</div>
+<script>
+    let t1 = appToggle(true);
+    let t2 = appToggle(false);
+    document.querySelector("#word-tab").addEventListener("click", t1);
+    document.querySelector('#date-tab').addEventListener("click", t2);
+    console.log("hello?");
+    document.querySelector('#date').addEventListener("change", dateQuery) // TODO
+    document.querySelector('#keyword-search').addEventListener("click", wordQuery);
+</script>
 {% endblock %}

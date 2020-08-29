@@ -3,41 +3,41 @@
 {% set title = 'Fun Holiday API' %}
 
 {% block body %}
-    <header>
-        <h1>
-            Fun Holidays!
-        </h1>
-        <div>
-            <h1>
-                Are you a Developer? Add Fun Holiday API to your App
-            </h1>
-            <h2>
-                <a href="/api">Read The Docs</a>
-            </h2>
-        </div>
-        <div>
-            <h1>
-                Not Interested in the API?
-            </h1>
-            <h2>
-                <a href="/app">Use the App</a>
-            </h2>
-        </div>
-    </header>
+<header>
+    <h1>
+        Fun Holidays!
+    </h1>
     <div>
-        <p>
-            You've probably seen things like "National Donut Day" or "Talk Like a Pirate Day" on social media before. Have you ever wondered what weird holidays it is today (or any day) and also wanted a convenient API to help you with that? Look no further than here, the Fun Holidays API!
-        </p>
+        <h1>
+            Are you a Developer? Add Fun Holiday API to your App
+        </h1>
+        <h2>
+            <a href="/api">Read The Docs</a>
+        </h2>
     </div>
     <div>
         <h1>
-            Today's Holidays
+            Not Interested in the API?
         </h1>
-        <ul>
-            {% for holiday in holidays %}
-                <li>{{ holiday }}</li>
-            {% endfor %}
-        </ul>
+        <h2>
+            <a href="/app">Use the App</a>
+        </h2>
     </div>
+</header>
+<div>
+    <p>
+        You've probably seen things like "National Donut Day" or "Talk Like a Pirate Day" on social media before. Have you ever wondered what weird holidays it is today (or any day) and also wanted a convenient API to help you with that? Look no further than here, the Fun Holidays API!
+    </p>
+</div>
+<div>
+    <h1>
+        Today's Holidays
+    </h1>
+    <ul>
+        {% for holiday in holidays %}
+            <li> {{ month }} / {{ day }} : {{ holiday }}</li>
+        {% endfor %}
+    </ul>
+</div>
 {% endblock %}
 

@@ -1,0 +1,3969 @@
+1	1	Restoration Day of the Independent Czech State
+1	1	Day of the Establishment of the Slovak Republic
+1	1	Triumph of the Revolution in Cuba
+1	1	Independence Day in Haiti
+1	1	Independence Day in Cameroon
+1	1	Independence Day in Sudan
+1	1	National Day of Taiwan
+1	1	Sovereignty Day in Iraq
+1	1	New Year’s Day
+1	1	World Day of Peace
+1	1	International Nepali Dhoti and Topi Day
+1	1	Kwanzaa
+1	1	Flag Day in Lithuania
+1	1	Global Family Day
+1	1	National Bloody Mary Day
+1	1	Public Domain Day
+1	2	Carnival Day in Saint Kitts and Nevis
+1	2	Nyinlog
+1	2	Takai Commission Holiday in Niue
+1	2	Berchtold's Day (Berchtoldstag)
+1	2	Ancestry Day in Haiti
+1	2	National Science Fiction Day in the USA
+1	2	National Cream Puff Day
+1	3	Anniversary of the 1966 Coup d’État in Burkina Faso
+1	3	St. Genevieve Feast Day
+1	3	Ministry of Religious Affairs Day
+1	3	Memorial Day of the Fallen in Estonian Liberation War
+1	3	National Chocolate Covered Cherry Day
+1	3	National Drinking Straw Day
+1	4	Independence Day in Myanmar
+1	4	Day of the Martyrs of Independence in DR Congo
+1	4	Cavalry Day in Thailand
+1	4	Newtonmas (Newton’s Birthday)
+1	4	Colonial Repression Martyrs' Day in Angola
+1	4	Ogoni Day
+1	4	National Spaghetti Day
+1	4	World Braille Day
+1	5	Tucindan
+1	5	Guru Gobind Singh’s Birthday
+1	5	Social Worker Day in Belarus
+1	5	National Bird Day in the USA
+1	5	National Whipped Cream Day
+1	5	Three Kings Parade in Spain
+1	6	Christmas and Epiphany in Armenia
+1	6	Armed Forces Day in Iraq
+1	6	Christmas Eve in Eastern Christianity
+1	6	Epiphany in Western Christianity
+1	6	Maroon Festival in Jamaica
+1	6	Pathet Lao Day in Laos
+1	6	National Shortbread Day
+1	7	Merelots – Remembrance Day of the Dead in Armenia
+1	7	Pioneer's Day in Liberia
+1	7	Victory over Genocide Day in Cambodia
+1	7	Constitution Day in Ghana
+1	7	Christmas in Eastern Christianity
+1	7	Jinjitsu
+1	7	Tricolor Day in Italy
+1	8	Commonwealth Day in the Northern Mariana Islands
+1	8	Yinekokratia in Greece
+1	8	Kim Jong-un's Birthday in North Korea
+1	8	National English Toffee Day
+1	8	Typing Day
+1	9	Martyr's Day in Panama
+1	9	Republic Day in the Republika Srpska
+1	9	Comprehensive Peace Agreement Day in South Sudan
+1	9	Međimurje Secession Day in Croatia
+1	9	National Apricot Day
+1	9	Non-resident Indian Day
+1	10	Majority Rule Day in the Bahamas
+1	10	Voodoo Day in Benin
+1	10	Pope Agatho Feast Day
+1	10	National Guard Day in Kazakhstan
+1	10	Margaret Thatcher Day in the Falkland Islands
+1	10	National Bittersweet Chocolate Day
+1	11	Independence Manifesto Day in Morocco
+1	11	Children's Day in Thailand
+1	11	Unity Day in Nepal
+1	11	International Parity at Work Day
+1	11	Nature Reserves and National Parks Day in Russia
+1	11	Republic Day in Albania
+1	11	Kosrae Constitution Day in Micronesia
+1	11	German Apples Day
+1	11	National Hot Toddy Day
+1	11	International Thank You Day
+1	11	Kagami Biraki in Japan
+1	11	Children's Day in Tunisia
+1	11	National Human Trafficking Awareness Day
+1	12	Memorial Day in Turkmenistan
+1	12	Zanzibar Revolution Day in Tanzania
+1	12	Yennayer (Berber New Year) in Algeria
+1	12	Public Prosecutor Office Professionals Day in Russia
+1	12	National Marzipan Day
+1	12	National Youth Day in India
+1	12	Kiss a Ginger Day
+1	13	Democracy Day in Cape Verde
+1	13	Birthday of Eugenio María de Hostos in Puerto Rico
+1	13	Liberation Day in Togo
+1	13	Coming of Age Day in Japan
+1	13	Karen (Kayin) New Year
+1	13	Russian Press Day
+1	13	Korean American Day
+1	13	Stephen Forster Memorial Day
+1	13	Freedom Defenders Day in Lithuania
+1	13	National Peach Melba Day
+1	13	St. Knut’s Day
+1	14	Day of Defenders of Motherland in Uzbekistan
+1	14	Revolution and Youth Day in Tunisia
+1	14	Thai Pongal
+1	14	Maghe Sankranti
+1	14	Feast of the Divina Pastora in Barquisimeto
+1	14	National Forest Conservation Day in Thailand
+1	14	Day of the State Flag in Georgia
+1	14	Ratification Day in the USA
+1	14	Yang di-Pertuan Besar of Negeri Sembilan’s Birthday in Malaysia
+1	14	Old New Year
+1	14	National Hot Pastrami Sandwich Day
+1	15	John Chilembwe Day in Malawi
+1	15	Thai Pongal
+1	15	Teachers' Day in Venezuela
+1	15	Army Day in India
+1	15	Armed Forces Day in Nigeria
+1	15	Arbor Day in Jordan, Egypt and Malta
+1	15	Hangul Day in North Korea
+1	15	Ocean Duty Day in Indonesia
+1	15	International Recognition Day in Croatia
+1	15	Wikipedia Day
+1	15	National Strawberry Ice Cream Day
+1	16	Heroes' Day in DR Congo
+1	16	Thai Pongal
+1	16	Teachers' Day in Thailand
+1	16	National Religious Freedom Day in the USA
+1	16	National Fig Newton Day
+1	16	National Nothing Day in the USA
+1	17	Heroes' Day in DR Congo
+1	17	Feast Day of Anthony the Great
+1	17	Thai Pongal
+1	17	International Fetish Day
+1	17	Hardware Freedom Day
+1	17	National Dairy Day in Thailand
+1	17	Kid Inventors' Day
+1	17	National Hot Buttered Rum Day
+1	18	Royal Thai Armed Forces Day
+1	18	Revolution Day in Tunisia
+1	18	Foundation Day of Lima in Peru
+1	18	National Peking Duck Day
+1	19	Epiphany in Eastern Christianity
+1	19	World Religion Day
+1	19	World Snow Day
+1	19	Rescuer's Day in Belarus
+1	19	Kokborok Day in Tripura
+1	19	Sultan of Kedah’s Birthday in Malaysia
+1	19	Confederate Memorial Day in the United States
+1	19	National Popcorn Day
+1	20	Martin Luther King Jr. Day
+1	20	Martyr's Day in Azerbaijan
+1	20	Armed Forces Day in Mali
+1	20	Heroes' Day in Cape Verde and Guinea-Bissau
+1	20	Timkat in Ethiopia and Eritrea
+1	20	Penguin Awareness Day
+1	20	Commemoration Day of Defenders of the Barricades in Latvia
+1	20	Robert E. Lee Day
+1	20	National Cheese Lover's Day
+1	20	Tamborrada
+1	21	Errol Barrow Day in Barbados
+1	21	Our Lady of Altagracia Day in the Dominican Republic
+1	21	Birthday of Princess Ingrid Alexandra of Norway
+1	21	Lincoln Alexander Day in Canada
+1	21	Flag Day in Quebec
+1	21	National New England Clam Chowder Day
+1	21	National Hugging Day
+1	21	Grandmother's Day in Poland
+1	22	Plurinational State Foundation Day in Bolivia
+1	22	Unity Day in Ukraine
+1	22	National Blond Brownie Day
+1	22	Grandfather's Day in Poland
+1	23	Bounty Day in Pitcairn Island
+1	23	National Handwriting Day
+1	23	World Freedom Day in Taiwan
+1	23	Netaji Subhas Chandra Bose Jayanti in India
+1	23	National Pie Day
+1	24	Feast of Our Lady of Peace in Roman Catholic Church
+1	24	Moebius Syndrome Awareness Day
+1	24	Foreign Intelligence Service Day in Ukraine
+1	24	Unification Day in Romania
+1	24	National Peanut Butter Day
+1	24	Eskimo Pie Day
+1	24	International Day of Education
+1	24	National Girl Child Day in India
+1	25	Traditional Day of Offering in Bhutan
+1	25	25 January Revolution Day in Egypt
+1	25	Lunar (Chinese) New Year
+1	25	Betico Croes Day in Aruba
+1	25	Tatiana Day in Russia
+1	25	National Police Day in Egypt
+1	25	National Tourism Day in India
+1	25	Robert Burns Day in Scotland
+1	25	Food and Nutrition Day in Indonesia
+1	25	National Irish Coffee Day
+1	25	Saint Dwynwen's Day in Wales
+1	25	Double Seventh Festival in China
+1	25	National Voter's Day in India
+1	26	Belarusian Science Day
+1	26	Australia Day
+1	26	Republic Day in India
+1	26	Duarte Day in the Dominican Republic
+1	26	NRM Liberation Day in Uganda
+1	26	International Customs Day
+1	26	World Leprosy Day
+1	26	World Environmental Education Day
+1	26	International Internet-Free Day
+1	26	Engineer's and Architect’s Day in Panama
+1	26	Day of the International Recognition of Latvia
+1	26	Auschwitz Liberation Day in the Netherlands
+1	26	National Peanut Brittle Day
+1	27	Saint Devota's Day in Monaco
+1	27	National Heroes' Day in the Cayman Islands
+1	27	Feast of Saint Nino in Georgia
+1	27	Feast of Saint Sava in Serbia
+1	27	Community Manager Appreciation Day
+1	27	Day of Fatherland Defenders in Turkmenistan
+1	27	Public Employment Services Worker’s Day in Poland
+1	27	Family Literacy Day in Canada
+1	27	Day of Lifting of the Siege of Leningrad in Russia
+1	27	National Chocolate Cake Day
+1	27	Bubble Wrap Appreciation Day
+1	27	International Holocaust Remembrance Day
+1	28	Army Day in Armenia
+1	28	International Mobilization Day against Nuclear War
+1	28	Name Day of King Carl XVI Gustaf of Sweden
+1	28	National Blueberry Pancake Day
+1	28	Data Privacy Day
+1	29	Martyr's Day in Nepal
+1	29	Martyrdom of Fatimah in Iran
+1	29	Prosecutors' Day in Moldova
+1	29	International Mobilization Day against Nuclear War
+1	29	National Corn Chip Day
+1	30	School Day of Non-violence and Peace
+1	30	Day of Azerbaijani Customs
+1	30	Saudade Day in Brazil
+1	30	Martyr's Day in India
+1	30	Fred Korematsu Day in the United States
+1	30	National Croissant Day
+1	31	Independence Day in Nauru
+1	31	Amartithi (Meher Baba Remembrance Day)
+1	31	Backward Day
+1	31	Street Children's Day in Austria
+1	31	National Brandy Alexander Day
+1	31	Inspire Your Heart with Art Day
+2	1	Abolition Day in Mauritius
+2	1	Federal Territory Day in Malaysia
+2	1	National Heroes' Day in Rwanda
+2	1	Saint Brigid's Day in Ireland
+2	1	World Hijab Day
+2	1	Air Force Day in Nicaragua
+2	1	National Freedom Day in the USA
+2	1	Memorial Day of the Republic in Hungary
+2	1	National Baked Alaska Day
+2	1	Ice Cream for Breakfast Day
+2	1	Imbolc
+2	1	National Pisco Sour Day in Peru
+2	2	Anniversary of the Tartu Peace Treaty in Estonia
+2	2	Candlemas in Western Christianity
+2	2	Rheumatoid Awareness Day
+2	2	Inventor's Day in Thailand
+2	2	National Space Technology Day in Iran
+2	2	National Agriculture Day in Thailand
+2	2	World Wetlands Day
+2	2	Marmot Day in Alaska
+2	2	Constitution Day in the Philippines
+2	2	Victory in the Battle of Stalingrad in Russia
+2	2	Battle of Mysunde Day in Denmark
+2	2	National Heavenly Hash Day
+2	2	Groundhog Day
+2	2	Candles Day in Estonia
+2	2	Youth Day in Azerbaijan
+2	3	Heroes' Day in Mozambique
+2	3	Martyrs' Day in São Tomé and Príncipe
+2	3	Constitution Day in Mexico
+2	3	Setsubun
+2	3	Day of the Virgin of Suyapa in Honduras
+2	3	Four Chaplains Day in the USA
+2	3	Communist Party of Vietnam Foundation Anniversary
+2	3	Veterans' Day in Thailand
+2	3	National Carrot Cake Day
+2	4	Liberation Movement Day in Angola
+2	4	Independence Day in Sri Lanka
+2	4	Safer Internet Day
+2	4	Rosa Parks Day
+2	4	National Homemade Soup Day
+2	4	World Cancer Day
+2	5	Kashmir Solidarity Day in Pakistan
+2	5	Unity Day in Burundi
+2	5	Liberation Day and Saint Agatha's Day in San Marino
+2	5	World Nutella Day
+2	5	National Weatherperson's Day
+2	5	Birthday of Johan Ludvig Runeberg in Finland
+2	5	Birthday of Mary, Crown Princess of Denmark
+2	5	National Chocolate Fondue Day
+2	6	Waitangi Day in New Zealand
+2	6	Sami National Day
+2	6	Bob Marley Day
+2	6	Birthday of Princess Marie of Denmark
+2	6	Ronald Reagan Day
+2	6	National Frozen Yogurt Day
+2	6	International Day of Zero Tolerance to Female Genital Mutilation
+2	6	Food Freedom Day in Canada
+2	7	Independence Day in Grenada
+2	7	Saint Mel’s Day in Ireland
+2	7	National Black HIV/AIDS Awareness Day
+2	7	Northern Territories Day in Japan
+2	7	National Fettuccine Alfredo Day
+2	7	National Wear Red Day in the United States
+2	8	Prešeren Day in Slovenia
+2	8	Feast of Saint Sarkis in Armenia
+2	8	Parinirvana Day
+2	8	Magha Puja
+2	8	Thaipusam
+2	8	Day of Russian Science
+2	8	Prison Service Day in Poland
+2	8	Iran Air Force Day
+2	8	National Molasses Bar Day
+2	8	Propose Day
+2	9	St. Maroun's Day in Lebanon
+2	9	Feast Day of St. Apollonia
+2	9	Autism Sunday
+2	9	Civil Aviation Day in Russia
+2	9	Guru Ravidass Jayanti
+2	9	National Bagel and Lox Day
+2	9	World Marriage Day
+2	9	Racial Justice Sunday in the United Kingdom
+2	9	Mother's Day in Norway
+2	10	Feast of Saint Paul's Shipwreck in Malta
+2	10	Tu Bishvat
+2	10	International Epilepsy Day
+2	10	Diplomatic Employee Day in Russia
+2	10	Volunteer Defense’s Day in Thailand
+2	10	Kurdish Authors Union Day
+2	10	National Memorial Day of the Exiles and Foibe in Italy
+2	10	Fenkil Day in Eritrea
+2	10	National Cream Cheese Brownie Day
+2	10	Clean Out Your Computer Day
+2	10	World Pulses Day
+2	11	Islamic Revolution's Victory Day in Iran
+2	11	Youth Day in Cameroon
+2	11	National Foundation Day in Japan
+2	11	Armed Forces Day in Liberia
+2	11	National Sports Day in Qatar
+2	11	Lateran Treaty Day in Vatican
+2	11	National Day in Yemen
+2	11	World Day of the Sick
+2	11	Day of Revenue Service in Azerbaijan
+2	11	National Inventor's Day in the USA
+2	11	Forest Animal Feeding Day in Poland
+2	11	Governor Evelio B. Javier Day in the Philippines
+2	11	Assault on Copenhagen Day in Denmark
+2	11	National Peppermint Patty Day
+2	11	International Day of Women and Girls in Science
+2	11	European 112 Day
+2	12	Union Day in Myanmar
+2	12	Memorial Day of 1990 Dushanbe Riots in Tajikistan
+2	12	Lincoln's Birthday
+2	12	National Freedom to Marry Day in the USA
+2	12	National Plum Pudding Day
+2	12	Sexual and Reproductive Health Awareness Day
+2	12	Darwin Day
+2	12	Youth Day in Venezuela
+2	12	Red Hand Day
+2	13	International Condom Day
+2	13	Children’s Day in Myanmar
+2	13	Get a Different Name Day
+2	13	National Tortellini Day
+2	13	Galentine’s Day
+2	13	Trndez in Armenia
+2	13	World Radio Day
+2	14	Rafic Hariri Memorial Day in Lebanon
+2	14	Feast of Saint Tryphon in Bulgaria and Montenegro
+2	14	Valentine’s Day
+2	14	Congenital Heart Defect Awareness Day
+2	14	World Cholangiocarcinoma Day
+2	14	International Book Giving Day
+2	14	Parents’ Worship Day in India
+2	14	Generalissimo Day in North Korea
+2	14	Singles Awareness Day
+2	14	National Creme-Filled Chocolates Day
+2	14	V-Day
+2	15	Liberation Day in Afghanistan
+2	15	National Day in Serbia
+2	15	Candlemas in the Eastern Orthodox Church
+2	15	Parinirvana Day
+2	15	John Frum Day in Vanuatu
+2	15	International Childhood Cancer Day
+2	15	ENIAC Day
+2	15	Memorial Day of Warriors-Internationalists
+2	15	National Flag of Canada Day
+2	15	Total Defense Day in Singapore
+2	15	Susan B. Anthony Day
+2	15	Singles Awareness Day
+2	15	National Gumdrops Day
+2	15	Mother's Day in Iran
+2	16	Day of Restoration of the State of Lithuania
+2	16	Kim Jon-il's Birthday in North Korea
+2	16	Archbishop Janani Luwum Memorial Day in Uganda
+2	16	Do a Grouch a Favor Day
+2	16	National Almond Day
+2	17	Washington’s Birthday (Presidents’ Day)
+2	17	February 17th Revolution Day in Libya
+2	17	Family Day / Islander Day / Heritage Day / Louis Riel Day
+2	17	National Café au Lait Day
+2	17	Random Acts of Kindness Day in the USA
+2	17	National PTA Founders' Day in the USA
+2	18	Independence Day in the Gambia
+2	18	Armed Forces Day in Sierra Leone
+2	18	Day of Diplomatic Staff of Turkmenistan
+2	18	Kurdish Students Union Day
+2	18	Island Languages Day in the Amami Islands
+2	18	Democracy Day in Nepal (Prajatantra Diwas)
+2	18	National Crab Stuffed Flounder Day
+2	19	Mexican Army Day
+2	19	Ornithologist Day in Russia
+2	19	Book Giving Day in Armenia
+2	19	Vasil Levski Day in Bulgaria
+2	19	Brâncuși Day in Romania
+2	19	Shivaji Jayanti in Maharashtra
+2	19	Muhammad Tahir-ul-Qadri’s Birthday in Pakistan
+2	19	National Chocolate Mint Day
+2	20	Feast of Saint Vartan in Armenia
+2	20	Global Information Governance Day
+2	20	Heavenly Hundred Remembrance Day in Ukraine
+2	20	Battle of Salta Day in Argentina
+2	20	Northern Hemisphere Hoodie-Hoo Day
+2	20	National Cherry Pie Day
+2	20	World Day of Social Justice
+2	21	Birthday of King Jigme Khesar Namgyel Wangchuck in Bhutan
+2	21	Language Movement Day in Bangladesh
+2	21	Father Walter Lini Day in Vanuatu
+2	21	Robert Mugabe National Youth Day in Zimbabwe
+2	21	Maha Shivaratri
+2	21	International Tourist Guide Day
+2	21	Armed Forces Day in South Africa
+2	21	Birthday of King Harald V of Norway
+2	21	National Sticky Bun Day
+2	21	International Mother Language Day
+2	22	Independence Day in Saint Lucia
+2	22	National Wildlife Day
+2	22	Crime Victims Day in Poland
+2	22	National Margarita Day
+2	22	Cat Day in Japan
+2	22	Founders' Day (B-P Day)
+2	22	World Thinking Day
+2	23	Defender of the Fatherland Day
+2	23	National Day in Brunei
+2	23	Republic Day in Guyana (Mashramani)
+2	23	Emperor’s Birthday in Japan
+2	23	National Banana Bread Day
+2	24	Independence Day in Estonia
+2	24	Shrove Monday
+2	24	National Engineer's Day in Iran
+2	24	Central Excise Day in India
+2	24	National Artist Day in Thailand
+2	24	Flag Day in Mexico
+2	24	National Tortilla Chips Day
+2	24	Dragobete
+2	24	Bun Day (Bolludagur) in Iceland
+2	25	National Day in Kuwait
+2	25	Revolution Day in Suriname
+2	25	Shrove Tuesday (Mardi Gras)
+2	25	World Spay Day
+2	25	Armed Forces Day in the Dominican Republic
+2	25	National Radio Day in Thailand
+2	25	Soviet Occupation Day in Georgia
+2	25	Memorial Day for the Victims of the Communist Dictatorships in Hungary
+2	25	People Power Day in the Philippines
+2	25	National Chocolate Covered Nuts Day
+2	26	Liberation Day in Kuwait
+2	26	Ash Wednesday
+2	26	Cooperatives Day in Thailand
+2	26	Day of Remembrance for Victims of Khojaly Massacre in Azerbaijan
+2	26	Day of Resistance to Occupation of Crimea and Sevastopol in Ukraine
+2	26	Tell a Fairy Tale Day
+2	26	National Pistachio Day
+2	26	National No Smoking Day in Ireland
+2	27	Independence Day in the Dominican Republic
+2	27	International Polar Bear Day
+2	27	World NGO Day
+2	27	Special Operations Forces Day in Russia
+2	27	Vietnamese Doctors' Day
+2	27	Marathi Language Day in India
+2	27	Islamic Education Day in Iran
+2	27	National Strawberry Day
+2	27	Anosmia Awareness Day
+2	28	228 Peace Memorial Day in Taiwan
+2	28	Rare Disease Day
+2	28	Teachers' Day in Arab Countries
+2	28	Andalusia Day in Spain
+2	28	Kalevala Day (Finnish Culture Day) in Finland
+2	28	National Science Day in India
+2	28	Day of Remembrance for Victims of Massacres in Armenia
+2	28	National Chocolate Soufflé Day
+3	1	Independence Movement Day (March 1st Movement) in South Korea
+3	1	Independence Day in Bosnia and Herzegovina
+3	1	Nuclear Victims Remembrance Day in the Marshall Islands
+3	1	National Heroes' Day in Paraguay
+3	1	Maslenitsa (Forgiveness Sunday) in the Eastern Orthodox Church
+3	1	Saint David's Day in Wales
+3	1	World Civil Defense Day
+3	1	International Children's Day of Broadcasting
+3	1	Natural Horse Protection Day (World Horse Day)
+3	1	Beer Day in Iceland
+3	1	Gratitude Day in Kazakhstan
+3	1	Yap Day in Micronesia
+3	1	Doomed Soldiers Memorial Day in Poland
+3	1	Bikini Day in Japan
+3	1	Republic Day in Neuchâtel
+3	1	Mustafa Barzani Memorial Day in Iraqi Kurdistan
+3	1	National Pig Day
+3	1	National Peanut Butter Lover's Day
+3	1	National Grandmothers' Day in France
+3	1	Women of Color Day
+3	1	World Compliment Day
+3	1	Mărțișor in Moldova and Romania
+3	1	Martenitsa in Bulgaria
+3	1	Zero Discrimination Day
+3	1	Children's Day in New Zealand
+3	1	Self-injury Awareness Day
+3	2	H. Lavity Stoutt's Birthday in the British Virgin Islands
+3	2	Victory at Adwa Day in Ethiopia
+3	2	Peasants Day in Myanmar
+3	2	Guam History and Chamorro Heritage Day
+3	2	James Ronald Webster's Birthday in Anguilla
+3	2	Labour Day in Australia
+3	2	Air Force Day in Sri Lanka
+3	2	Read Across America Day
+3	2	Baloch Culture Day
+3	2	U. S. Citizenship Day in Puerto Rico
+3	2	National Banana Cream Pie Day
+3	3	Flag Day in Kyrgyzstan
+3	3	Liberation Day in Bulgaria
+3	3	Martyr's Day in Malawi
+3	3	Veterans Day in East Timor
+3	3	International Ear Care Day
+3	3	Sportsmen's Day in Egypt
+3	3	National Cold Cuts Day
+3	3	Hinamatsuri in Japan
+3	3	World Wildlife Day
+3	3	Mother's Day in Georgia
+3	4	Saint Casimir's Day
+3	4	Belarusian Militia Day
+3	4	National Grammar Day in the United States
+3	4	Sultan of Terengganu Coronation Anniversary in Malaysia
+3	4	Hug a G.I. Day
+3	4	National Pound Cake Day
+3	5	Custom Chiefs' Day in Vanuatu
+3	5	Gospel Day in French Polynesia
+3	5	St. Piran’s Day in Cornwall
+3	5	Day of Physical Culture and Sport in Azerbaijan
+3	5	Judiciary Employee Day in Kyrgyzstan
+3	5	National Journalist Day in Thailand
+3	5	National Tree Planting Day in Iran
+3	5	World Book Day in the UK and Ireland
+3	5	Charity Day in Iran
+3	5	Kalpak Day in Kyrgyzstan
+3	5	Learn from Lei Feng Day in China
+3	5	1991 Rebellion Anniversary in Iraqi Kurdistan
+3	5	Panchayati Raj Day in Odisha
+3	5	National Cheese Doodle Day
+3	6	Independence Day in Ghana
+3	6	Foundation Day in Norfolk Island
+3	6	Employee Appreciation Day
+3	6	Dentist's Day in the USA
+3	6	European Day of the Righteous
+3	6	National Frozen Food Day in the USA
+3	7	Feast Day of Perpetua and Felicitas
+3	7	Teacher's Day in Albania
+3	7	Transport and Telecommunication Workers Day in Turkmenistan
+3	7	Alexander Graham Bell Day
+3	7	Sulaymaniyah Liberation Day in Iraqi Kurdistan
+3	7	National Cereal Day
+3	8	International Women’s Day
+3	8	Revolution Day in Syria
+3	8	Birthday of Ali ibn Abi Talib
+3	8	International Women’s Collaboration Brew Day
+3	8	International Day of Planetariums
+3	8	Day of Geodesy and Cartography Workers in Russia
+3	8	National Peanut Cluster Day
+3	8	Father's Day in Islamic Countries
+3	8	Mother's Day in Albania and Laos
+3	9	Commonwealth Day
+3	9	National Heroes and Benefactors Day in Belize
+3	9	Labour Day in Australia
+3	9	Fast of Esther
+3	9	Teachers' Day in Lebanon
+3	9	Panic Day
+3	9	National Crab Meat Day
+3	10	Purim
+3	10	Holi
+3	10	National Theater Day in Azerbaijan
+3	10	Kurdish Clothes Day
+3	10	Holocaust Remembrance Day in Bulgaria
+3	10	Tibetan Uprising Day
+3	10	National Women and Girls HIV/AIDS Awareness Day in the USA
+3	10	Harriet Tubman Day
+3	10	National Blueberry Popover Day
+3	10	International Day of Awesomeness
+3	10	Mario Day
+3	11	Decoration Day in Liberia
+3	11	Day of Restoration of Independence of Lithuania
+3	11	King Moshoeshoe I's Anniversary in Lesotho
+3	11	Shushan Purim
+3	11	Day of Drug Control Authorities in Russia
+3	11	Tajik Press Day
+3	11	Johnny Appleseed Day in the USA
+3	11	World Day of Muslim Culture, Peace, Dialogue and Film
+3	11	National Oatmeal Nut Waffles Day
+3	11	No Smoking Day in the UK
+3	12	National Day in Mauritius
+3	12	Youth Day in Zambia
+3	12	World Kidney Day
+3	12	World Day Against Cyber Censorship
+3	12	Workers of the Penal System of the Ministry of Justice of Russia Day
+3	12	Girl Scout Birthday in the USA
+3	12	Tree Day in North Macedonia
+3	12	Sun-Earth Day
+3	12	Arbor Day in China and Taiwan
+3	12	Renovation Day in Gabon
+3	12	Name Day of Victoria, Crown Princess of Sweden
+3	12	National Baked Scallops Day
+3	13	Anniversary of the Election of Pope Francis in Vatican City
+3	13	World Sleep Day
+3	13	National Thai Elephant Day
+3	13	Statute of Autonomy Day in Melilla
+3	13	Duhok Liberation Day in Iraqi Kurdistan
+3	13	K9 Veterans Day
+3	13	National Coconut Torte Day
+3	14	Summer Day in Albania
+3	14	National Heroes' Day in Saint Vincent and the Grenadines
+3	14	Constitution Day in Andorra
+3	14	Land Surveyors Day in Ukraine
+3	14	International Day of Action for Rivers
+3	14	Mother Tongue Day in Estonia
+3	14	Pi Day
+3	14	National Potato Chip Day
+3	14	White Day
+3	14	Steak & BJ Day
+3	15	1848 Revolution Day in Hungary
+3	15	Joseph Jenkins Roberts' Birthday in Liberia
+3	15	Youth Day in Palau
+3	15	Hōnen Matsuri in Japan
+3	15	World Consumer Rights Day
+3	15	International Day of Action for the Seals
+3	15	International Day Against Police Brutality
+3	15	World Contact Day
+3	15	World Speech Day
+3	15	Constitution Day in Belarus
+3	15	National Pears Hélène Day
+3	16	Labor Day in Christmas Island
+3	16	Benito Juárez Day in Mexico
+3	16	Book Smugglers Day in Lithuania
+3	16	Latvian Legion Day
+3	16	Halabja Remembrance Day in Iraqi Kurdistan
+3	16	Saint Urho's Day
+3	16	National Artichoke Hearts Day
+3	17	Saint Patrick’s Day
+3	17	Sheikh Mujibur Rahman's Birthday in Bangladesh
+3	17	World Social Work Day
+3	17	National Muay Thai Day in Thailand
+3	17	Mobilization Employee Day in Ukraine
+3	17	National Corned Beef and Cabbage Day
+3	17	National Children Day in Bangladesh
+3	18	Men's and Soldiers' Day in Mongolia
+3	18	National Anthem and Flag Day in Aruba
+3	18	Marien Ngouabi Day in the Republic of the Congo
+3	18	Sheikh Al Maarouf Day in the Comoros
+3	18	Day of Internal Troops in Belarus
+3	18	Engineer's Day in Belgium and the Netherlands
+3	18	Ordnance Factory Day in India
+3	18	National Festival of Trees in the Netherlands
+3	18	Gallipoli Memorial Day in Turkey
+3	18	Anniversary of the Oil Expropriation in Mexico
+3	18	National Lacy Oatmeal Cookie Day
+3	18	Sheelah’s Day
+3	19	Commemoration of the Victory over Gaddafi in Libya
+3	19	Saint Joseph’s Day in Western Christianity / Father’s Day
+3	19	Teachers' Day in Syria
+3	19	Kashubian Unity Day in Poland
+3	19	Equality Day in Finland
+3	19	National Chocolate Caramel Day
+3	19	Clients' Day
+3	20	Independence Day in Tunisia
+3	20	Vernal Equinox Day in Japan
+3	20	Oil Nationalization Day in Iran
+3	20	Equinox Earth Day
+3	20	World Storytelling Day
+3	20	International Day Without Meat
+3	20	World Oral Health Day
+3	20	International Astrology Day
+3	20	World Sparrow Day
+3	20	International Francophonie Day
+3	20	UN French Language Day
+3	20	Kirkuk Liberation Day in Iraqi Kurdistan
+3	20	National Ravioli Day
+3	20	Extraterrestrial Abduction Day
+3	20	Ostara
+3	20	International Day of Happiness
+3	20	National Native HIV/AIDS Awareness Day
+3	21	Nowruz
+3	21	Independence Day in Namibia
+3	21	Human Rights Day in South Africa
+3	21	World Wood Day
+3	21	World Puppetry Day
+3	21	International Color Day
+3	21	Education Freedom Day
+3	21	Early Music Day
+3	21	Harmony Day in Australia
+3	21	National French Bread Day
+3	21	Truant's Day in Poland
+3	21	World Poetry Day
+3	21	International Day of the Elimination of Racial Discrimination
+3	21	World Down Syndrome Day
+3	21	International Day of Nowruz
+3	21	International Day of Forests
+3	21	Mother's Day in the Arab World
+3	21	Youth Day in Tunisia
+3	22	Emancipation Day in Puerto Rico
+3	22	Laylat al-Mi'raj
+3	22	Mothering Sunday (Mother's Day)
+3	22	Baltic Sea Day
+3	22	National Tree Day in Sint Maarten
+3	22	Day of the Lao People's Revolutionary Party
+3	22	National Bavarian Crepes Day
+3	22	Pretzel Sunday in Luxembourg
+3	22	World Water Day
+3	22	Day of the Berlin Bear
+3	23	Pakistan Day
+3	23	Day of the Liberation of Southern Africa in Angola
+3	23	National Puppy Day in the United States
+3	23	Day of Hungarian-Polish Friendship
+3	23	Day of the Sea in Bolivia
+3	23	Sultan of Johor’s Birthday in Malaysia
+3	23	Martyrdom Day of Sardar Bhagat Singh in Haryana
+3	23	National Chip and Dip Day
+3	23	World Meteorological Day
+3	24	Commonwealth Covenant Day in the Northern Mariana Islands
+3	24	Day of Remembrance for Truth and Justice in Argentina
+3	24	International Whistleblower Day
+3	24	National Tree Planting Day in Uganda
+3	24	National Life Day in Poland
+3	24	National Chocolate Covered Raisins Day
+3	24	World Tuberculosis Day
+3	24	International Day for the Right to the Truth concerning Gross Human Rights Violations and for the Dignity of Victims
+3	25	Independence Day in Greece
+3	25	Anniversary of the Arengo in San Marino
+3	25	Feast of the Annunciation in Western Christianity
+3	25	Ugadi
+3	25	International Day of the Unborn Child
+3	25	Cultural Worker's Day in Russia
+3	25	Security Service Workers' Day in Ukraine
+3	25	Army Day in New Zealand
+3	25	Tolkien Reading Day
+3	25	EU Talent Day
+3	25	Memorial Day for the Victims of Communist Terror in Latvia
+3	25	Struggle for Human Rights Day in Slovakia
+3	25	Medal of Honor Day in the United States
+3	25	National Lobster Newburg Day
+3	25	Freedom Day in Belarus
+3	25	Waffle Day in Sweden
+3	25	International Day of Solidarity with Detained and Missing Staff Members
+3	25	International Day of Remembrance of the Victims of Slavery and the Transatlantic Slave Trade
+3	25	Mother's Day in Slovenia
+3	26	Independence Day in Bangladesh
+3	26	Martyrs' Day / Democracy Day in Mali
+3	26	Purple Day
+3	26	National Guard Day in Ukraine
+3	26	Prince Kūhiō Day in Hawaii
+3	26	National Spinach Day
+3	27	Armed Forces Day in Myanmar
+3	27	World Theater Day
+3	27	National Guard Forces Command Day in Russia
+3	27	Performing Arts Day in Iran
+3	27	International Whisk(e)y Day
+3	27	National Spanish Paella Day
+3	28	Day of the National Security Service Officers in Azerbaijan
+3	28	Teachers' Day in the Czech Republic and Slovakia
+3	28	Serf Emancipation Day in Tibet
+3	28	Day of the Revival of the Balkar People
+3	28	National Black Forest Cake Day
+3	29	Martyrs' Day in Madagascar
+3	29	Boganda Day in the Central African Republic
+3	29	Youth Day in Taiwan
+3	29	National Vietnam War Veterans Day in the USA
+3	29	National Lemon Chiffon Cake Day
+3	29	Day of the Young Combatant in Chile
+3	30	Land Day in Palestine
+3	30	Spiritual Baptist/Shouter Liberation Day in Trinidad and Tobago
+3	30	National Doctors' Day in the USA
+3	30	Seward’s Day in Alaska
+3	30	National Turkey Neck Soup Day
+3	31	Freedom Day in Malta
+3	31	Transfer Day in the US Virgin Islands
+3	31	Micronesian Culture and Traditions Day in Micronesia
+3	31	Chemical Industry Workers’ Day in Turkmenistan
+3	31	Day of Genocide of Azerbaijanis in Azerbaijan
+3	31	King Nangklao Memorial Day in Thailand
+3	31	Cesar Chavez Day in the USA
+3	31	Thomas Mundy Peterson Day in New Jersey
+3	31	World Backup Day
+3	31	National Clams on the Half Shell Day
+3	31	International Transgender Day of Visibility
+4	1	Greek Cypriot National Day
+4	1	Islamic Republic Day in Iran
+4	1	Investiture of the Captains Regents in San Marino
+4	1	April Fools’ Day
+4	1	National Tree Planting Day in Tanzania
+4	1	Fossil Fools Day
+4	1	Edible Book Day
+4	1	Assyrian New Year (Kha b-Nisan)
+4	1	Civil Service Day in Thailand
+4	1	Odisha Day in India
+4	1	National Sourdough Bread Day
+4	1	Cognac Birthday
+4	2	Malvinas Day in Argentina
+4	2	Sizdah Be-dar (Nature Day) in Iran
+4	2	Hùng Kings Commemoration Day in Vientam
+4	2	Rama Navami
+4	2	International Children's Book Day
+4	2	Unity of Peoples of Russia and Belarus Day
+4	2	Thai Heritage Conservation Day
+4	2	Battle of Näfels Day in Glarus
+4	2	National Peanut Butter and Jelly Day
+4	2	World Autism Awareness Day
+4	3	Second Republic Day in Guinea
+4	3	World Party Day
+4	3	Tweed Day
+4	3	National Chocolate Mousse Day
+4	4	Independence Day in Senegal
+4	4	Peace Day in Angola
+4	4	Children's Day in Taiwan
+4	4	404 Day
+4	4	National Cordon Bleu Day
+4	4	International Day for Landmine Awareness and Assistance
+4	4	World Rat Day
+4	4	Aliyah Day in Israel
+4	5	Qingming Festival (Tomb Sweeping Day)
+4	5	Feast Day of Vincent Ferrer
+4	5	World Youth Day
+4	5	Palm Sunday in Western Christianity
+4	5	Geologist Day
+4	5	National Maritime Day in India
+4	5	Sikmogil (Arbor Day) in South Korea
+4	5	A Drop of Water Is a Grain of Gold Holiday in Turkmenistan
+4	5	Jagjivan Ram’s Birthday in India
+4	5	Education and Sharing Day
+4	5	National Raisin and Spice Bar Day
+4	5	Children's Day in Palestine
+4	5	Youth Day in Iran
+4	6	Chakri Memorial Day in Thailand
+4	6	National Health Day in Kiribati
+4	6	President Ntaryamira Day in Burundi
+4	6	Act of Self Determination Day in the Cocos Islands
+4	6	Mahavir Jayanti
+4	6	Athletic Trainers and Physical Training and Sports Professionals Day in Kyrgyzstan
+4	6	National Fisherman Day in Indonesia
+4	6	Tartan Day
+4	6	National Caramel Popcorn Day
+4	6	New Beer’s Eve in the United States
+4	6	International Day of Sport for Development and Peace
+4	6	World Table Tennis Day
+4	7	Sheikh Abeid Amani Karume Day in Tanzania
+4	7	People’s April Revolution Day in Kyrgyzstan
+4	7	Genocide Memorial Day in Rwanda
+4	7	National Women's Day in Mozambique
+4	7	Annunciation in Eastern Christianity
+4	7	National Flag Day in Slovenia
+4	7	National Beer Day in the USA
+4	7	National Coffee Cake Day
+4	7	World Health Day
+4	7	Day of Remembrance of the Victims of the Rwanda Genocide
+4	7	Maternity and Beauty Day in Armenia
+4	8	Passover (Pesach)
+4	8	Hana Matsuri (Flower Festival) in Japan
+4	8	International Day of the Roma
+4	8	Day of Military Commissariat Employees
+4	8	Drug Control Authority Workers' Day in Kyrgyzstan
+4	8	Anniversary of the Ministry of Defense in Thailand
+4	8	National Plitvice Lakes Day in Croatia
+4	8	National Empanada Day
+4	8	Draw A Bird Day
+4	8	International Day of Pink in Canada
+4	9	Day of National Unity in Georgia
+4	9	Birthday of Muhammad al-Mahdi
+4	9	Day of Valor in the Philippines
+4	9	Martyr's Day in Tunisia
+4	9	Passover (Pesach)
+4	9	Maundy Thursday in Western Christianity
+4	9	Mid-Shab'an (Lailat al-Baraa)
+4	9	Royal Thai Air Force Day in Thailand
+4	9	Day of the Finnish Language
+4	9	Anniversary of the German Invasion of Denmark
+4	9	Vimy Ridge Day in Canada
+4	9	National Former Prisoner of War Recognition Day in the USA
+4	9	Liberation Day in Iraqi Kurdistan
+4	9	National Chinese Almond Cookie Day
+4	9	National Nuclear Technology Day in Iran
+4	10	Fast and Prayer Day in Liberia
+4	10	Passover (Pesach)
+4	10	Good Friday in Western Christianity
+4	10	Builders' Day in Azerbaijan
+4	10	National Rubber Day in Thailand
+4	10	Siblings Day in the USA
+4	10	Safety Pin Day
+4	10	National Cinnamon Crescent (Croissant) Day
+4	11	Juan Santamaría Day in Costa Rica
+4	11	Passover (Pesach)
+4	11	Holy Saturday in Western Christianity
+4	11	World Parkinson's Day
+4	11	International Louie Louie Day
+4	11	Day of Nazi Concentration Camps Prisoners Liberation
+4	11	National Cheese Fondue Day
+4	11	National Pet Day
+4	12	Easter in Western Christianity
+4	12	Palm Sunday in Eastern Christianity
+4	12	Passover (Pesach)
+4	12	Easter in Armenia
+4	12	World Aviation and Cosmonautics Day
+4	12	Air Defense Forces Day
+4	12	Day of Space and Rocket Industry Workers in Ukraine
+4	12	Day of Science in Kazakhstan
+4	12	Anniversary of the Easter Rising in Ireland
+4	12	National Redemption Day in Liberia
+4	12	National Grilled Cheese Sandwich Day
+4	12	International Day of Human Space Flight
+4	12	Children's Day in Peru
+4	12	Children's Day in Bolivia
+4	13	World's Day of Remembrance for Victims of Katyn Massacre
+4	13	New Year in South and Southeast Asia
+4	13	Passover (Pesach)
+4	13	Easter Monday in Western Christianity
+4	13	Teachers' Day in Ecuador
+4	13	Thomas Jefferson's Birthday
+4	13	Unfairly Prosecuted Persons Day in Slovakia
+4	13	National Peach Cobbler Day
+4	14	New Year in South and Southeast Asia
+4	14	Passover (Pesach)
+4	14	Pan American Day
+4	14	Day of the Georgian Language
+4	14	Dhivehi Language Day in the Maldives
+4	14	N'Ko Alphabet Day
+4	14	Ambedkar Jayanti in India
+4	14	Anfal Genocide Memorial Day
+4	14	National Pecan Day
+4	14	Black Day in South Korea
+4	14	Angolan Youth Day
+4	15	New Year in South and Southeast Asia
+4	15	Kim II-sung's Birthday in North Korea
+4	15	Passover (Pesach)
+4	15	Father Damien Day in Hawaii
+4	15	World Art Day
+4	15	Day of Radio-Electronic Fight Troops in Russia
+4	15	World Day of Culture
+4	15	Day of Love in Georgia
+4	15	Lovers' Day in Kazakhstan
+4	15	One Boston Day
+4	15	Himachal Day in India
+4	15	National Glazed Spiral Ham Day
+4	15	Jackie Robinson Day
+4	15	Children's Day in Spain
+4	16	Maundy Thursday in Eastern Christianity
+4	16	Police Day in Armenia
+4	16	Lawyers' Day in Bulgaria
+4	16	Birthday of Queen Margrethe II of Denmark
+4	16	Remembrance of Chemical Attack on Balisan and Sheikh Wasan in Iraqi Kurdistan
+4	16	Memorial Day for the Victims of the Holocaust in Hungary
+4	16	National Healthcare Decisions Day
+4	16	National Eggs Benedict Day
+4	16	World Voice Day
+4	16	Emancipation Day in the USA
+4	17	Evacuation Day in Syria
+4	17	FAO Day in Iraq
+4	17	Women's Day in Gabon
+4	17	Flag Day in American Samoa
+4	17	Good Friday in Eastern Christianity
+4	17	World Hemophilia Day
+4	17	Veterans' Day of Internal Affairs Bodies and Internal Troops in Russia
+4	17	Migration Service Employees Day in Turkmenistan
+4	17	Espresso Italiano Day in Italy
+4	17	National Cheeseball Day
+4	17	Malbec World Day
+4	18	Independence Day in Zimbabwe
+4	18	Holy Saturday in Eastern Christianity
+4	18	World Amateur Radio Day
+4	18	International Day for Monuments and Sites
+4	18	World Circus Day
+4	18	National Army Day in Iran
+4	18	Invention Day in Japan
+4	18	Environment Day in Ukraine
+4	18	Record Store Day
+4	18	Battle on the Ice Day in Russia
+4	18	Battle of Dybbøl Day in Denmark
+4	18	Ukrainian Red Cross Society Founding Day
+4	18	National Animal Crackers Day
+4	18	Coma Patient Day in Poland
+4	19	Landing of the 33 Patriots Day in Uruguay
+4	19	Beginning of the Independence Movement Day in Venezuela
+4	19	King's Birthday in Eswatini (Swaziland)
+4	19	Easter in Eastern Christianity
+4	19	Coptic and Ethiopian Easter
+4	19	Brazilian Army Day
+4	19	Russian Printing Industry Day
+4	19	Indian Day in Brazil
+4	19	Dutch-American Friendship Day
+4	19	Primrose Day in the UK
+4	19	Day of Adoption of Crimea, Taman and Kuban into the Russian Empire
+4	19	National Amaretto Day
+4	19	Bicycle Day
+4	19	Congenital Diaphragmatic Hernia Action Day
+4	20	Queen's Birthday in Saint Helena, Ascension and Tristan da Cuhna
+4	20	Sham el-Nessim in Egypt
+4	20	Easter Monday in Eastern Christianity
+4	20	UN Chinese Language Day
+4	20	José de Diego's Birthday in Puerto Rico
+4	20	4/20 (Cannabis Culture Holiday)
+4	20	National Pineapple Upside-Down Cake Day
+4	20	National Donor Day in Russia
+4	21	National Tea Day in the UK
+4	21	Tiradentes Day in Brazil
+4	21	State Security Service Day in Kazakhstan
+4	21	Civil Service Day in India
+4	21	National Tree Planting Day in Kenya
+4	21	Vietnam Book Day
+4	21	Yom HaShoah (Holocaust Remembrance Day)
+4	21	Queen's Birthday in the UK (Flag Day)
+4	21	Kartini Day in Indonesia
+4	21	Heroic Defense of Veracruz in Mexico
+4	21	Kang Pan-sok’s Birthday in North Korea
+4	21	Rome Foundation Day
+4	21	National Chocolate Covered Cashew Day
+4	21	World Creativity and Innovation Day
+4	21	Day of Local Self-Government in Russia
+4	22	Earth Day and International Mother Earth Day
+4	22	Administrative Professionals' Day
+4	22	Discovery Day in Brazil
+4	22	Holocaust Remembrance Day in Serbia
+4	22	Stephen Lawrence Day in the UK
+4	22	National Jelly Bean Day
+4	22	Girl Scout Leader's Day
+4	23	National Sovereignty and Children's Day in Turkey
+4	23	First Day of Summer in Iceland
+4	23	Saint George’s Day
+4	23	International Girls in ICT Day
+4	23	Navy Day in China
+4	23	UN English Language Day
+4	23	International Pixel-Stained Technopeasant Day
+4	23	Canada Book Day
+4	23	National Cherry Cheesecake Day
+4	23	German Beer Day
+4	23	World Book and Copyright Day
+4	23	Take Our Daughters and Sons to Work Day
+4	24	Armenian Genocide Remembrance Day
+4	24	Concord Day in Niger
+4	24	Democracy Day in Nepal (Loktantra Diwas)
+4	24	First Day of Ramadan
+4	24	World Day for Laboratory Animals
+4	24	International Sculpture Day
+4	24	National Panchayati Raj Day in India
+4	24	National Arbor Day in the USA
+4	24	Kapyong Day
+4	24	National Pigs-in-a-Blanket Day
+4	24	International Day of Multilateralism and Diplomacy for Peace
+4	24	Fashion Revolution Day
+4	25	Liberation Day in Italy
+4	25	Freedom Day in Portugal
+4	25	Sinai Liberation Day in Egypt
+4	25	Anzac Day in Australia and New Zealand
+4	25	National Flag Day in the Faroe Islands
+4	25	National Flag Day in Eswatini (Swaziland)
+4	25	Korean People's Army Foundation Day in North Korea
+4	25	World Tai Chi and Qigong Day
+4	25	World Veterinary Day
+4	25	Arbor Day in Germany
+4	25	World Penguin Day
+4	25	DNA Day in the USA
+4	25	Red Hat Society Day
+4	25	Parental Alienation Awareness Day
+4	25	Anniversary of the First Cabinet of the Kurdish Government
+4	25	King Naresuan Day in Thailand
+4	25	National Zucchini Bread Day
+4	25	World Malaria Day
+4	25	International Delegate’s Day
+4	25	Children's Day in Colombia
+4	26	Turkmen Horse Day
+4	26	Union Day in Tanzania
+4	26	Border Guard Day in Armenia
+4	26	Day of Remembrance of the Chernobyl Tragedy
+4	26	Lesbian Visibility Day
+4	26	Sultan of Terengganu’s Birthday in Malaysia
+4	26	National Pretzel Day
+4	26	World Intellectual Property Day
+4	26	International Chernobyl Disaster Remembrance Day
+4	27	King’s Day in the Netherlands
+4	27	Resistance Day in Slovenia
+4	27	Independence Day in Togo
+4	27	Independence Day in Sierra Leone
+4	27	Freedom Day in South Africa
+4	27	Abolition Day in Mayotte
+4	27	Day of Russian Parliamentarism
+4	27	National Veterans' Day in Finland
+4	27	Confederate Memorial Day in the United States
+4	27	UnFreedom Day in South Africa
+4	27	National Prime Rib Day
+4	27	National Transportation Safety Day in Iran
+4	28	Mujahideen Victory Day in Afghanistan
+4	28	National Heroes Day in Barbados
+4	28	Saint Pierre Chanel Day in Wallis and Futuna
+4	28	Radunitsa (Ancestor Veneration Day)
+4	28	Lawyers’ Day in Odisha
+4	28	Day for Safety and Health at Work in Poland
+4	28	Yom Hazikaron (Memorial Day)
+4	28	Restoration of Sovereignty Day in Japan
+4	28	National Day of Mourning in Canada
+4	28	National Blueberry Pie Day
+4	28	World Day for Safety and Health at Work
+4	29	Yom Ha’atzmaut (Israel Independence Day)
+4	29	Shōwa Day in Japan
+4	29	International Noise Awareness Day
+4	29	International Dance Day
+4	29	Arbor Day in Colombia
+4	29	National Canadian Film Day
+4	29	Birthday of Princess Benedikte of Denmark
+4	29	Praia Day in Capo Verde
+4	29	National Shrimp Scampi Day
+4	29	Denim Day
+4	30	Liberation / Reunification Day in Vietnam
+4	30	Buddha's Birthday in East Asia
+4	30	Carnival Day in Sint Maarten
+4	30	Day of Fire Service in Russia
+4	30	Border Guard Day in Ukraine
+4	30	Armed Forces Day in Georgia
+4	30	Teachers' Day in Paraguay
+4	30	Rincon Day on Bonaire
+4	30	King's Birthday in Sweden
+4	30	National Persian Gulf Day in Iran
+4	30	Consumer Protection Day in Thailand
+4	30	Martyrs Day in Pakistan
+4	30	Camarón Day
+4	30	National Oatmeal Cookie Day
+4	30	Walpurgis Night
+4	30	International Jazz Day
+4	30	Honesty Day
+4	30	Children's Day in Mexico
+5	1	International Workers’ Day (Labor Day)
+5	1	Kazakhstan People's Unity Day
+5	1	May Day
+5	1	Day of Convocation of the Constitutional Assembly in Latvia
+5	1	Constitution Day in the Marshall Islands
+5	1	Feast of Saint Joseph the Worker
+5	1	International Sunflower Guerrilla Gardening Day
+5	1	Lei Day in Hawaii
+5	1	Loyalty Day in the USA
+5	1	Law Day in the USA
+5	1	Maharashtra Day / Gujarat Day in India
+5	1	National Chocolate Parfait Day
+5	1	Beltane
+5	1	EuroMayDay
+5	2	Birth Anniversary of the Third Druk Gyalpo and Teachers' Day in Bhutan
+5	2	Flag Day in Poland
+5	2	Death anniversary of Zhabdrung in Bhutan
+5	2	Astronomy Day
+5	2	World Naked Gardening Day
+5	2	Teachers' Day in Iran
+5	2	National Education Day in Indonesia
+5	2	Polish Diaspora Day
+5	2	Day of Madrid
+5	2	National Truffle Day
+5	2	Free Comic Book Day in the USA
+5	2	World Tuna Day
+5	3	May 3 National Holiday in Poland
+5	3	Constitution Memorial Day in Japan
+5	3	World Laughter Day
+5	3	Sun Day
+5	3	Turkism Day
+5	3	National Raspberry Popover Day
+5	3	Fiesta de las Cruces
+5	3	World Press Freedom Day
+5	3	Children's Sunday in Tonga
+5	3	Mother's Day
+5	4	Labor Day / May Day Holiday
+5	4	Restoration of Independence Day in Latvia
+5	4	Coronation Day in Thailand
+5	4	Greenery Day in Japan
+5	4	Cassinga Day in Namibia
+5	4	Labour Day in Australia
+5	4	Saint Florian Day
+5	4	International Firefighters' Day
+5	4	Anti-Bullying Day (Pink Shirt Day)
+5	4	Civil Aviation Worker’s Day in Turkmenistan
+5	4	Firefighter’s Day in Poland
+5	4	Bird Day in the USA
+5	4	Youth Day in China / Literary Day in Taiwan
+5	4	Dave Brubeck Day in the United States
+5	4	Remembrance of the Dead in the Netherlands
+5	4	Anniversary of the decease of Milan Rastislav Štefánik in Slovakia
+5	4	National Candied Orange Peel Day
+5	4	Star Wars Day
+5	5	Constitution Day in Kyrgyzstan
+5	5	Liberation Day in the Netherlands
+5	5	Children's Day in South Korea
+5	5	Children’s Day in Japan
+5	5	Patriots' Victory Day in Ethiopia
+5	5	Indian Arrival Day in Guyana
+5	5	Senior Citizen's Day in Palau
+5	5	International Midwives' Day
+5	5	World Asthma Day
+5	5	National Teacher Day in the USA
+5	5	Arbor Day in the Dominican Republic
+5	5	Cinco de Mayo
+5	5	Europe Day in the Council of Europe
+5	5	International Day of the Portuguese Language and Culture (Lusophone Culture Day)
+5	5	Liberation Day in Denmark
+5	5	Martyrs' Day in Albania
+5	5	National Hoagie Day
+5	6	Martyrs' Day in Syria and Lebanon
+5	6	Saint George’s Day in Eastern Christianity
+5	6	Feast of Saint George (al-Khader) in Palestine
+5	6	International No Diet Day
+5	6	Occupation Safety and Health Professional Day in the USA
+5	6	Teachers' Day in Jamaica
+5	6	National Nurses Day in the USA
+5	6	Infantry Day in Ukraine
+5	6	National Crepe Suzette Day
+5	6	Hıdırellez
+5	7	Defender of the Fatherland Day in Kazakhstan
+5	7	Vesak (Buddha's Day)
+5	7	Radio Day
+5	7	Lithuanian Press Restoration, Language and Book Day
+5	7	National Day of Prayer in the USA
+5	7	Dien Bien Phu Victory Day in Vietnam
+5	7	National Roast Leg of Lamb Day
+5	7	UN Day of Vesak
+5	7	National Day of Reason in the USA
+5	8	Victory in Europe Day
+5	8	General Prayer Day in Denmark
+5	8	World Red Cross and Red Crescent Day
+5	8	National Public Gardens Day
+5	8	Veterans' Day in Norway
+5	8	Miguel Hidalgo's Birthday in Mexico
+5	8	Day of Remembrance and Reconciliation in Ukraine
+5	8	Rabindranath Tagore’s Birthday in West Bengal
+5	8	National Coconut Cream Pie Day
+5	8	Time of Remembrance and Reconciliation for Those Who Lost Their Lives during the Second World War
+5	8	Military Spouse Appreciation Day in the USA
+5	8	Parents' Day in South Korea
+5	8	Emancipation Day in the USA
+5	8	Women’s Historic Night in Norway
+5	9	Victory Day
+5	9	Liberation Day in Jersey
+5	9	Liberation Day on Guernsey
+5	9	World Fair Trade Day
+5	9	National Forest Planting Day in Russia
+5	9	World Migratory Bird Day
+5	9	National Tree Planting Day in Mongolia
+5	9	Europe Day in the European Union
+5	9	National Mills Weekend in the UK
+5	9	National Mills Day in the Netherlands
+5	9	Battle of Heligoland Day in Denmark
+5	9	National Moscato Day
+5	9	National Cycling Day in the Netherlands
+5	9	Time of Remembrance and Reconciliation for Those Who Lost Their Lives during the Second World War
+5	10	State Flag and State Emblem Day in Belarus
+5	10	Constitution Day in Micronesia
+5	10	Royal Ploughing Ceremony in Cambodia
+5	10	Nuzul Al-Qur’an
+5	10	National Mills Weekend in the UK
+5	10	Book Day in Germany
+5	10	Independence Day in Romania
+5	10	Confederate Memorial Day in the United States
+5	10	National Shrimp Day
+5	10	Flower Festival in Azerbaijan
+5	10	Mother's Day
+5	10	Mother's Day in El Salvador, Guatemala and Mexico
+5	10	Father's Day in Romania
+5	10	Children's Day in the Maldives
+5	11	Royal Ploughing Ceremony in Thailand
+5	11	Mother's Day in Samoa and Tokelau
+5	11	Gospel Day in Tuvalu
+5	11	Military Police Day in Indonesia
+5	11	Vietnam Human Rights Day
+5	11	National Eat What You Want Day
+5	11	National Twilight Zone Day in the USA
+5	11	National Technology Day in India
+5	12	Saint Andrew the First-Called Day in Georgia
+5	12	Lag Ba'Omer
+5	12	International Nurses Day
+5	12	Environmental Education Day in Russia
+5	12	Day of the Finnish Identity
+5	12	Army Day in the Republika Srpska
+5	12	National Nutty Fudge Day
+5	12	National Denim Day in Canada
+5	12	Chronic Fatigue Syndrome Awareness Day
+5	13	King Norodom Shiamoni's Birthday in Cambodia
+5	13	Pretos Velhos Festival in Brazil
+5	13	Black Sea Fleet Day in Russia
+5	13	Rotuma Day in Fiji
+5	13	International Hummus Day
+5	13	National Apple Pie Day
+5	14	National Unification Day in Liberia
+5	14	Kamuzu Day in Malawi
+5	14	Independence Day in Paraguay
+5	14	King Norodom Shiamoni's Birthday in Cambodia
+5	14	Martyrdom of Imam Ali in Iran
+5	14	Feast of Saint Tamar in Georgia
+5	14	Engineer's Day in Chile
+5	14	Thai Buffalo Conservation Day
+5	14	Tobacco Fatwa Day in Iran
+5	14	National Buttermilk Biscuit Day
+5	15	Independence Day in Paraguay
+5	15	King Norodom Shiamoni's Birthday in Cambodia
+5	15	Feast of Saint Isidore in Madrid
+5	15	Teachers' Day in Colombia
+5	15	National Defense Transportation Day in the USA
+5	15	Teachers' Day in South Korea
+5	15	Teachers' Day in Mexico
+5	15	Armed Forces Day in Slovenia
+5	15	Konstantineoba
+5	15	Persian Language Day in Iran
+5	15	Constituent Assembly Day in Lithuania
+5	15	Peace Officers Memorial Day in the USA
+5	15	International Day of Conscientious Objector
+5	15	Nakba Day in the State of Palestine
+5	15	National Chocolate Chip Day
+5	15	International Day of Families
+5	15	Mother's Day in Paraguay
+5	16	SPLA Day in South Sudan
+5	16	Culture Freedom Day
+5	16	Biographer's Day
+5	16	Science Day in Ukraine
+5	16	Armed Forces Day in the USA
+5	16	Teachers' Day in Malaysia
+5	16	Border Guard Day in Poland
+5	16	Europe Day in Ukraine
+5	16	Mass Graves Day in Iraq
+5	16	World Whisky Day
+5	16	National Coquilles St. Jacques Day
+5	16	International Day of Living Together in Peace
+5	16	International Day of Light
+5	16	Neighbor Day in Kyiv
+5	17	Constitution Day in Norway
+5	17	Liberation Day in DR Congo
+5	17	Constitution Day in Nauru
+5	17	International Day Against Homophobia, Transphobia and Biphobia
+5	17	International AIDS Candlelight Memorial
+5	17	World Hypertension Day
+5	17	Navy Day in Argentina
+5	17	Firefighters’ Day in Latvia
+5	17	Galician Literature Day
+5	17	Day of Remembrance for the Victims of Political Repressions in Ukraine
+5	17	Memorial Day for the War Dead in Finland
+5	17	National Cherry Cobbler Day
+5	17	World Telecommunication and Information Society Day
+5	17	Mother's Day in Kyrgyzstan
+5	17	Father's Day in Tonga
+5	17	Children’s Day in Norway
+5	18	Victoria Day in Canada
+5	18	Constitution and Flag Day in Turkmenistan
+5	18	Battle of Las Piedras Day in Uruguay
+5	18	Flag and Universities Day in Haiti
+5	18	Discovery Day in the Cayman Islands
+5	18	International Museum Day
+5	18	World AIDS Vaccine Day
+5	18	Baltic Fleet Day in Russia
+5	18	Reservist Day in Ukraine
+5	18	Somaliland Independence Day
+5	18	Mullivaikkal Remembrance Day in Sri Lanka
+5	18	National Cheese Soufflé Day
+5	19	Commemoration of Atatürk, Youth and Sports Day in Turkey
+5	19	Hồ Chí Minh's Birthday in Vietnam
+5	19	Greek Genocide Remembrance Day
+5	19	Remembrance Day in Sri Lanka
+5	19	Malcolm X Day
+5	19	Praia Day in Capo Verde
+5	19	National Devil's Food Cake Day
+5	19	Hepatitis Testing Day in the USA
+5	19	National Asian & Pacific Islander HIV/AIDS Awareness Day
+5	20	National Day in Cameroon
+5	20	Day of Remembrance in Cambodia
+5	20	Independence Restoration Day in East Timor
+5	20	Laylat al-Qadr
+5	20	World Metrology Day
+5	20	Day of Bank Employees in Ukraine
+5	20	Sign Language Interpreter Day in Ukraine
+5	20	Indonesian Doctor Day
+5	20	European Maritime Day
+5	20	Volga Day in Russia
+5	20	National Awakening Day in Indonesia
+5	20	National Quiche Lorraine Day
+5	20	World Bee Day
+5	20	Emancipation Day in the USA
+5	20	Josephine Baker Day in the USA
+5	21	Navy Day in Chile
+5	21	Independence Day in Montenegro
+5	21	Saint Helena Day
+5	21	Ascension Day in Western Christianity
+5	21	Feast of the Ascension in Armenia
+5	21	Day of Culture and Art Workers in Kazakhstan
+5	21	Polar Explorer's Day in Russia
+5	21	Afro-Colombian Day in Colombia
+5	21	Vyshyvanka Day in Ukraine
+5	21	Day of Patriots and Military in Hungary
+5	21	Circassian Day of Mourning
+5	21	National Strawberries and Cream Day
+5	21	Nestinarstvo / Anastenaria
+5	21	International Tea Day
+5	21	International Day for Cultural Diversity for Dialogue and Development
+5	21	Anti-Terrorism Day in India
+5	21	Father's Day in Germany
+5	22	Yom Yerushalaim (Jerusalem Day)
+5	22	Abolition Day in Martinique
+5	22	Unity Day in Yemen
+5	22	National Maritime Day in the USA
+5	22	Arbor Day in Guatemala and Ecuador
+5	22	Republic Day in Sri Lanka
+5	22	National Vanilla Pudding Day
+5	22	Nestinarstvo / Anastenaria
+5	22	International Day for Biological Diversity
+5	22	Quds Day
+5	22	Harvey Milk Day in the USA
+5	22	Walk Safely to School Day in Australia
+5	22	World Goth Day
+5	23	Labor Day in Jamaica
+5	23	Day of the Ministry of Environment and Natural Resources
+5	23	Students Day in Mexico
+5	23	World Turtle Day
+5	23	Heroes’ Day in Ukraine
+5	23	National Taffy Day
+5	23	Nestinarstvo / Anastenaria
+5	23	International Day of End Obstetric Fistula
+5	23	Youth Day in Tajikistan
+5	24	Saint Cyril and Methodius Day in the Eastern Orthodox Church
+5	24	Bermuda Day in Bermuda
+5	24	Battle of Pichincha Day in Ecuador
+5	24	Independence Day in Eritrea
+5	24	Commonwealth Day in Belize
+5	24	Eid al-Fitr
+5	24	European Day of Parks
+5	24	Lubiri Memorial Day in Buganda
+5	24	National Escargot Day
+5	24	Pansexual Visibility Day
+5	25	Africa Day / African Liberation Day
+5	25	National Heroes Day in the Turks and Caicos Islands
+5	25	National Memorial Day in the USA
+5	25	Independence Day in Jordan
+5	25	Liberation Day in Lebanon
+5	25	Day of the First National Government in Argentina
+5	25	World Thyroid Day
+5	25	International Missing Children's Day
+5	25	Bike Day in Canada
+5	25	National Tap Dance Day in the USA
+5	25	Clown Day in Peru
+5	25	National Missing Children's Day in the USA
+5	25	Chuquisaca Day in Bolivia
+5	25	National Wine Day
+5	25	Geek Pride Day
+5	25	Towel Day
+5	25	Glorious Twenty-Fifth of May
+5	26	Independence Day in Georgia
+5	26	Independence Day in Guyana
+5	26	Russian Entrepreneurship Day
+5	26	Battle of Sardarabad Day in Armenia
+5	26	National Sorry Day in Australia
+5	26	Birthday of Frederik, Crown Prince of Denmark
+5	26	Martyrdom Day of Guru Arjan
+5	26	National Paper Airplane Day in the USA
+5	26	National Blueberry Cheesecake Day
+5	26	Mother's Day in Poland
+5	27	Children's Day in Nigeria
+5	27	Armed Forces Day in Nicaragua
+5	27	Slavery Abolition Day
+5	27	World Multiple Sclerosis Day
+5	27	Local Government Day in Poland
+5	27	Libraries Day
+5	27	National Grape Popsicle Day
+5	27	Mother's Day in Bolivia
+5	28	Republic Day in Azerbaijan
+5	28	First Republic Day in Armenia
+5	28	Derg Downfall Day in Ethiopia
+5	28	Republic Day in Nepal
+5	28	Ascension Day in Eastern Christianity
+5	28	International Day of Action for Women's Health
+5	28	Border Guard Day
+5	28	Armed Forces Day in Croatia
+5	28	National Flag Day in the Philippines
+5	28	Youm-e-Takbir
+5	28	National Brisket Day
+5	28	Take a Girl Child to Work Day in South Africa
+5	28	Menstrual Hygiene Day
+5	29	Shavuot
+5	29	World Digestive Health Day
+5	29	Armed Forces Day in Kyrgyzstan
+5	29	Day of Internal Affairs Officers in Turkmenistan
+5	29	Argentine Army Day
+5	29	Veteran of Overseas Military Service Day in Poland
+5	29	Conquest of Istanbul Day
+5	29	Veterans Day in Sweden
+5	29	National Coq Au Vin Day
+5	29	Oak Apple Day in the UK
+5	29	International Day of United Nations Peacekeepers
+5	29	European Neighbors' Day
+5	29	National Elderly Day in Indonesia
+5	30	Parliament Day in Croatia
+5	30	Anguilla Day
+5	30	Mother's Day in Nicaragua
+5	30	Indian Arrival Day in Trinidad and Tobago
+5	30	Armed Forces Day in Spain
+5	30	Publishing, Printing and Book Distribution Workers' Day in Ukraine
+5	30	Arbor Day in Honduras
+5	30	National Potato Day in Peru
+5	30	Lod Massacre Remembrance Day in Puerto Rico
+5	30	Confederate Memorial Day in the United States
+5	30	Day of the Canary Islands
+5	30	King Prajadhipok Day in Thailand
+5	30	National Mint Julep Day
+5	30	Foster Care Day in Poland
+5	31	Turkmen Carpet Day in Turkmenistan
+5	31	Royal Brunei Armed Forces Day in Brunei
+5	31	Pentecost in Western Christianity and Armenia
+5	31	Chemical Industry Workers' Day
+5	31	National Arbor Day in Venezuela
+5	31	Gawai Dayak in Sarawak
+5	31	Remembrance Day of the Victims of Political Repressions and Famine in Kazakhstan
+5	31	National Macaroon Day
+5	31	World No Tobacco Day
+5	31	Mother's Day
+5	31	Children's day in Hungary
+6	1	Queen's Official Birthday in New Zealand, Niue and the Cook Islands
+6	1	Madaraka Day in Kenya
+6	1	President's Day in Palau
+6	1	Independence Day in Samoa
+6	1	Youth Day in Cape Verde
+6	1	Whit Monday in Western Christianity
+6	1	World Milk Day
+6	1	National Maritime Day in Mexico
+6	1	Gawai Dayak in Sarawak
+6	1	Victory Day in Tunisia
+6	1	Pancasila Day in Indonesia
+6	1	Western Australia Day
+6	1	National Hazelnut Cake Day
+6	1	Global Day of Parents
+6	1	International Day for Protection of Children
+6	1	Day Without Alcohol in Poland
+6	2	Republic Day in Italy
+6	2	Coronation Day of Fourth Druk Gyalpo in Bhutan
+6	2	Civil Aviation Day in Azerbaijan
+6	2	International Sex Workers Day
+6	2	Day of Hristo Botev in Bulgaria
+6	2	Decoration Day in Canada
+6	2	National Rocky Road Day
+6	3	Martyrs' Day in Uganda
+6	3	Queen Suthida Bajrasudhabimalalakshana’s Birthday in Thailand
+6	3	World Clubfoot Day
+6	3	Mabo Day in Australia
+6	3	Opium Suppression Movement Day in Taiwan
+6	3	Independence Declaration Day in Montenegro
+6	3	Confederate Memorial Day in the United States
+6	3	National Egg Day
+6	3	World Bicycle Day
+6	4	Emancipation Day in Tonga
+6	4	Anniversary of Khomeini's Death in Iran
+6	4	Banker Day in Moldova
+6	4	Day of State Symbols in Kazakhstan
+6	4	Flag Day in Estonia
+6	4	Birthday of Carl Gustaf Emil Mannerheim in Finland
+6	4	National Unity Day in Hungary
+6	4	Tiananmen Square Protests of 1989 Memorial Day
+6	4	Freedom and Civil Rights Day in Poland
+6	4	National Cheese Day
+6	4	Hug Your Cat Day
+6	4	International Day of Innocent Children Victims of Aggression
+6	5	Constitution Day in Denmark
+6	5	President's Day in Equatorial Guinea
+6	5	Khordad Movement Anniversary in Iran
+6	5	Labor Day (Randolf Fawkes Day) in the Bahamas
+6	5	Senior TT Race in the Isle of Man
+6	5	Parinirvana Day in Bhutan / Buddha Day in Mongolia
+6	5	World Day Against Speciesism
+6	5	Ecologist's Day in Russia
+6	5	Ameliorator's Day in Azerbaijan
+6	5	Ecologist's Day in Kazakhstan
+6	5	Environment Protection Day in Belarus
+6	5	Arbor Day in New Zealand
+6	5	Kabir’s Birthday (Kabir Jayanti) in India
+6	5	Indian Arrival Day in Suriname
+6	5	National Doughnut Day in the USA
+6	5	National Gingerbread Day
+6	5	World Environment Day
+6	5	International Day for the Fight Against Illegal, Unreported and Unregulated Fishing
+6	5	Father's Day in Denmark
+6	6	National Day of Sweden
+6	6	Memorial Day in South Korea
+6	6	Birthday of the Yang di-Pertuan Agong in Malaysia
+6	6	Korean Children’s Union Foundation Day
+6	6	World Pest Day
+6	6	Journalist Day in Ukraine
+6	6	Teachers' Day in Bolivia
+6	6	Engineering Day in Argentina
+6	6	Engineer’s Day in Taiwan
+6	6	UN Russian Language Day
+6	6	D-Day in France: Normandy Landing of the Allied Expeditionary Forces
+6	6	National Applesauce Cake Day
+6	7	Father's Day in Lithuania
+6	7	Sette Guigno in Malta
+6	7	Pentecost in Eastern Christianity
+6	7	Trinity Sunday in Western Christianity
+6	7	Teachers' Day in Hungary
+6	7	Financial and Economic Sector Workers Day in Kyrgyzstan
+6	7	Textile Industry Workers' Day in Turkmenistan
+6	7	Canadian Forces Day
+6	7	Journalist Day in Argentina
+6	7	Croatian Diplomacy Day
+6	7	Seamen’s Day in Iceland
+6	7	Coastal Cleanup Day in Russia
+6	7	Union Dissolution Day in Norway
+6	7	Birthday of Prince Joachim of Denmark
+6	7	Anniversary of the Memorandum of the Slovak Nation
+6	7	Flag Day in Peru
+6	7	Battle of Arica Day in Chile
+6	7	National Chocolate Ice Cream Day
+6	7	World Food Safety Day
+6	7	National Cancer Survivors Day
+6	7	Father's Day in Switzerland
+6	8	Bounty Day in Norfolk Island
+6	8	Queen's Official Birthday in Australia and Papua New Guinea
+6	8	Orthodox Whit Monday
+6	8	World Brain Tumor Day
+6	8	Social Worker's Day in Russia
+6	8	Engineer's Day in Peru
+6	8	Primož Trubar Day in Slovenia
+6	8	Sheikh Zayed bin Sultan Al Nahyan’s Accession Day in the UAE
+6	8	National Jelly-Filled Doughnut Day
+6	8	National Best Friend Day
+6	8	World Oceans Day
+6	8	National Caribbean American HIV/AIDS Awareness Day
+6	9	National Heroes' Day in Uganda
+6	9	Autonomy Day in the Åland Islands
+6	9	Anniversary of the Ascension of King Abdullah II in Jordan
+6	9	International Archives Day
+6	9	World Accreditation Day
+6	9	Coral Triangle Day
+6	9	South American Football Day
+6	9	Ananda Mahidol Day in Thailand
+6	9	National Strawberry Rhubarb Pie Day
+6	10	Portugal Day
+6	10	Abolition Day in French Guiana
+6	10	Reconciliation Day in the Republic of the Congo
+6	10	World Art Nouveau Day
+6	10	International Heraldry Day
+6	10	Army Day in Jordan
+6	10	Navy Day in Italy
+6	10	National Iced Tea Day
+6	10	National Children Day in Haiti
+6	11	Corpus Christi
+6	11	Brazilian Navy Commemoration Day
+6	11	Students’ Day in Honduras
+6	11	Kamehameha Day in Hawaii
+6	11	Birthday of Henrik, Prince Consort of Denmark
+6	11	William Davis Miners' Memorial Day
+6	11	National German Chocolate Cake Day
+6	11	Multiple Sclerosis Day in Russia
+6	12	Russia Day
+6	12	Democracy Day in Nigeria
+6	12	Chaco Armistice Day in Paraguay
+6	12	Independence Day in the Philippines
+6	12	International Shia Day
+6	12	Science Day in Turkmenistan
+6	12	State Protection Service Day in Poland
+6	12	Pulse Night of Remembrance
+6	12	National Peanut Butter Cookie Day
+6	12	Lovers' Day in Brazil
+6	12	World Day Against Child Labor
+6	12	Helsinki Day in Finland
+6	12	Loving Day in the USA
+6	13	Queen's Official Birthday in Tuvalu
+6	13	Queen's Official Birthday in the United Kingdom
+6	13	Anthony of Padua Feast Day
+6	13	Military Gendarmerie Day in Poland
+6	13	Hungarian Inventors’ Day
+6	13	Sulaymaniyah City Fallen and Martyrs Day in Iraqi Kurdistan
+6	13	World Wide Knit in Public Day
+6	13	National Kitchen Klutzes of America Day
+6	13	Sewing Machine Day
+6	13	International Albinism Awareness Day
+6	14	Liberation Day in the Falkland Islands
+6	14	Feast of the Cathedral of Holy Etchmiadzin
+6	14	Light Industry Workers Day
+6	14	Canadian Rivers Day
+6	14	Flag Day in the USA
+6	14	Memorial Day for the Victims of Repression in Armenia
+6	14	Day of Mourning in the Baltic Countries
+6	14	National Day of Remembrance for the Victims of the Nazi German Concentration and Death Camps
+6	14	U.S. Army’s Birthday
+6	14	National Strawberry Shortcakes Day
+6	14	International Weblogger’s Day
+6	14	World Blood Donor Day
+6	14	Honor America Days
+6	14	Father's Day in Austria and Belgium
+6	14	Mother's Day in Luxembourg
+6	15	National Salvation Day in Azerbaijan
+6	15	Queen's Official Birthday in British Overseas Territories and the Norfolk Island
+6	15	National Heroes Day in Bermuda
+6	15	Fire Service Workers' Day in Kyrgyzstan
+6	15	Arbor Day in Costa Rica
+6	15	Global Wind Day
+6	15	National Flag Day in Armenia
+6	15	Day of Valdemar and Reunion Day in Denmark
+6	15	Beer Day Britain in the UK
+6	15	National Lobster Day
+6	15	World Elder Abuse Awareness Day
+6	15	Honor America Days
+6	15	Ride to Work Day
+6	16	Youth Day in South Africa
+6	16	International Day of the African Child
+6	16	Engineer's Day in Argentina
+6	16	Bloomsday in Ireland
+6	16	National Fudge Day
+6	16	International Day of Family Remittances
+6	16	Honor America Days
+6	17	National Day in Iceland
+6	17	Martyrdom of Imam Ja'far al-Sadiq in Iran
+6	17	Anniversary of the Death of General Martín Miguel de Güemes in Argentina
+6	17	Occupation of the Latvian Republic Day in Latvia
+6	17	National Apple Strudel Day
+6	17	World Day to Combat Desertification and Drought
+6	17	Honor America Days
+6	17	Father's Day in El Salvador and Guatemala
+6	18	Queen Mother's Birthday in Cambodia
+6	18	Constitution Day in Seychelles
+6	18	Historian's Day in Moldova
+6	18	Police Inspector's Day in Ukraine
+6	18	Justice Institution Employees Day in Turkmenistan
+6	18	Waterloo Day in the UK
+6	18	Evacuation Day in Egypt
+6	18	International Sushi Day
+6	18	National Cherry Tart Day
+6	18	Sustainable Gastronomy Day
+6	18	Honor America Days
+6	18	Human Rights Day in Azerbaijan
+6	18	Autistic Pride Day
+6	19	Labor Day in Trinidad and Tobago
+6	19	Birthday of José Artigas and Never Again Day in Uruguay
+6	19	World Sickle Cell Day
+6	19	Farmer’s Day in Ukraine
+6	19	Arbor Day in Paraguay
+6	19	Kim Jong-il's entry to the WPK Central Committee in North Korea
+6	19	Day of Independent Hungary
+6	19	National Kissing Day in the UK
+6	19	National Martini Day
+6	19	World Sauntering Day
+6	19	International Day for the Elimination of Sexual Violence in Conflict
+6	19	Honor America Days
+6	19	Emancipation Day in the USA
+6	20	Midsummer Day in Finland and Sweden
+6	20	National Flag Day in Argentina
+6	20	Martyrs' Day in Eritrea
+6	20	Gas Sector Day in Azerbaijan
+6	20	Arbor Day in Australia
+6	20	Day of the Finnish Flag
+6	20	National Vanilla Milkshake Day
+6	20	World Refugee Day
+6	20	Honor America Days
+6	21	Martyr's Day in Togo
+6	21	National Day in Greenland
+6	21	Andean-Amazonic New Year in Bolivia
+6	21	World Hydrography Day
+6	21	World Music Day
+6	21	Go Skateboarding Day
+6	21	International Surfing Day
+6	21	World Humanist Day
+6	21	International T-Shirt Day
+6	21	Health Worker's Day
+6	21	Aviation Day in Armenia
+6	21	Water Industry Worker's Day in Kyrgyzstan
+6	21	Arbor Day in Cuba
+6	21	National Aboriginal Day in Canada
+6	21	Day of Reflection
+6	21	National Peaches and Cream Day
+6	21	National Selfie Day
+6	21	International Yoga Day
+6	21	International Day of the Celebration of the Solstice
+6	21	Father's Day
+6	21	Honor America Days
+6	21	Father's Day in Arab Countries and Uganda
+6	22	Anti-Fascist Struggle Day in Croatia
+6	22	Teachers' Day in El Salvador
+6	22	National Guild Day in Iran
+6	22	Day of Remembrance of the Victims of the Great Patriotic War
+6	22	Heroes' Remembrance Day in Latvia
+6	22	National Chocolate Éclair Day
+6	22	Honor America Days
+6	23	Victory Day in Estonia
+6	23	Grand Duke's Official Birthday in Luxembourg
+6	23	World Whistleblowers Day
+6	23	Olympic Day
+6	23	Police Day in Kazakhstan
+6	23	Public Employee’s Day
+6	23	Fitness and Sports Day in Armenia
+6	23	National Day of Remembrance for Victims of Terrorism in Canada
+6	23	Jura Independence Day in Switzerland
+6	23	National Pecan Sandy Day
+6	23	St John's Eve
+6	23	United Nations Public Service Day
+6	23	International Widows' Day
+6	23	Honor America Days
+6	23	Father's Day in Poland and Nicaragua
+6	24	Battle of Carabobo Day in Venezuela
+6	24	Nativity of St John the Baptist
+6	24	Inti Raymi in Peru
+6	24	Caboclo Day in Brazil
+6	24	Bannockburn Day in Scotland
+6	24	National Day of Quebec
+6	24	National Pralines Day
+6	24	St John's Day (Midsummer)
+6	24	Honor America Days
+6	25	Dragon Boat Festival
+6	25	Independence Day in Mozambique
+6	25	Statehood Day in Slovenia
+6	25	Statehood Day in Croatia
+6	25	Presentation of the Augsburg Confession
+6	25	World Vitiligo Day
+6	25	Customs Officer’s Day in Ukraine
+6	25	Teachers' Day in Guatemala
+6	25	Arbor Day in the Philippines
+6	25	National Catfish Day in the USA
+6	25	Day of Friendship and Unity of the Slavs
+6	25	Leon Day in the USA
+6	25	National Strawberry Parfait Day
+6	25	Day of the Seafarer
+6	25	Honor America Days
+6	26	Azerbaijani Armed Forces Day
+6	26	Independence Day in Madagascar
+6	26	Dano Festival (Surit-nal) in Korea
+6	26	Independence Day of State of Somaliland
+6	26	Public Prosecutors’ Day in Turkmenistan
+6	26	Arbor Day in Nicaragua
+6	26	National Flag Day in Romania
+6	26	Sunthorn Phu Day in Thailand
+6	26	President’s Birthday in Iceland
+6	26	Crimean Tatar Flag Day
+6	26	National Chocolate Pudding Day
+6	26	Rat Catcher's Day
+6	26	International Day in Support of Victims of Torture
+6	26	International Day Against Drug Abuse and Illicit Trafficking
+6	26	Honor America Days
+6	26	Take Your Dog to Work Day
+6	27	National Unity Day in Tajikistan
+6	27	Independence Day in Djibouti
+6	27	Day of Inventors and Innovators in Russia and Belarus
+6	27	Armed Forces Day in the UK
+6	27	Press and Media Workers Day in Uzbekistan
+6	27	Day of Workers of Culture and Art in Turkmenistan
+6	27	Magtymguly Poetry Day in Turkmenistan
+6	27	Canadian Multiculturalism Day
+6	27	Mixed Race Day in Brazil
+6	27	Commemoration Day for the Victims of the Communist Regime in the Czech Republic
+6	27	Veterans' Day in the Netherlands
+6	27	National HIV Testing Day in the USA
+6	27	Helen Keller Day in the USA
+6	27	National Orange Blossom Day
+6	27	Seven Sleepers Day in Germany
+6	27	Micro-, Small and Medium-sized Enterprises Day
+6	27	National PTSD Awareness Day in the USA
+6	27	Youth Day in Russia
+6	27	Honor America Days
+6	28	Constitution Day in Ukraine
+6	28	Remembrance Day of the Poznań June 1956
+6	28	Vidovdan (St. Vitus Day)
+6	28	Media Workers' Day in Kazakhstan
+6	28	Lawyer's Day in Kyrgyzstan
+6	28	Family Day in Vietnam
+6	28	National Tapioca Day
+6	28	Caps Lock Day
+6	28	Tau Day
+6	28	Youth Day in Ukraine and Belarus
+6	28	Honor America Days
+6	28	Father's Day in Haiti
+6	29	Independence Day in Seychelles
+6	29	Autonomy Day in French Polynesia
+6	29	Feast of Saints Peter and Paul in Western Christianity
+6	29	Shipbuilders’ Day in Russia
+6	29	National Sports Day in Fiji
+6	29	Day of Partisans and Underground Resistance in Russia
+6	29	MIA Azatamartik Remembrance Day in Armenia
+6	29	National Almond Buttercrunch Day
+6	29	International Day of the Tropics
+6	29	Honor America Days
+6	30	Army Day in Guatemala
+6	30	Revolution Day in Sudan
+6	30	Independence Day in DR Congo
+6	30	General Prayer Day in the Central African Republic
+6	30	Birth Anniversary of Guru Rinpoche in Bhutan
+6	30	June 30 Anniversary in Egypt
+6	30	Economist's Day in Belarus
+6	30	Teachers' Day in the Dominican Republic
+6	30	Philippine-Spanish Friendship Day in the Philippines
+6	30	Asteroid Day
+6	30	International Day of Parliamentarism
+6	30	Honor America Days
+7	1	Canada Day
+7	1	Communist Party of China Founding Day
+7	1	Independence Day in Rwanda
+7	1	Independence Day in Burundi
+7	1	Republic Day in Ghana
+7	1	Emancipation Day in Suriname
+7	1	Republic Day in Somalia
+7	1	Territory Day in the British Virgin Islands
+7	1	Sir Seretse Khama Day in Botswana
+7	1	Hong Kong Special Administrative Region Establishment Day
+7	1	Emancipation Day in Sint Maarten
+7	1	Doctor's Day in India
+7	1	Emancipation Day on Sint Eustatius
+7	1	RONPhos Handover Day in Nauru
+7	1	Architecture Day in Ukraine
+7	1	Engineer's Day in Mexico
+7	1	Tax Service Worker's Day in Kyrgyzstan
+7	1	Armed Forces Day in Singapore
+7	1	Day of Civil Servants and Government Officials in Hungary
+7	1	National Festival of Tree Planting (Van Mahotsav) in India
+7	1	Tartan Day in Australia and New Zealand
+7	1	July Morning in Bulgaria
+7	1	National Gingersnap Day
+7	1	Honor America Days
+7	2	National Flag and Anthem Day in Curaçao
+7	2	World Sports Journalists Day
+7	2	World UFO Day
+7	2	Day of the Diplomatic Service in Kazakhstan
+7	2	Police Day in Azerbaijan
+7	2	Tax Service Employee’s Day in Ukraine
+7	2	National Festival of Tree Planting (Van Mahotsav) in India
+7	2	National Anisette Day
+7	2	Honor America Days
+7	3	Independence Day in Belarus
+7	3	Emancipation Day in the US Virgin Islands
+7	3	Fishermen's Day in the Marshall Islands
+7	3	Plastic Bag Free Day
+7	3	Traffic Patrol Day in Russia
+7	3	National Festival of Tree Planting (Van Mahotsav) in India
+7	3	National Eat Beans Day
+7	3	Honor America Days
+7	3	Myanmar Women’s Day
+7	4	Independence Day in the USA
+7	4	Liberation Day in Rwanda
+7	4	Birthday of King Tupou VI in Tonga
+7	4	Forensic Expert Day in Ukraine
+7	4	National Police Day in Ukraine
+7	4	Dnieper Day
+7	4	National Festival of Tree Planting (Van Mahotsav) in India
+7	4	National Tom Sawyer Days
+7	4	Day of Remembrance of Jewish Genocide in Latvia
+7	4	Birthday of Queen Sonja of Norway
+7	4	Filipino-American Friendship Day
+7	4	National Barbecued Spareribs Day
+7	4	International Day of Cooperatives
+7	4	Honor America Days
+7	5	Saints Cyril and Methodius Day in the Czech Republic and Slovakia
+7	5	Constitution Day in Armenia
+7	5	Independence Day in Algeria
+7	5	Independence Day in Cape Verde
+7	5	Tynwald Day in the Isle of Man
+7	5	Independence Day and National Armed Forces Day in Venezuela
+7	5	Asalha Puja
+7	5	Day of Water Transport Workers in Russia and Belarus
+7	5	Navy Day | Sea and River Fleet Day in Ukraine
+7	5	Medical Worker Day in Kyrgyzstan
+7	5	Judicial Employees Day in Turkmenistan
+7	5	National Festival of Tree Planting (Van Mahotsav) in India
+7	5	National Apple Turnover Day
+7	5	Youth Day in Singapore
+7	6	Day of the Capital in Kazakhstan
+7	6	Statehood Day in Lithuania
+7	6	Jan Hus Day in the Czech Republic
+7	6	Constitution Day in the Cayman Islands
+7	6	CARICOM Day in Guyana
+7	6	Heroes' Day in Zambia
+7	6	Independence Day in the Comoros
+7	6	Ra o te Ui Ariki in the Cook Islands
+7	6	Independence Day in Malawi
+7	6	Beginning of Vassa (Buddhist Lent)
+7	6	Dalai Lama’s Birthday
+7	6	Teachers' Day in Peru
+7	6	Arbor Day in Chile
+7	6	National Festival of Tree Planting (Van Mahotsav) in India
+7	6	Birthday of Eino Leino in Finland
+7	6	Birthday of the First President of Kazakhstan
+7	6	Battle of Fredericia Day in Denmark
+7	6	National Fried Chicken Day
+7	6	World Kissing Day
+7	6	Mother's Day in South Sudan
+7	7	Unity Day in Zambia
+7	7	Independence Day in Solomon Islands
+7	7	Saba Saba Day in Tanzania
+7	7	National Festival of Tree Planting (Van Mahotsav) in India
+7	7	Tanabata Festival in Japan
+7	7	Battle of Chesma Day in Russia
+7	7	World Chocolate Day
+7	7	National Strawberry Sundae Day
+7	7	Ivan Kupala Day
+7	8	Sunniva Feast Day
+7	8	Family, Love and Faith Day in Russia
+7	8	Family Day in Ukraine
+7	8	National Milk Chocolate with Almonds Day
+7	9	Independence Day in Argentina
+7	9	Independence Day in South Sudan
+7	9	Constitution Day in Palau
+7	9	Gospel Day in Kiribati
+7	9	Seventeenth of Tammuz
+7	9	Diplomatic Service Agency Worker's Day in Azerbaijan
+7	9	Water Resource Management Employees Day
+7	9	Arbor Day in Cambodia
+7	9	National Tree Day in Mexico
+7	9	National Children’s Literature Day in Iran
+7	9	Constitution Day in Australia
+7	9	Nunavut Day in Canada
+7	9	National Sugar Cookie Day
+7	10	Independence Day in the Bahamas
+7	10	National Culture Day in Kiribati
+7	10	Senior Citizens' Day in Kiribati
+7	10	Armed Forces Day in Mauritania
+7	10	Battle of Poltava Day in Russia
+7	10	National Piña Colada Day
+7	10	Nikola Tesla Day
+7	10	Natto Day in Japan
+7	11	Naadam Festival in Mongolia
+7	11	Sea and Fishermen's Festival in Latvia
+7	11	Bandoneon Day
+7	11	Flemish Community Day in Belgium
+7	11	Eleventh Night in Northern Ireland
+7	11	Srebrenica Genocide Memorial Day
+7	11	National Day of Remembrance of Genocide Victims in Poland
+7	11	Penang State Governor’s Birthday in Malaysia
+7	11	National Blueberry Muffin Day
+7	11	World Population Day
+7	11	Maritime Day in China
+7	12	Naadam Festival in Mongolia
+7	12	Independence Day in Kiribati
+7	12	Independence Day in São Tomé and Príncipe
+7	12	Day of the Russian Post
+7	12	Fisherman’s Day in Russia and Ukraine
+7	12	Day of Tax Office Workers in Belarus
+7	12	Hijab and Chastity Day in Iran
+7	12	National Day of Commemoration in Ireland
+7	12	The Twelfth in Northern Ireland
+7	12	National Pecan Pie Day
+7	12	Father's Day in Uruguay
+7	13	Naadam Festival in Mongolia
+7	13	Statehood Day in Montenegro
+7	13	Carnival in Saint Vincent and the Grenadines
+7	13	National Security Committee Day in Kazakhstan
+7	13	Kashmir Martyrs’ Day
+7	13	National French Fries Day
+7	14	Bastille Day in France
+7	14	Republic Day in Iraq
+7	14	Carnival in Saint Vincent and the Grenadines
+7	14	International Non-Binary People’s Day
+7	14	Birthday of Victoria, Crown Princess of Sweden
+7	14	National Grand Marnier Day
+7	14	National Nude Day in the USA
+7	15	Sultan's Birthday in Brunei
+7	15	Democracy and National Unity Day in Turkey
+7	15	Ukrainian Peacekeepers' Day
+7	15	Battle of Grunwald Day
+7	15	National Tapioca Pudding Day
+7	15	National Hot Dog Day in the USA
+7	15	World Youth Skills Day
+7	15	Social Media Giving Day
+7	16	Feast of Out Lady of Mount Carmel in Chile
+7	16	Gergetoba in Georgia
+7	16	International Drag Day
+7	16	Accountant and Auditor Day in Ukraine
+7	16	Engineer’s Day in Honduras
+7	16	Manu'a Cession Day in American Samoa
+7	16	Holocaust Remembrance Day in France
+7	16	La Paz Day in Bolivia
+7	16	National Corn Fritter Day
+7	17	Constitution Day in South Korea
+7	17	King's Birthday in Lesotho
+7	17	World Day of International Justice
+7	17	World Emoji Day
+7	17	Independence Day in Slovakia
+7	17	Raja of Perlis’s Birthday in Malaysia
+7	17	U Tirot Sing Day in Meghalaya
+7	17	National Peach Ice Cream Day
+7	17	International Firgun Day
+7	18	Constitution Day in Uruguay
+7	18	World Listening Day
+7	18	National Caviar Day
+7	18	Nelson Mandela International Day
+7	19	Galla Bayramy (Celebration of the Wheat Harvest) in Turkmenistan
+7	19	Martyrs' Day in Myanmar
+7	19	Sandinista Revolution Day in Nicaragua
+7	19	The Feast of the Transfiguration of Jesus in Armenia (Vardavar)
+7	19	Day of Metallurgist
+7	19	Engineer's Day in Nepal
+7	19	Constitutionalist Revolution Day in São Paulo
+7	19	National Flitch Day
+7	19	National Daiquiri Day
+7	19	National Ice Cream Day
+7	19	Children's Day in Panama
+7	19	Children's Day in Cuba and Venezuela
+7	20	Marine Day in Japan
+7	20	President's Day in Botswana
+7	20	Independence Day in Colombia
+7	20	Lao Women Union’s Day
+7	20	Engineer's Day in Costa Rica
+7	20	National Tree Planting Day in the Central African Republic
+7	20	Friend's Day
+7	20	Lempira Day in Honduras
+7	20	Birthday of Haakon, Crown Prince of Norway
+7	20	National Lollipop Day
+7	20	International Cake Day
+7	20	World Chess Day (International Chess Day)
+7	21	National Day in Belgium
+7	21	Liberation Day in Guam
+7	21	Imamzadeh Glorification Day in Iran
+7	21	Health Care and Medical Industry Worker's Day in Turkmenistan
+7	21	Racial Harmony Day in Singapore
+7	21	National Junk Food Day
+7	22	Birthday of King Sobhuza II in Eswatini (Swaziland)
+7	22	Revolution Day in the Gambia
+7	22	World Brain Day
+7	22	International Boxing Day
+7	22	National Press Day in Azerbaijan
+7	22	National Penuche Fudge Day
+7	22	Rat Catcher's Day
+7	22	Pi Approximation Day
+7	23	Revolution Day in Egypt
+7	23	Renaissance Day in Oman
+7	23	National Remembrance Day in Papua New Guinea
+7	23	National Vanilla Ice Cream Day
+7	23	National Children's Day in Indonesia
+7	24	The First Sermon of Lord Buddha in Bhutan
+7	24	Children's Day in Vanuatu
+7	24	Simón Bolívar Day
+7	24	International Self-Care Day
+7	24	Navy Day in Venezuela
+7	24	Police Day in Poland
+7	24	Guayaquil Day in Ecuador
+7	24	National Tequila Day
+7	25	Constitution Day in Puerto Rico
+7	25	Republic Day in Tunisia
+7	25	Guanacaste Day in Costa Rica
+7	25	National Baha'i Day in Jamaica
+7	25	Nag Panchami
+7	25	Retail Trade Worker's Day in Russia
+7	25	Fire Service Day in Belarus
+7	25	National Dance Day in the USA
+7	25	National Day of Galicia
+7	25	Battle of Isted Day in Denmark
+7	25	National Hot Fudge Sundae Day
+7	26	Day of the National Rebellion in Cuba
+7	26	Independence Day in Liberia
+7	26	Independence Day in the Maldives
+7	26	Reek Sunday in Ireland
+7	26	Navy Day in Russia
+7	26	Retail Employees' Day in Ukraine and Belarus
+7	26	National Intern Day in the United States
+7	26	National Tree Day in Australia
+7	26	International Day for the Conservation of the Mangrove Ecosystem
+7	26	Kargil Victory Day in India
+7	26	Day of National Significance in Barbados
+7	26	National Coffee Milkshake Day
+7	26	Father's Day in the Dominican Republic
+7	26	Parents' Day in the USA
+7	26	National Pisco Day in Peru
+7	27	Victory Day in North Korea
+7	27	Carnival Monday in Saba
+7	27	Remembrance Day in Vietnam
+7	27	Iglesia ni Cristo Day in the Philippines
+7	27	José Celso Barbosa Day in Puerto Rico
+7	27	National Korean War Veterans Armistice Day
+7	27	National Scotch Day
+7	27	National Sleepy Head Day in Finland
+7	28	Independence Day in Peru
+7	28	Anniversary of the Fall of Fascism in San Marino
+7	28	King Maha Vajiralongkorn’s Birthday in Thailand
+7	28	St. Olav’s Eve
+7	28	Day of Baptism of Rus
+7	28	A Day of Commemoration of the Great Upheaval
+7	28	National Milk Chocolate Day
+7	28	World Hepatitis Day
+7	29	Independence Day in Peru
+7	29	Territory Day in Wallis and Futuna
+7	29	Saint Olaf's Day
+7	29	International Tiger Day
+7	29	Special Operations Forces Day in Ukraine
+7	29	National Thai Language Day
+7	29	Mohun Bagan Day in India
+7	29	National Anthem Day in Romania
+7	29	Constitution Day in Moldova
+7	29	National Lasagna Day
+7	30	Day of Arafah
+7	30	Throne Day in Morocco
+7	30	Martyrs' Day in South Sudan
+7	30	Independence Day in Vanuatu
+7	30	Emancipation Day in Bermuda
+7	30	Tisha B'Av
+7	30	Day of the Martyrs of the Revolution in Cuba
+7	30	Sultan of Pahang’s Birthday in Malaysia
+7	30	National Cheesecake Day
+7	30	International Day of Friendship
+7	30	World Day against Trafficking in Persons
+7	30	National Whistleblower Appreciation Day
+7	31	Somers Day in Bermuda
+7	31	Eid al-Adha
+7	31	Feast Day of Ignatius of Loyola
+7	31	World Ranger Day
+7	31	System Administrator Appreciation Day
+7	31	Treasury Day in Poland
+7	31	Schools Tree Day in Australia
+7	31	Warriors' Day in Malaysia
+7	31	Flag Day in Hawaii
+7	31	Martyrdom Day of Shaheed Udham Singh in India
+7	31	National Raspberry Cake Day
+7	31	Harry Potter's Birthday
+7	31	National Avocado Day
+7	31	National Blood Donor Day in Iran
+7	31	National Mutt Day
+8	1	Army Day in China
+8	1	Warsaw Uprising Memorial Day in Poland
+8	1	National Day in Switzerland
+8	1	Emancipation Day
+8	1	Independence Day in Benin
+8	1	Parents' Day in DR Congo
+8	1	Saint Dominic Day in Managua
+8	1	Day of the Rear Services of the Armed Forces in Russia
+8	1	Armed Forces Day in Lebanon
+8	1	Technical Support Worker Day in Russia
+8	1	Day of Azerbaijani Language and Alphabet
+8	1	Thai Women’s Day
+8	1	Pachamama Raymi in Peru and Ecuador
+8	1	Memorial Day for the Victims of World War I in Russia
+8	1	Minden Day
+8	1	Victory Day in Laos and Cambodia
+8	1	Yorkshire Day in England
+8	1	Food Day Canada
+8	1	National Raspberry Cream Pie Day
+8	1	National Mustard Day
+8	1	National Girlfriends Day
+8	1	Lughnasadh
+8	1	World Scout Scarf Day
+8	2	Our Lady of the Angels Day in Costa Rica
+8	2	Republic Day (Ilinden) in North Macedonia
+8	2	Airborne Forces Day
+8	2	Railroad Workers' Day in Russia, Belarus and Kyrgyzstan
+8	2	Air Force Day in Ukraine
+8	2	Transport Workers' Day in Kazakhstan
+8	2	Day of Azerbaijani Cinema
+8	2	Aviation Day in Slovenia
+8	2	Genocide Remembrance Day of the Roma and Sinti in Poland
+8	2	Fallen Paratroopers Remembrance Day in Ukraine
+8	2	National Ice Cream Sandwich Day
+8	2	Friendship Day
+8	3	Civic Holiday in Canada
+8	3	Labor Day in Samoa
+8	3	Freedom Day in Equatorial Guinea
+8	3	Anniversary of the Killing of Pidjiguiti in Guinea-Bissau
+8	3	Independence Day in Niger
+8	3	Flag Day in Venezuela
+8	3	Emancipation Day (August Monday)
+8	3	Farmers' Day in Zambia
+8	3	National Childrens' Day in Tuvalu
+8	3	Youth Day in Kiribati
+8	3	Commerce Day in Iceland
+8	3	Raksha Bandhan (Rakhi Purnima)
+8	3	Arbor Day in Niger
+8	3	San Salvador Day
+8	3	National Watermelon Day
+8	4	Constitution Day in the Cook Islands
+8	4	Carnival Tuesday
+8	4	Founders Day in Ghana
+8	4	Coast Guard Day
+8	4	National Guard Day in Venezuela
+8	4	Matica Slovenská Day in Slovakia
+8	4	Revolution Day in Burkina Faso
+8	4	National Chocolate Chip Day
+8	4	National Night Out in the USA
+8	5	Victory and Homeland Thanksgiving Day in Croatia
+8	5	Independence Day in Burkina Faso
+8	5	Tu b'Av
+8	5	Our Lady of Africa Day in Ceuta
+8	5	Financial Investigation Authorities Foundation Anniversary in Belarus
+8	5	Islamic Human Rights Day in Iran
+8	5	National Underwear Day
+8	5	National Oyster Day
+8	6	Independence Day in Bolivia
+8	6	Independence Day in Jamaica
+8	6	August Thursday in Anguilla
+8	6	August Festival in El Salvador
+8	6	Feast of the Transfiguration of Jesus in Western Christianity
+8	6	Hiroshima Peace Memorial Ceremony
+8	6	Constitution Day in Iran
+8	6	National Root Beer Float Day
+8	7	Battle of Boyacá Day in Colombia
+8	7	Independence Day in Ivory Coast
+8	7	Constitution Day in Anguilla
+8	7	Umuganura (Harvest Thanksgiving) in Rwanda
+8	7	International Beer Day
+8	7	Aged Care Employee Day in Australia
+8	7	Assyrian Martyrs Day
+8	7	National Purple Heart Day in the United States
+8	7	National Raspberries N' Cream Day
+8	8	Farmer's Day in Tanzania
+8	8	Eid al-Ghadeer
+8	8	Signal Troops Day in Ukraine
+8	8	Ophthalmologist Day
+8	8	National Reporter’s Day in Iran
+8	8	Augsburg Peace Festival in Germany
+8	8	Name Day of Queen Silvia
+8	8	Ceasefire Day in Iraq
+8	8	National Frozen Custard Day
+8	8	Emancipation Day in the USA
+8	8	Father's Day in Taiwan
+8	8	International Cat Day
+8	8	Happiness Happens Day
+8	9	National Day of Singapore
+8	9	National Women's Day in South Africa
+8	9	Indigenous People's Day in Suriname
+8	9	Builders' Day
+8	9	Navy Day in Bulgaria
+8	9	Veterinary Workers Day in Ukraine
+8	9	Smokey Bear’s Birthday in the United States
+8	9	Turkmen Melon Holiday
+8	9	Book Lovers Day
+8	9	Battle of Gangut Day in Russia
+8	9	Nagasaki Peace Memorial Ceremony
+8	9	National Peacekeepers' Day in Canada
+8	9	National Rice Pudding Day
+8	9	National Hug Day in Japan
+8	9	International Day of the World's Indigenous Peoples
+8	9	Children's Day in Uruguay
+8	9	Children's Day in Chile
+8	9	Father's Day in Brazil
+8	10	Father's Day in Samoa and Tokelau
+8	10	National Day in Ecuador
+8	10	Heroes' Day in Zimbabwe
+8	10	Carnival Monday in Grenada
+8	10	Saint Dominic Day in Managua
+8	10	Argentine Air Force Day
+8	10	National Technology Uprising Day in Indonesia
+8	10	National Veterans Day in Indonesia
+8	10	National S'mores Day
+8	10	International Biodiesel Day
+8	11	Carnival Tuesday in Grenada
+8	11	Independence Day in Chad
+8	11	Mountain Day in Japan
+8	11	Krishna Janmashtami
+8	11	Border Guard Day in Turkmenistan
+8	11	Day of Armenian National Identity
+8	11	Latvian Freedom Fighters' Remembrance Day
+8	11	Flag Day in Pakistan
+8	11	National Raspberry Tart Day
+8	12	Queen Mother’s Birthday and Mother’s Day in Thailand
+8	12	Air Force Day in Russia
+8	12	World Elephant Day
+8	12	Glorious Twelfth
+8	12	Didgoroba in Georgia
+8	12	National Julienne Fries Day
+8	12	International Youth Day
+8	12	NGO Day in Iran
+8	13	Independence Day in the Central African Republic
+8	13	Women's Day in Tunisia
+8	13	Defense Forces Day in Zimbabwe
+8	13	Small Business Support Day in Iran
+8	13	Lao Issara Day in Laos
+8	13	International Lefthanders Day
+8	13	National Filet Mignon Day
+8	13	Obon in Japan
+8	14	Independence Day in Pakistan
+8	14	Anniversary Day in Tristan da Cunha
+8	14	Oued Ed-Dahab Day in Morocco
+8	14	Engineer's Day in the Dominican Republic
+8	14	Victory over Japan Day
+8	14	Pramuka Day in Indonesia
+8	14	Islamic Resistance Day in Iran
+8	14	Falklands Day
+8	14	National Creamsicle Day
+8	14	Obon in Japan
+8	15	National Mourning Day in Bangladesh
+8	15	Founding of Asunción in Paraguay
+8	15	Mother's Day in Costa Rica
+8	15	Liberation Day in Korea
+8	15	National Day in Liechtenstein
+8	15	Independence Day in India
+8	15	Constitution Day in Equatorial Guinea
+8	15	National Day in the Republic of the Congo
+8	15	Assumption of Mary
+8	15	International Homeless Animals Day
+8	15	Archaeologist Day
+8	15	Armed Forces Day in Poland
+8	15	National Honey Bee Day
+8	15	Flooding of the Nile in Egypt
+8	15	National Acadian Day in Canada
+8	15	Victory over Japan Day
+8	15	Panama la Vieja Day
+8	15	National Memorial Service for War Dead in Japan
+8	15	National Lemon Meringue Pie Day
+8	15	Obon in Japan
+8	16	Independence Day in Gabon
+8	16	Restoration Day in the Dominican Republic
+8	16	Parsi New Year in India
+8	16	Air Force Day in Russia and Belarus
+8	16	National Airborne Day in the USA
+8	16	Sports Day in Kazakhstan
+8	16	Aviation Workers’ Day in Russia
+8	16	Thai Peace Day
+8	16	Bennington Battle Day in Vermont
+8	16	National Rum Day
+8	16	Children's Day in Argentina
+8	16	Children's Day in Paraguay
+8	17	Independence Day in Gabon
+8	17	Independence Day in Indonesia
+8	17	Anniversary of the Death of General José de San Martín in Argentina
+8	17	Engineer's Day in Colombia
+8	17	Prekmurje Union Day in Slovenia
+8	17	Marcus Garvey Day in Jamaica
+8	17	Flag Day in Bolivia
+8	17	Discovery Day in Yukon
+8	17	National Vanilla Custard Day
+8	18	National Science Day in Thailand
+8	18	Army Day in North Macedonia
+8	18	Border Guard Day in Kazakhstan
+8	18	Border Guard Day in Azerbaijan
+8	18	Geographer’s Day in Russia
+8	18	Healthcare Professionals Day in Tajikistan
+8	18	National Tree Planting Day in Pakistan
+8	18	Vietnam Veterans’ Day in Australia (Long Tan Day)
+8	18	Virginia Dare’s Birthday on Roanoke Island
+8	18	National Ice Cream Pie Day
+8	19	Independence Day in Afghanistan
+8	19	Day of the Tribes in Nauru
+8	19	Feast of the Transfiguration of Jesus in Eastern Christianity
+8	19	World Photography Day
+8	19	Beekeeper Day in Ukraine
+8	19	Gai Jatra in Nepal
+8	19	National Aviation Day in the USA
+8	19	August Revolution Commemoration Day in Vietnam
+8	19	Birthday of Mette-Marit, Crown Princess of Norway
+8	19	Manuel Luis Quezon Day in the Philippines
+8	19	National Soft Ice Cream Day
+8	19	Russian Telnyashka Day
+8	19	World Humanitarian Day
+8	20	Saint Stephen's Day in Hungary
+8	20	Independence Restoration Day in Estonia
+8	20	King and People's Revolution Day in Morocco
+8	20	Formation Anniversary of FALINTIL in East Timor
+8	20	Islamic New Year
+8	20	World Mosquito Day
+8	20	Renewable Energy Day (Akshay Urja Diwas) in India
+8	20	National Chocolate Pecan Pie Day
+8	21	Youth Day / King Mohammed VI's Birthday in Morocco
+8	21	Ninoy Aquino Day in the Philippines
+8	21	Teej Festival in Nepal
+8	21	Russian Officers Day
+8	21	Passing of the Constitutional Law on the Status of the Republic of Latvia as a State and Actual Restoration of the Republic of Latvia
+8	21	Gospel Day in Kosrae
+8	21	National Spumoni Day
+8	21	International Day of Remembrance and Tribute to the Victims of Terrorism
+8	22	Flag Day in Russia
+8	22	Feast of Queenship of Mary
+8	22	Ganesh Chaturthi
+8	22	Madras Day in Tamil Nadu
+8	22	Southern Hemisphere Hoodie-Hoo Day
+8	22	National Take Your Cat to the Vet Day
+8	22	National Eat a Peach Day
+8	22	National Pecan Torte Day
+8	22	International Day Commemorating the Victims of Acts of Violence Based on Religion or Belief
+8	23	National Statistical Committee Worker's Day in Belarus
+8	23	National Doctors’ Day in Iran
+8	23	Victory over Germany in the Battle of Kursk in Russia
+8	23	Flag Day in Ukraine
+8	23	European Day of Remembrance for Victims of Stalinism and Nazism
+8	23	Day of Remembrance of the Victims of Fascism and Communism in Romania
+8	23	National Sponge Cake Day
+8	23	Go Topless Day
+8	23	Nuakhai – Harvest Festival in Odisha
+8	23	International Day for Remembrance of the Slave Trade and its Abolition
+8	24	Independence Day in Ukraine
+8	24	National Flag Day in Liberia
+8	24	Nostalgia Night in Uruguay
+8	24	Strange Music Day
+8	24	National Peach Pie Day
+8	24	National Waffle Day in the US
+8	25	Independence Day in Uruguay
+8	25	Day of Songun in North Korea
+8	25	Soldier's Day in Brazil
+8	25	Liberation Day of Paris
+8	25	National Banana Split Day
+8	26	Heroes' Day in Namibia
+8	26	Repentance Day in Papua New Guinea
+8	26	Gaura Parva
+8	26	Employee Day in Iran
+8	26	Women’s Equality Day
+8	26	Herero Day in Namibia
+8	26	National Cherry Popsicle Day
+8	26	National Dog Day
+8	26	National Day of Solidarity in Argentina
+8	27	Independence Day in Moldova
+8	27	Russian Cinema Day
+8	27	Pharmacy Day in Iran
+8	27	Lyndon Baines Johnson Day in Texas
+8	27	National Petroleum Day
+8	27	National Burger Day in the UK
+8	27	National Banana Lovers Day
+8	28	Dormition of the Mother of God in Eastern Christianity
+8	28	Kingdom Proclamation Day in Montenegro
+8	28	National Bow Tie Day
+8	28	National Cherry Turnover Day
+8	28	Ramdev Jayanti and Teja Dashmi in Rajasthan
+8	28	Grandparents’ Day in Mexico
+8	29	Slovak National Uprising Anniversary
+8	29	Day of Ashura
+8	29	International Bat Night
+8	29	Aviation Day in Ukraine
+8	29	Municipal Police Day in Poland
+8	29	Long-Haul Truck Driver Day in Russia
+8	29	Arbor Day in Argentina
+8	29	Finnish Nature Day
+8	29	Telugu Language Day in India
+8	29	National Sports Day in India
+8	29	Day of Remembrance of the Defenders of Ukraine
+8	29	Semipalatinsk Nuclear Test Site Closure Anniversary in Kazakhstan
+8	29	National Lemon Juice Day
+8	29	Karam (Karma) Harvest Festival in India
+8	29	International Day Against Nuclear Tests
+8	30	Constitution Day in Kazakhstan
+8	30	Victory Day in Turkey
+8	30	Saint Rose of Lima Day in Peru
+8	30	Popular Consultation Day in East Timor
+8	30	Miner's Day
+8	30	Archivist Day in Kyrgyzstan
+8	30	Lake Sevan Day in Armenia
+8	30	National Beach Day
+8	30	Grandparents' Day in Taiwan
+8	30	National Toasted Marshmallow Day
+8	30	International Day of the Victims of Enforced Disappearances
+8	31	National Language Day in Moldova
+8	31	Independence Day in Kyrgyzstan
+8	31	Umhlanga (Reed Dance) in Eswatini (Swaziland)
+8	31	Independence Day in Malaysia (Hari Merdeka)
+8	31	Independence Day of Trinidad and Tobago
+8	31	National Heroes' Day in the Philippines
+8	31	International Overdose Awareness Day
+8	31	Teachers' Day in Singapore
+8	31	We Love Memoirs Day
+8	31	Memorial Day for the Victims of Repression in Uzbekistan
+8	31	Day of Solidarity and Freedom in Poland
+8	31	North Borneo Self-Government Day in Sabah
+8	31	National Trail Mix Day
+8	31	Blog Day
+8	31	Baloch-Pakhtun Unity Day
+9	1	Knowledge Day
+9	1	Constitution Day in Slovakia
+9	1	Revolution Day in Eritrea
+9	1	Independence Day in Uzbekistan
+9	1	Journalist Day in Taiwan
+9	1	Arbor Day in Peru
+9	1	Flag Day in Honduras
+9	1	Disaster Prevention Day in Japan
+9	1	Veterans Day in Poland
+9	1	Wattle Day in Australia
+9	1	National Cherry Popover Day
+9	2	National Day of Vietnam
+9	2	Ghost Festival
+9	2	Day of Russian Guards Units
+9	2	Patrol Police Day in Russia
+9	2	Notaries Day in Ukraine
+9	2	Victory over Japan Day in the USA
+9	2	Tibetan Democracy Day
+9	2	Ceuta Day in Spain
+9	2	National Blueberry Popsicle Day
+9	3	Republic Day in San Marino
+9	3	Tokehega Day in Tokelau
+9	3	Engineer's Day in Tanzania
+9	3	National Army Day in Moldova
+9	3	Armed Forces Day in Taiwan
+9	3	Anniversary of the End of WWII in Russia
+9	3	Solidarity Against Terrorism Day in Russia
+9	3	Victory over Japan Day in China
+9	3	Australian National Flag Day
+9	3	Independence Day in Qatar
+9	3	Merchant Navy Day
+9	3	Levy Mwanawasa Day in Zambia
+9	3	Day of Combat Against British Colonialism in Iran
+9	3	National Welsh Rarebit Day
+9	4	Labor Day in the Marshall Islands
+9	4	International Taekwondo Day
+9	4	Nuclear Provision Expert's Day in Russia
+9	4	Customs Service Worker's Day in Moldova
+9	4	Rescuer's Day in Armenia
+9	4	National Wildlife Day
+9	4	Immigrant's Day in Argentina
+9	4	Art Break Day
+9	4	Royal Thai Navy Submarine Memorial Day
+9	4	National Macadamia Nut Day
+9	4	National Newspaper Carrier Day in the USA
+9	4	Cooperation Day in Iran
+9	5	Mother Teresa Day in Albania
+9	5	World Beard Day
+9	5	Egyptian Engineering Day
+9	5	Teachers' Day in India
+9	5	Flag-Flying Day for Denmark’s Deployed Personnel
+9	5	International Bacon Day
+9	5	National Cheese Pizza Day
+9	5	Be Late for Something Day
+9	5	International Day of Charity
+9	6	Armed Forces Day in São Tomé and Príncipe
+9	6	Unification Day in Bulgaria
+9	6	Independence Day in Eswatini (Swaziland)
+9	6	Bonaire Flag Day
+9	6	Day of Oil, Gas and Petroleum Industry
+9	6	Entrepreneur's Day in Ukraine
+9	6	Lake Baikal Day in Russia
+9	6	Day of Belarusian Written Language
+9	6	National Read a Book Day
+9	6	Defense Day in Pakistan
+9	6	National Coffee Ice Cream Day
+9	6	Father's Day
+9	7	Labor Day in the USA and Canada
+9	7	Independence Day in Brazil
+9	7	Victory Day in Mozambique
+9	7	Constitution Day in Fiji
+9	7	World Duchenne Awareness Day
+9	7	Civil Servant's Day in Nepal
+9	7	Air Force Day in Pakistan
+9	7	Engineer Troops Day in Armenia
+9	7	Military Intelligence Day in Ukraine
+9	7	National Threatened Species Day in Australia
+9	7	National Acorn Squash Day
+9	7	National Salami Day in the USA
+9	8	Victory Day in Pakistan
+9	8	National Day in Andorra
+9	8	Independence Day in North Macedonia
+9	8	Victory Day in Malta
+9	8	Nativity of Mary
+9	8	World Physical Therapy Day
+9	8	Financier's Day in Russia
+9	8	Volunteer Day in Spain
+9	8	Day of the Battle of Borodino in Russia
+9	8	Kosrae Liberation Day in Micronesia
+9	8	Coronation Anniversary of Vytautas the Great in Lithuania
+9	8	National Date Nut Bread Day
+9	8	International Literacy Day
+9	9	Independence Day in Tajikistan
+9	9	Independence Day in North Korea
+9	9	International Beauty Day
+9	9	Administrators’ Day in Brazil
+9	9	Emergency Services Day in the UK
+9	9	Chrysanthemum Day in Japan
+9	9	Memorial Day for the Victims of the Crimean War
+9	9	İzmir Independence Day in Turkey
+9	9	Martyr’s Day in Afghanistan
+9	9	Day of the Victims of Holocaust and of Racial Violence in Slovakia
+9	9	National Wiener Schnitzel Day
+9	9	Children's Day in Costa Rica
+9	10	National Day in Belize
+9	10	National Day in Gibraltar
+9	10	Teachers' Day in China
+9	10	Amerindian Heritage Day in Guyana
+9	10	Jeûne genevois
+9	10	National TV Dinner Day
+9	10	World Suicide Prevention Day
+9	10	Children's Day in Honduras
+9	11	Enkutatash (Ethiopian New Year)
+9	11	Our Lady of Coromoto Day
+9	11	Teachers' Day in Argentina
+9	11	Battle of Tendra Day in Russia
+9	11	Patriot Day in the USA
+9	11	Death Anniversary of Muhammad Ali Jinnah in Pakistan
+9	11	Emergency Number Day
+9	11	National Day of Catalonia
+9	11	Pohnpei Liberation Day in Micronesia
+9	11	1973 Coup Anniversary in Chile
+9	11	National Hot Cross Buns Day
+9	11	Day of Sobriety in Russia
+9	11	White Balloon Day in Australia
+9	12	Programmers' Day
+9	12	World First Aid Day
+9	12	Day of Ukrainian Cinema
+9	12	Day of Physical Culture and Sport in Ukraine
+9	12	Day of Energy Industry Workers in Turkmenistan
+9	12	Carl Garner Federal Lands Cleanup Day
+9	12	Mindfulness Day
+9	12	Cinema Day in Iran
+9	12	Ruhnama Day in Turkmenistan
+9	12	Saint Patrick's Battalion Remembrance Day in Mexico
+9	12	Defenders Day in Maryland
+9	12	National Chocolate Milkshake Day
+9	12	United Nations Day for South-South Cooperation
+9	12	National Day of Encouragement in the USA
+9	13	Grandparents' Day in Estonia
+9	13	Feast of the Exaltation of the Holy Cross in Armenia
+9	13	Tankman's Day in Russia
+9	13	Workers of Natural Gas and Petroleum Industry Day in Ukraine
+9	13	Engineer's Day in Mauritius
+9	13	Sustainable House Day in Australia
+9	13	Fjord Day in Denmark
+9	13	Father's Day in Latvia
+9	13	Turkmen Bakshy Day
+9	13	Roald Dahl Day
+9	13	National Grandparents' Day
+9	13	National Grandparents' Day in Canada
+9	13	Remembrance Day for Victims of Fascism
+9	13	Día de los Niños Héroes (Boy Heroes Day) in Mexico
+9	13	National Peanut Day
+9	13	International Chocolate Day
+9	13	Grandparents' Day in the Philippines
+9	13	National Celiac Disease Awareness Day
+9	13	Family Day in Kazakhstan
+9	13	National Cachaça Day in Brazil
+9	14	San Jacinto Day in Nicaragua
+9	14	Exaltation of the Cross in Western Christianity
+9	14	Engineer's Day in Romania
+9	14	Hindi Day in India
+9	14	National Cream-Filled Doughnut Day
+9	14	Children's Day in Nepal
+9	15	Independence Day in Costa Rica
+9	15	Independence Day in El Salvador
+9	15	Independence Day in Guatemala
+9	15	Prince's Day in the Netherlands
+9	15	Independence Day in Nicaragua
+9	15	Independence Day in Honduras
+9	15	Feast of Our Lady of Sorrows in Slovakia
+9	15	World Lymphoma Awareness Day
+9	15	International Dot Day
+9	15	Libraries Day in Belarus
+9	15	Engineer's Day in India
+9	15	Knowledge Day in Azerbaijan
+9	15	Silpa Bhirasri Day in Thailand
+9	15	Battle of Britain Day
+9	15	Cry of Dolores in Mexico
+9	15	Restoration of Primorska to the Motherland Day in Slovenia
+9	15	National Crème de Menthe Day
+9	15	International Day of Democracy
+9	15	Free Money Day
+9	16	Independence Day in Papua New Guinea
+9	16	Independence Day in Mexico
+9	16	Malaysia Day (Hari Malaysia)
+9	16	National Heroes' Day in Saint Kitts and Nevis
+9	16	Martyrs' Day in Libya
+9	16	Pchum Ben Festival in Cambodia
+9	16	Armed Forces Day in Malaysia
+9	16	Owain Glyndŵr Day in Wales
+9	16	Juliet’s Birthday in Verona
+9	16	National Guacamole Day
+9	16	International Day for the Preservation of the Ozone Layer
+9	17	National Heroes' Day in Angola
+9	17	Birthday of Crown Prince Tupoutoʻa ʻUlukalala in Tonga
+9	17	Pchum Ben Festival in Cambodia
+9	17	World Patient Safety Day
+9	17	Rescuer's Day in Ukraine
+9	17	Teachers' Day in Honduras
+9	17	World Horizontal Directional Drilling Day
+9	17	Australian Citizenship Day
+9	17	Constitution Day (Citizenship Day)
+9	17	Operation Market Garden Anniversary in the Netherlands
+9	17	Sybirak’s Day in Poland
+9	17	Patient Safety Day in Ukraine
+9	17	Marathwada Liberation Day in Maharashtra
+9	17	Melilla Day in Spain
+9	17	National Apple Dumpling Day
+9	18	Independence Day in Chile
+9	18	Pchum Ben Festival in Cambodia
+9	18	World Water Monitoring Day
+9	18	International Read an eBook Day
+9	18	Astronomy Day in Armenia
+9	18	Croatian Navy Day
+9	18	Clean Up the World
+9	18	National Music Day in Azerbaijan
+9	18	Persian Literature and Poetry Day in Iran
+9	18	Island Languages Day in Okinawa
+9	18	National POW/MIA Recognition Day
+9	18	National Cheeseburger Day
+9	18	National HIV/AIDS and Aging Awareness Day
+9	19	Army Day in Chile
+9	19	Independence Day in Saint Kitts and Nevis
+9	19	Constitution Day in Nepal
+9	19	Rosh Hashanah
+9	19	Software Freedom Day
+9	19	Arms Designer Day in Russia
+9	19	Day of Inventors and Innovators in Ukraine
+9	19	Pharmaceutical Worker's Day in Ukraine
+9	19	Civil Aviation Day in Moldova
+9	19	National Cleanup Day in the USA
+9	19	Von Steuben Day
+9	19	Day of the First Public Appearance of the Slovak National Council
+9	19	National Butterscotch Pudding Day
+9	19	International Talk Like a Pirate Day
+9	19	Juice Day in Russia
+9	20	Rosh Hashanah
+9	20	Forestry and Timber Industry Worker's Day
+9	20	Customs Officer's Day in Belarusia
+9	20	Oil Industry Workers' Day in Azerbaijan
+9	20	Entrepreneur's Day in Kyrgyzstan
+9	20	Day of Languages of the Peoples of Kazakhstan
+9	20	Sree Narayana Guru Memorial Day in Kerala
+9	20	National Punch Day
+9	20	National Youth Day in Thailand
+9	20	Universal Children’s Day in Germany
+9	20	Mother’s Day in Kazakhstan
+9	20	Freedom of Speech Day
+9	21	Independence Day in Armenia
+9	21	Respect for the Aged Day in Japan
+9	21	Independence Day in Belize
+9	21	Kwame Nkrumah Memorial Day in Ghana
+9	21	Independence Day in Malta
+9	21	Fast of Gedalia
+9	21	Nativity of the Theotokos in Eastern Christianity
+9	21	Zero Emissions Day
+9	21	World Alzheimer's Day
+9	21	Arbor Day in Brazil
+9	21	Battle of Kulikovo Day in Russia
+9	21	Commemoration of the Declaration of Martial Law in the Philippines
+9	21	National Pecan Cookie Day
+9	21	Spring Day
+9	21	International Day of Peace
+9	21	National Volunteer Day in Ghana
+9	22	Independence Day in Bulgaria
+9	22	Autumnal Equinox in Japan
+9	22	Independence Day in Mali
+9	22	World Car Free Day
+9	22	World Rhino Day
+9	22	World Chronic Myeloid Leukemia Day
+9	22	American Business Women's Day
+9	22	Teachers' Day in Uruguay
+9	22	National Arbor Day in Barbados
+9	22	Elephant Appreciation Day
+9	22	Day of Partisan Glory in Ukraine
+9	22	Day of the Baltic Unity
+9	22	Resistance Fighting Day In Estonia
+9	22	OneWebDay
+9	22	National White Chocolate Day
+9	22	Hobbit Day
+9	22	Mabon
+9	23	Blessed Rainy Day in Bhutan
+9	23	National Day in Saudi Arabia
+9	23	Teachers' Day in Brunei
+9	23	National Tree Day in Canada
+9	23	Kyrgyz Language Day in Kyrgyzstan
+9	23	National Day of Women's Political Rights in Argentina
+9	23	National Day of School Failure Prevention
+9	23	Holocaust Memorial Day in Lithuania
+9	23	Grito de Lares in Puerto Rico
+9	23	Chuuk Liberation Day in Micronesia
+9	23	National Great American Pot Pie Day
+9	23	International Day of Sign Languages
+9	23	Celebrate Bisexuality Day
+9	24	Constitution Day in Cambodia
+9	24	Our Lady of Mercy Day in the Dominican Republic
+9	24	National Day in Guinea-Bissau
+9	24	New Caledonia Day
+9	24	Heritage Day in South Africa
+9	24	Republic Day in Trinidad and Tobago
+9	24	Feast of Saint Rupert
+9	24	Armed Forces Day in Peru
+9	24	National Punctuation Day in the USA
+9	24	Mahidol Day in Thailand
+9	24	National Cherries Jubilee Day
+9	24	World Maritime Day
+9	25	Revolution Day (Armed Forces Day) in Mozambique
+9	25	National Youth Day in Nauru
+9	25	National Youth Day in the Turks and Caicos Islands
+9	25	Manit Day (Culture Day) in the Marshall Islands
+9	25	Feast of Saint Nicholas of Flüe
+9	25	National Research Administrator Day
+9	25	Arbor Day in the US Virgin Islands
+9	25	National Harki Day in France
+9	25	National Comic Book Day in the USA
+9	25	Butterbrod Day in Germany
+9	25	National Crab Meat Newburg Day
+9	26	September Revolution Day in Yemen
+9	26	World Contraception Day
+9	26	Astronomy Day
+9	26	National Public Lands Day
+9	26	National Hunting and Fishing Day
+9	26	World Environmental Health Day
+9	26	European Mushroom Day
+9	26	Johnny Appleseed Day in the USA
+9	26	European Day of Languages
+9	26	National Flag Day in Ecuador
+9	26	National Pancake Day
+9	26	International Day for the Total Elimination of Nuclear Weapons
+9	26	Grandmother's Day in Moldova
+9	27	Labor Day in Kazakhstan
+9	27	Independence Day in Turkmenistan
+9	27	Meskel in Ethiopia and Eritrea
+9	27	Elevation of the Holy Cross in Eastern Christianity
+9	27	Mechanical Engineer's Day in Ukraine
+9	27	Day of Preschool Employees in Russia
+9	27	Mechanical Engineer's Day
+9	27	Tourism Day in Ukraine
+9	27	World Rivers Day
+9	27	Gold Star Mother's Day
+9	27	Day of the Polish Underground State
+9	27	French Community Day in Belgium
+9	27	End of the Mexican War of Independence
+9	27	National Corned Beef Hash Day
+9	27	World Pet Day
+9	27	World Tourism Day
+9	27	National Blood Donor Day in Kyrgyzstan
+9	27	National Gay Men’s HIV/AIDS Awareness Day
+9	28	Czech Statehood Day
+9	28	Yom Kippur
+9	28	International Right to Know Day
+9	28	International Safe Abortion Day
+9	28	Nuclear Industry Worker's Day
+9	28	Teachers' Day in Taiwan
+9	28	National Good Neighbor Day
+9	28	Dominion Day in New Zealand
+9	28	National Day of Awareness and Unity against Child Pornography in the Philippines
+9	28	National Strawberry Cream Pie Day
+9	28	Ask a Stupid Question Day
+9	28	World Rabies Day
+9	28	International Day for the Universal Access to Information
+9	28	Freedom from Hunger Day
+9	29	Battle of Boquerón Day in Paraguay
+9	29	World Heart Day
+9	29	International Coffee Day
+9	29	Inventors' Day in Argentina
+9	29	Otorhinolaryngologist Day in Russia
+9	29	Firefighters’ Day in Iran
+9	29	National Mocha Day
+9	30	Agricultural Reform Day in São Tomé and Príncipe
+9	30	Botswana Day
+9	30	Blasphemy Day
+9	30	International Podcast Day
+9	30	Day of Justice Bodies Employees in Kazakhstan
+9	30	National Security Officers Day in Turkmenistan
+9	30	Day of Libraries in Ukraine
+9	30	Birthday of José María Morelos in Mexico
+9	30	National Hot Mulled Cider Day
+9	30	Boy's Day in Poland
+9	30	International Translation Day
+9	30	Adoption Day in Ukraine
+9	30	Recovery Day in Canada
+9	30	Orange Shirt Day in Canada
+10	1	Teachers' Day in Uzbekistan
+10	1	National Day in China
+10	1	Independence Day in Tuvalu
+10	1	Independence Day in Nigeria
+10	1	Independence Day in Palau
+10	1	Mid-Autumn Festival in China and Vietnam
+10	1	Chuseok (Hangawi) in Korea
+10	1	Independence Day in Cyprus
+10	1	Unification Day in Cameroon
+10	1	Investiture of the Captains Regents in San Marino
+10	1	International Music Day
+10	1	World Vegetarian Day
+10	1	International Coffee Day
+10	1	Ground Forces Day in Russia
+10	1	Prosecutor's Day in Azerbaijan
+10	1	Armed Forces Day in South Korea
+10	1	Sake Day
+10	1	Arbor Day in the Northern Mariana Islands
+10	1	National Arbor Day in Bolivia
+10	1	National Black Dog Day
+10	1	National Poetry Day
+10	1	Pancasila Sanctity Day in Indonesia
+10	1	Lincolnshire Day in England
+10	1	National Homemade Cookies Day
+10	1	International Day of Older Persons
+10	1	Children's Day in Guatemala and El Salvador
+10	1	Children's Day in Sri Lanka
+10	2	Independence Day in Guinea
+10	2	Mahatma Gandhi's Birthday in India
+10	2	Buddhist Lent Ends (Thadingyut Full Moon or Boun Ok Phansa)
+10	2	World Smile Day
+10	2	World Day for Farmed Animals
+10	2	National Batik Day in Indonesia
+10	2	National Fried Scallops Day
+10	2	Mehregan Festival in Iran
+10	2	International Day of Non-Violence
+10	2	Grandparents' Day in Italy
+10	2	Lee National Denim Day in the USA
+10	2	Children's Day in Singapore
+10	3	Day of German Unity
+10	3	National Foundation Day in South Korea
+10	3	National Day in Iraq
+10	3	Francisco Morazán Day (Soldier's Day) in Honduras
+10	3	Sukkot
+10	3	National Wine Day In Moldova
+10	3	Mean Girls Day
+10	3	National Day in Remembrance of the Victims of Immigration in Italy
+10	3	National Caramel Custard Day
+10	3	National Boyfriend Day
+10	4	Independence Day in Lesotho
+10	4	Day of Peace and Reconciliation in Mozambique
+10	4	Education Day in Kiribati
+10	4	Sukkot
+10	4	World Animal Day
+10	4	Teacher's Day
+10	4	Russian Space Forces Day
+10	4	eDay in New Zealand
+10	4	Cinnamon Roll Day in Sweden
+10	4	Assault on Friedrichstadt Day in Denmark
+10	4	National Taco Day
+10	4	National Vodka Day in the USA
+10	4	Harvest Festival in Germany
+10	4	World Space Week
+10	4	Father's Day in Luxembourg
+10	4	Grandparents' Day in the UK
+10	4	Grandparents' Day in South Africa
+10	5	Republic Day in Portugal
+10	5	Constitution Day in Vanuatu
+10	5	Territory Day in Christmas Island
+10	5	Peat Cutting Monday in the Falkland Islands
+10	5	Thanksgiving Day in Saint Lucia
+10	5	Labour Day in Australia
+10	5	Sukkot
+10	5	World Architecture Day
+10	5	International Day of No Prostitution
+10	5	World Teachers' Day
+10	5	Engineer's Day in Bolivia
+10	5	Armed Forces Day in Indonesia
+10	5	Law Enforcement Day in Iran
+10	5	State Language Day in Tajikistan
+10	5	Child Health Day
+10	5	National Apple Betty Day
+10	5	World Habitat Day
+10	5	World Space Week
+10	6	Tishren Liberation Day in Syria
+10	6	Day of Commemoration and National Mourning in Turkmenistan
+10	6	Armed Forces Day in Egypt
+10	6	Magal de Touba in Senegal
+10	6	Sukkot
+10	6	Teachers' Day in Sri Lanka
+10	6	Archivist's Day in Belarus
+10	6	Veterinary Medicine Day in Iran
+10	6	Accountant’s Day in Kazakhstan
+10	6	German-American Day
+10	6	Dukla Pass Victims Day in Slovakia
+10	6	Memorial Day for the Martyrs of Arad in Hungary
+10	6	Anniversary of the Cubana Bombing in Cuba
+10	6	National Noodle Day
+10	7	Sukkot
+10	7	Arba'een (Martyrdom of Husayn ibn Ali)
+10	7	International Trigeminal Neuralgia Awareness Day
+10	7	World Cerebral Palsy Day
+10	7	Teachers' Day in Laos
+10	7	Armed Forces Day in Montenegro
+10	7	BOL Foundation Day in Laos
+10	7	Librarian Day in Armenia
+10	7	National Frappé Day
+10	7	Day of Good Treatment in Puerto Rico
+10	7	Walk to School Day
+10	7	Village and Tribe Day in Iran
+10	8	Independence Day in Croatia
+10	8	Battle of Angamos Day (Navy Day) in Peru
+10	8	Sukkot
+10	8	World Sight Day
+10	8	International Lesbian Day
+10	8	Lawyer's Day in Ukraine
+10	8	Air Force Day in India
+10	8	Octopus Day
+10	8	Day of the Heroic Guerrilla in Cuba
+10	8	National Fluffernutter Day
+10	8	Children's Day in Iran
+10	9	Hangul Day in South Korea
+10	9	Independence Day in Uganda
+10	9	Abolition Day in Saint Barthélemy
+10	9	Guayaquil Independence Day in Ecuador
+10	9	Sukkot
+10	9	Naval Forces Day in Turkmenistan
+10	9	Islamic Revolutionary Guard Corps Day in Iran
+10	9	Arbor Day in Namibia
+10	9	National Nanotechnology Day in the USA
+10	9	Leif Erikson Day
+10	9	National Day of Commemorating the Holocaust in Romania
+10	9	National Moldy Cheese Day
+10	9	World Egg Day
+10	9	World Post Day
+10	9	National Fire Prevention Day
+10	10	War of Independence Anniversary in Cuba
+10	10	Curaçao Day
+10	10	Fiji Day
+10	10	Party Foundation Day in North Korea
+10	10	Maroon Day in Suriname
+10	10	National Day (Double Ten Day) in Taiwan
+10	10	Moi Day in Kenya
+10	10	Shemini Atzeret and Simchat Torah
+10	10	Holy Translator's Day in Armenia
+10	10	Home Movie Day
+10	10	World Day Against Death Penalty
+10	10	World Porridge Day
+10	10	World Homeless Day
+10	10	Army Day in Sri Lanka
+10	10	World Migratory Bird Day
+10	10	National Tree Planting Day in Mongolia
+10	10	Arbor Day in Poland
+10	10	Finnish Literature Day
+10	10	Capital Liberation Day in Vietnam
+10	10	Confederate Memorial Day in the United States
+10	10	National Angel Food Cake Day
+10	10	World Mental Health Day
+10	11	People's Uprising against Fascism Day in North Macedonia
+10	11	White Sunday
+10	11	Agricultural Workers' Day in Russia
+10	11	Artist's Day in Ukraine
+10	11	Cultural Workers' Day in Belarus
+10	11	Harvest Festival in Armenia
+10	11	General Pulaski Memorial Day
+10	11	National Sausage Pizza Day
+10	11	International Day of the Girl Child
+10	11	Grandmothers' Day in Germany
+10	11	National Coming Out Day
+10	11	National Bolivian Women’s Day
+10	12	National Heritage Day in the Turks and Caicos Islands
+10	12	Columbus Day in the USA
+10	12	National Day in Spain
+10	12	Thanksgiving Day in Canada
+10	12	Columbus Day in Latin America
+10	12	Our Lady of Aparecida Day in Brazil
+10	12	Independence Day in Equatorial Guinea
+10	12	Health and Sports Day in Japan
+10	12	Norfolk Island Agricultural Show Day
+10	12	National Heroes' Day in the Bahamas
+10	12	Constitution Day in Sint Maarten
+10	12	World Arthritis Day
+10	12	National Engineer's Day in Uruguay
+10	12	UN Spanish Language Day
+10	12	No Smoking Day in Armenia
+10	12	Freethought Day
+10	12	National Gumbo Day
+10	12	Indigenous Peoples' Day
+10	13	Prince Rwagasore Day in Burundi
+10	13	Death Anniversary of King Bhumibol Adulyadej in Thailand
+10	13	Ada Lovelace Day
+10	13	World Thrombosis Day
+10	13	National Police Day in Thailand
+10	13	Vietnamese Entrepreneur’s Day
+10	13	Paramedics’ Day in Poland
+10	13	Arbor Day in Guam
+10	13	National Yorkshire Pudding Day
+10	13	Intentional Day for Disaster Reduction
+10	14	Day of Svetitskhoveli Cathedral in Georgia
+10	14	Liberation Day in Yemen
+10	14	Day of the Defender of Ukraine
+10	14	Julius Nyerere Day in Tanzania
+10	14	Intercession of the Theotokos
+10	14	World Standards Day
+10	14	National Education Day in Poland
+10	14	Chișinău Day in Moldova
+10	14	National Dessert Day
+10	14	National Fossil Day in the USA
+10	14	Mother's Day in Belarus
+10	15	Mother's Day in Malawi
+10	15	Commemoration Day of King Father Norodom Sihanouk in Cambodia
+10	15	Evacuation Day in Tunisia
+10	15	International Credit Union Day
+10	15	Spirit Day
+10	15	Global Handwashing Day
+10	15	Breast Health Day
+10	15	Teachers' Day in Brazil
+10	15	Students’ Day in India
+10	15	White Cane Safety Day
+10	15	Pregnancy and Infant Loss Remembrance Day
+10	15	National Mushroom Day
+10	15	International Day of Rural Women
+10	15	National Latino AIDS Awareness Day
+10	15	Idic15 Awareness Day in Canada
+10	16	Day of Pope John Paul II in Poland
+10	16	Death of Prophet Muhammad and Martyrdom of Imam Hasan in Iran
+10	16	World Bread Day
+10	16	World Restart a Heart Day
+10	16	Armenian Press Day
+10	16	Air Force Day in Bulgaria
+10	16	Boss's Day
+10	16	Teachers' Day in Chile
+10	16	World Anaesthesia Day
+10	16	Death Anniversary of Liaquat Ali Khan in Pakistan
+10	16	National Liqueur Day
+10	16	World Food Day
+10	17	Nine Emperor Gods Festival
+10	17	Loyalty Day in Argentina
+10	17	Anniversary of the Death of Dessalines in Haiti
+10	17	Martyrdom of Imam Reza
+10	17	Digital Society Day in India
+10	17	National Pasta Day
+10	17	International Day for the Eradication of Poverty
+10	17	National Edge Day
+10	17	Sweetest Day in the USA
+10	18	Independence Day in Azerbaijan
+10	18	Maldives National Day
+10	18	National Prayer Day in Zambia
+10	18	World Menopause Day
+10	18	EU Anti-Trafficking Day
+10	18	Food Industry Workers' Day
+10	18	Road Sector Workers' Day in Russia
+10	18	Polish Post Day (Postman’s Day)
+10	18	Persons Day in Canada
+10	18	Alaska Day
+10	18	National Chocolate Cupcake Day
+10	18	Necktie Day
+10	18	Mother's Day in Argentina
+10	19	Constitution Day in Niue
+10	19	National Heroes' Day in Jamaica
+10	19	Lawyers’ Day in Moldova
+10	19	Peruvian-African Friendship Day in Peru
+10	19	National Seafood Bisque Day
+10	20	Revolution Day in Guatemala
+10	20	Heroes' Day in Kenya
+10	20	International Day of Air Traffic Controller
+10	20	International Chefs Day
+10	20	World Osteoporosis Day
+10	20	Signal Officers Day in Russia
+10	20	Arbor Day in the Czech Republic
+10	20	Belgrade Liberation Day in Serbia
+10	20	National Brandied Fruit Day
+10	20	Vietnamese Women's Day
+10	21	Saint Ursula's Day in the British Virgin Islands
+10	21	President Ndadaye Day in Burundi
+10	21	Armed Forces Day in Honduras
+10	21	International Pronouns Day
+10	21	Egyptian Naval Day
+10	21	National Nurses' Day in Thailand
+10	21	Overseas Chinese Day in Taiwan
+10	21	Trafalgar Day in the UK
+10	21	Police Commemoration Day in India
+10	21	World War II Serbian Victims Remembrance Day
+10	21	National Pumpkin Cheesecake Day
+10	21	Apple Day in the UK
+10	21	International Day of the Nacho
+10	21	Unity Day in the USA
+10	22	International Stuttering Awareness Day
+10	22	Wombat Day in Australia
+10	22	Fechner Day
+10	22	National Santri Day in Indonesia
+10	22	Caps Lock Day
+10	22	National Nut Day
+10	23	Commemoration of the Paris Peace Agreements of 1991 in Cambodia
+10	23	Chulalongkorn Day in Thailand
+10	23	Republic Day in Hungary
+10	23	Liberation Day in Libya
+10	23	Day of the Macedonian Revolutionary Struggle
+10	23	Peniamina Gospel Day in Niue
+10	23	International Snow Leopard Day
+10	23	Kabuki Syndrome Awareness Day
+10	23	Aviator's Day in Brazil
+10	23	National Boston Cream Pie Day
+10	23	Mole Day
+10	24	Independence Day in Zambia
+10	24	World Polio Day
+10	24	Special Forces Day in Russia
+10	24	Diplomatic Workers' Day in Kyrgyzstan
+10	24	Day of Workers of Standardization and Metrology in Kyrgyzstan
+10	24	Rocket Engineer Remembrance Day
+10	24	National Bologna Day
+10	24	World Tripe Day
+10	24	United Nations Day
+10	24	World Development Information Day
+10	24	Food Day in the USA
+10	25	Dashain Festival
+10	25	Thanksgiving Day in Grenada
+10	25	Martyrdom of Imam Hasan al-Askari in Iran
+10	25	Durga Puja
+10	25	Custom Officer's Day in Russia
+10	25	Day of Automobile Workers
+10	25	Social Workers' Day in Kazakhstan
+10	25	Armed Forces Day in Romania
+10	25	Double Ninth Festival In China
+10	25	Constitution Day in Lithuania
+10	25	Taiwan Retrocession Day
+10	25	Sovereignty Day in Slovenia
+10	25	Day of the Basque Country
+10	25	National Greasy Foods Day
+10	25	Local Communities Day in Kyrgyzstan
+10	25	Aliyah Day in Israel
+10	26	National Day in Austria
+10	26	Angam Day in Nauru
+10	26	Labour Day in New Zealand
+10	26	Armed Forces Day in Benin
+10	26	Mourning Day in Libya
+10	26	National Gospel Day in the Cook Islands
+10	26	Intersex Awareness Day
+10	26	Accession Day in Jammu and Kashmir
+10	26	National Mincemeat Day
+10	26	National Pumpkin Day
+10	27	Independence Day in Saint Vincent and the Grenadines
+10	27	Enthronement Anniversary of Karekin II, the Catholicos of All Armenians
+10	27	Černová Tragedy Day in Slovakia
+10	27	Memorial Day for the Victims of the Armenian Parliament Shooting
+10	27	National American Beer Day
+10	27	Navy Day in the United States
+10	27	World Day for Audiovisual Heritage
+10	28	Independence Day in the Czech Republic
+10	28	Ochi Day in Greece
+10	28	Civil Servants' Day in Brazil
+10	28	International Animation Day
+10	28	Engineer's Day in Venezuela
+10	28	Liberation of Ukraine from Nazi Invaders Day
+10	28	Youth Pledge Day in Indonesia
+10	28	National Chocolate Day
+10	28	Universal Children's Day in Australia
+10	29	King Norodom Sihamoni's Coronation Day in Cambodia
+10	29	Republic Day in Turkey
+10	29	Mawlid (Birth of the Prophet)
+10	29	World Stroke Day
+10	29	World Psoriasis Day
+10	29	Cyrus the Great Day in Iran
+10	29	Ľudovít Štúr's Birthday in Slovakia
+10	29	Serbian Constitutional Referendum Anniversary
+10	29	National Oatmeal Day
+10	29	National Cat Day
+10	30	International Orthopaedic Nurses Day
+10	30	Africa Day of Food and Nutrition Security
+10	30	World Teachers' Day in Australia
+10	30	Anniversary of the Declaration of the Slovak Nation
+10	30	Day of Remembrance for the Victims of Political Repressions in Russia
+10	30	Yitzhak Rabin Memorial Day
+10	30	Indonesian Banknote Day
+10	30	Thevar Jayanti
+10	30	National Candy Corn Day
+10	30	Mischief Night
+10	31	Reformation Day
+10	31	All Saints' Day in Sweden and Finland
+10	31	Reformation Day in Chile
+10	31	Martyrs Day in Burkina Faso
+10	31	Halloween
+10	31	World Savings Day
+10	31	International Black Sea Action Day
+10	31	Saci Day in Brazil
+10	31	Criollo Music Day in Peru
+10	31	National Unity Day in India
+10	31	King Father's Birthday in Cambodia
+10	31	National Caramel Apple Day
+10	31	Samhain
+10	31	World Cities Day
+10	31	Children's Day in Malaysia
+10	31	Girl Scouts Founders Day
+11	1	Revolution Day in Algeria
+11	1	Independence Day in Antigua and Barbuda
+11	1	Druk Gyalpo Coronation Anniversary in Bhutan
+11	1	D. Hamilton Jackson Day in the US Virgin Islands
+11	1	Day of the Dead in Mexico
+11	1	All Saints' Day in Western Christianity
+11	1	International Lennox-Gastaut Syndrome Awareness Day
+11	1	World Vegan Day
+11	1	Self-Defense Forces Commemoration Day in Japan
+11	1	Bailiff Day in Russia
+11	1	Social Worker's Day in Ukraine
+11	1	Civil Aviation Workers' Day in Belarus
+11	1	Revival Leaders' Day in Bulgaria
+11	1	National Vinegar Day
+11	1	National Brush Day
+11	1	TransParentDay
+11	2	All Souls' Day in Western Christianity
+11	2	Day of the Dead in Mexico
+11	2	Arrival of Indentured Laborers Day in Mauritius
+11	2	Cultural Worker's Day in Kyrgyzstan
+11	2	Dziady (Commemoration of the Dead) in Belarus
+11	2	National Deviled Egg Day
+11	2	International Day to End Impunity for Crimes against Journalists
+11	3	Culture Day in Japan
+11	3	Independence Day in Panama
+11	3	Independence Day in Dominica
+11	3	Independence of Cuenca in Ecuador
+11	3	Victory Day in the Maldives
+11	3	Independence Day in Micronesia
+11	3	Birth of Prophet Muhammad and of Imam Jafar al-Sadiq in Iran
+11	3	Engineering Troops Day in Ukraine
+11	3	Missile Troops and Artillery Day in Ukraine
+11	3	Melbourne Cup
+11	3	Flag Day in the UAE
+11	3	National Sandwich Day
+11	4	Unity Day in Russia
+11	4	Flag Day in Panama
+11	4	National Day in Tonga
+11	4	Community Service Day in Dominica
+11	4	Citizenship Day in the Northern Mariana Islands
+11	4	Stress Awareness Day
+11	4	Railroad Workers' Day in Ukraine
+11	4	Social Workers' Day in Armenia
+11	4	Customs Officers’ Day in Turkmenistan
+11	4	Students’ Day in Iran
+11	4	National Unity and Armed Forces Day in Italy
+11	4	National Candy Day
+11	5	Colon Day in Panama
+11	5	Thanksgiving Day in Liberia
+11	5	International Volunteer Managers Day
+11	5	Puno Day in Peru
+11	5	National Doughnut Appreciation Day
+11	5	Guy Fawkes Night
+11	5	World Tsunami Awareness Day
+11	6	Green March Day in Morocco
+11	6	Constitution Day in Tajikistan
+11	6	Constitution Day in the Dominican Republic
+11	6	Feast of Saint Nuno of Saint Mary in Portugal
+11	6	World Paper Free Day
+11	6	Malaria Day in the Americas
+11	6	Bank Workers’ Day in Argentina
+11	6	Arbor Day in Samoa
+11	6	Finnish Swedish Heritage Day in Finland
+11	6	Gustavus Adolphus Day in Sweden
+11	6	Kanakadasa Jayanthi
+11	6	National Nachos Day
+11	6	International Day for Preventing the Exploitation of the Environment in War and Armed Conflict
+11	7	October Revolution Day in Belarus
+11	7	Days of History and Memory in Kyrgyzstan
+11	7	Health Day in Turkmenistan
+11	7	Descending Day of Lord of Buddha in Bhutan
+11	7	Press Day in Kyrgyzstan
+11	7	National Bison Day in the US
+11	7	Hungarian Opera Day
+11	7	Anniversary of the 1941 October Revolution Day Parade in Russia
+11	7	National Bittersweet Chocolate with Almonds Day
+11	7	Chocolate Mud Cake Day in Sweden
+11	7	World Men’s Day
+11	7	National Children's Day in South Africa
+11	8	Days of History and Memory in Kyrgyzstan
+11	8	Intersex Day of Remembrance
+11	8	World Urbanism Day
+11	8	International Day of Radiology
+11	8	World Day Without Wi-Fi
+11	8	World Radiography Day
+11	8	Statistician's Day in Kazakhstan
+11	8	Journalists' Day in China
+11	8	Day of Baku Metro Employees in Azerbaijan
+11	8	Winegrower and Winemaker’s Day in Ukraine
+11	8	National Tree Festival in Tunisia
+11	8	Father's Day
+11	8	National Pupusa Day
+11	8	Day of Remembrance for the Victims of Political Repressions in Kyrgyzstan
+11	8	Remembrance Sunday in the UK
+11	8	National Aboriginal Veterans Day in Canada
+11	8	Pohnpei Constitution Day in Micronesia
+11	8	National Cappuccino Day
+11	8	Hasyl Bayramy (Harvest Festival) in Turkmenistan
+11	9	State Flag Day in Azerbaijan
+11	9	Allama Iqbal Day in Pakistan
+11	9	Independence Day in Cambodia
+11	9	Heir to the Throne Birthday in Tuvalu
+11	9	Remembrance Day in the Cayman Islands
+11	9	Global Leasing Day
+11	9	Cultural Workers and Folk Artists Day in Ukraine
+11	9	Inventors' Day in German-speaking countries
+11	9	Special Rapid Response Unit Day in Russia
+11	9	Day of the Skulls in Bolivia
+11	9	Ukrainian Writing and Language Day
+11	9	International Day Against Fascism and Antisemitism
+11	9	Schicksalstag (Fateful Day) in Germany
+11	9	World Freedom Day
+11	9	National Scrapple Day
+11	10	Los Santos Uprising Day in Panama
+11	10	Water Festival in Cambodia
+11	10	Police Day in Russia
+11	10	United States Marine Corps Birthday
+11	10	Militia Day in Tajikistan
+11	10	Day of Tradition in Argentina
+11	10	Remembrance Day for Mustafa Kemal Atatürk in Turkey
+11	10	Heroes' Day in Indonesia
+11	10	National Vanilla Cupcake Day
+11	10	World Science Day for Peace and Development
+11	10	Youth Day in Kyrgyzstan
+11	10	World Youth Day (WFDY)
+11	11	Veterans Day
+11	11	Independence Day in Poland
+11	11	Remembrance Day / Armistice Day
+11	11	Independence Day in Angola
+11	11	Republic Day in the Maldives
+11	11	Cartagena Independence Day in Colombia
+11	11	Birthday of King Jigme Singye Wangchuck in Bhutan
+11	11	Saint Martin's Day
+11	11	Economist Day in Russia
+11	11	National Education Day in India
+11	11	Origami Day
+11	11	Lāčplēsis Day in Latvia
+11	11	National Sundae Day
+11	11	Singles' Day in China
+11	11	Pocky Day / Pepero Day
+11	11	World Shopping Day
+11	11	Opening of the Carnival Season in Germany
+11	12	Constitution Day in Azerbaijan
+11	12	National Youth Day in East Timor
+11	12	World Quality Day
+11	12	World Usability Day
+11	12	World Pneumonia Day
+11	12	Sun Yat-sen's Birthday (Doctor's Day) in Taiwan
+11	12	Journée Nationale Maoré in the Comoros
+11	12	National Health Day in Indonesia
+11	12	Birthday of Juana Inés de la Cruz in Mexico
+11	12	National Pizza with the Works Except Anchovies Day
+11	12	Father's Day in Indonesia
+11	13	Feast of Hundred Thousand Martyrs of Tbilisi in Georgia
+11	13	World Kindness Day
+11	13	Day of Radiological, Chemical and Biological Defense Troops in Russia
+11	13	Tree Day in North Macedonia
+11	13	National Indian Pudding Day
+11	14	Readjustment Movement Day in Guinea-Bissau
+11	14	Diwali
+11	14	Mobile Brigade Day in Indonesia
+11	14	Speech Pathologist Day
+11	14	National Tree Day in Luxembourg
+11	14	National Book Day in Iran
+11	14	Day of the Colombian Woman
+11	14	Dobruja Day in Romania
+11	14	National Pickle Day
+11	14	World Diabetes Day
+11	14	Children's Day in India
+11	15	Independence Day in Palestine
+11	15	Republic Day in Brazil
+11	15	National Peace Day in Ivory Coast
+11	15	German Community Day in Belgium
+11	15	Volkstrauertag (People's Mourning Day) in Germany
+11	15	King's Feast in Belgium
+11	15	St. Leopold's Day in Austria
+11	15	Day of the Imprisoned Writer
+11	15	Conscript's Day in Russia
+11	15	Agricultural Workers' Day
+11	15	National Currency Day in Kazakhstan
+11	15	National Tree Planting Day in Sri Lanka
+11	15	America Recycles Day
+11	15	Schichi-Go-San in Japan
+11	15	National Raisin Bran Cereal Day
+11	15	Sadie Hawkins Day
+11	15	World Day of Remembrance for Road Traffic Victims
+11	16	Mother's Day in North Korea
+11	16	Revolution Day in Mexico
+11	16	National Sovereignty Day in Argentina
+11	16	Statia Day in Sint Eustatius
+11	16	World Vasectomy Day
+11	16	Day of Radio, Television and Communication Workers In Ukraine
+11	16	Naval Infantry Day in Ukraine
+11	16	National Press Day in India
+11	16	Icelandic Language Day
+11	16	Day of Declaration of Sovereignty in Estonia
+11	16	President’s Day in Tajikistan
+11	16	Havana Foundation Anniversary in Cuba
+11	16	National Fast Food Day
+11	16	International Day for Tolerance
+11	17	Struggle for Freedom and Democracy Day in the Czech Republic and Slovakia
+11	17	President's Day in the Marshall Islands
+11	17	The Day the Maldives Embraced Islam
+11	17	International Students' Day
+11	17	World Prematurity Day
+11	17	National Entrepreneurs’ Day
+11	17	Black Cat Day in Italy
+11	17	Kyrgyz Cinema Day
+11	17	National Revival Day in Azerbaijan
+11	17	Martyrs’ Day in Odisha
+11	17	Homemade Bread Day
+11	18	Proclamation of the Republic in Latvia
+11	18	National Day in Oman
+11	18	Independence Day in Morocco
+11	18	Battle of Vertières Day in Haiti
+11	18	GIS Day
+11	18	Sergeant Day in Ukraine
+11	18	Buß- und Bettag (Day of Repentance and Prayer) in Germany
+11	18	Remembrance Day of the Sacrifice of Vukovar in 1991 in Croatia
+11	18	National Vichyssoise Day
+11	18	Mickey Mouse's Birthday
+11	18	World COPD Day
+11	19	National Day in Monaco
+11	19	Garifuna Settlement Day in Belize
+11	19	Puerto Rico Discovery Day
+11	19	Women's Entrepreneurship Day
+11	19	International Men's Day
+11	19	Hydrometeorological Service Workers' Day in Ukraine
+11	19	Missile Troops and Artillery Day
+11	19	Glass Industry Workers' Day in Ukraine
+11	19	Beaujolais Nouveau Day in France
+11	19	Flag Day in Brazil
+11	19	Martyrs’ Day in Uttar Pradesh
+11	19	Soup Day in Germany
+11	19	National Carbonated Beverage With Caffeine Day
+11	19	World Philosophy Day
+11	19	World Toilet Day
+11	19	Great American Smokeout
+11	20	Teachers' Day in Vietnam
+11	20	Royal Thai Navy Day
+11	20	Pediatrician Day
+11	20	Anniversary of the wedding of Elizabeth II in the UK
+11	20	Transgender Day of Remembrance
+11	20	20-N in Spain
+11	20	Black Awareness Day in Brazil
+11	20	National Peanut Butter Fudge Day
+11	20	Universal Children's Day
+11	20	Africa Industrialization Day
+11	21	General Framework Agreement Day in the Republika Srpska
+11	21	World Hello Day
+11	21	International Survivors of Suicide Day
+11	21	European Cystic Fibrosis Awareness Day
+11	21	Taxation Authorities Workers' Day in Russia
+11	21	Armed Forces Day in Bangladesh
+11	21	Armed Forces Day in Greece
+11	21	Air Assault Forces Day in Ukraine
+11	21	Social Workers’ Day in Poland
+11	21	Dignity and Freedom Day in Ukraine
+11	21	National Stuffing Day
+11	21	No Music Day
+11	21	World Television Day
+11	21	National Adoption Day
+11	22	Independence Day in Lebanon
+11	22	Totensonntag (Sunday of the Dead) in Germany
+11	22	Saint Cecilia’s Day in Mexico
+11	22	Teachers' Day in Costa Rica
+11	22	Justice Workers' Day in Azerbaijan
+11	22	Bank Workers' Day in Armenia
+11	22	Prosecutors’ Day in Kyrgyzstan
+11	22	Arbor Day in the British Virgin Islands
+11	22	Albanian Alphabet Day
+11	22	National Cranberry Relish Day
+11	22	Grandparents' Day in Singapore
+11	23	St George's Day in Georgia
+11	23	Labor Thanksgiving Day in Japan
+11	23	Rudolph Maister Day in Slovenia
+11	23	International Day to End Impunity
+11	23	World Watercolor Day
+11	23	Armed Forces Day in Lithuania
+11	23	National Espresso Day
+11	24	Flag Day in Tajikistan
+11	24	Teachers' Day in Turkey
+11	24	Martyrdom of Guru Tegh Bahadur
+11	24	Win Friends and Influence People Day in the USA
+11	24	National Sardines Day
+11	24	Evolution Day
+11	25	Statehood Day in Bosnia and Herzegovina
+11	25	Independence Day in Suriname
+11	25	Thanksgiving Day in Norfolk Islands
+11	25	National Teachers' Day in Indonesia
+11	25	Russian Military Peacekeepers’ Day
+11	25	Vajiravudh Day in Thailand
+11	25	Evacuation Day in New York City
+11	25	National Parfait Day
+11	25	Kadripäev (St Catherine's Day) in Estonia
+11	25	International Day for the Elimination of Violence against Women
+11	26	Thanksgiving Day in the USA
+11	26	Anti-Obesity Day
+11	26	Basij Day in Iran
+11	26	Republic Day in Mongolia
+11	26	Unthanksgiving Day / National Day of Mourning
+11	26	Constitution Day in India
+11	26	National Cake Day
+11	27	National Day of Thanksgiving in the Turks and Caicos Islands
+11	27	National Pride Day in Mongolia
+11	27	Family Day in Palau
+11	27	Marines Day in Russia
+11	27	Teachers' Day in Spain
+11	27	Aviation Day in Venezuela
+11	27	National Health Day in Thailand
+11	27	Lancashire Day in England
+11	27	Memorial Day for Medical Students in Cuba
+11	27	Great Heroes Day (Maaveerar Naal)
+11	27	National Bavarian Cream Pie Day
+11	27	Black Friday
+11	27	Buy Nothing Day
+11	27	National Day of Listening
+11	28	Independence Day in Albania
+11	28	Proclamation of Independence Day in East Timor
+11	28	Independence Day in Mauritania
+11	28	Independence Day in Panama
+11	28	Republic Day in Burundi
+11	28	Republic Day in Chad
+11	28	Navy Day in Iran
+11	28	Republic Day in the Republic of the Congo
+11	28	World Compassion Day
+11	28	Remembrance Day for the Victims of Holodomors in Ukraine
+11	28	National French Toast Day
+11	28	Buy Nothing Day
+11	28	Small Business Saturday
+11	29	Liberation Day in Albania
+11	29	Unity Day in Vanuatu
+11	29	William Tubman's Birthday in Liberia
+11	29	Tazaungdaing Festival in Myanmar
+11	29	First Sunday of Advent
+11	29	National Lemon Cream Pie Day
+11	29	International Day of Solidarity with the Palestinian People
+11	29	Mother's Day in Russia
+11	30	Independence Day in Yemen
+11	30	Independence Day in Barbados
+11	30	Bonifacio Day in the Philippines
+11	30	Martyrs’ Day / Commemoration Day in the UAE
+11	30	St. Andrew Day
+11	30	Guru Nanak Jayanti in India
+11	30	Cities for Life Day
+11	30	Regina Mundi Day in South Africa
+11	30	Day to Mark the Departure and Expulsion of Jews from the Arab Countries and Iran
+11	30	National Mousse Day
+11	30	World Pet Day
+11	30	Day of Remembrance for all Victims of Chemical Warfare
+11	30	Computer Security Day
+12	1	Day of the First President in Kazakhstan
+12	1	Republic Day in the Central African Republic
+12	1	Restoration of Independence in Portugal
+12	1	Great Union Day/National Day in Romania
+12	1	Freedom and Democracy Day in Chad
+12	1	Military Abolition Day in Costa Rica
+12	1	Day With(out) Art
+12	1	Prosecutors' Day in Ukraine
+12	1	Teachers' Day in Panama
+12	1	Ice Hockey Day in Russia
+12	1	Neurologist Day
+12	1	Battle of Sinop Day in Russia
+12	1	Self-governance Day in Iceland
+12	1	Damrong Rajanubhab Day in Thailand
+12	1	Rosa Parks Day
+12	1	Eat a Red Apple Day
+12	1	World AIDS Day
+12	2	National Day in Laos
+12	2	National Day in the UAE
+12	2	World Computer Literacy Day
+12	2	Armed Forces Day in Cuba
+12	2	Constitution Day in Iran
+12	2	National Fritters Day
+12	2	National Jandal Day in New Zealand
+12	2	National Skip School Day
+12	2	International Day for the Abolition of Slavery
+12	2	National Mutt Day
+12	3	Feast of Saint Francis Xavier
+12	3	3December
+12	3	Global No Pesticides Use Day
+12	3	Lawyer's Day in Russia
+12	3	Advocate's Day in India
+12	3	National Doctor’s Day in Cuba
+12	3	International Basque Language Day
+12	3	Day of the Unknown Soldier in Russia
+12	3	National Peppermint Latte Day
+12	3	International Day of Persons with Disabilities
+12	4	Saba Day
+12	4	King Tupou I Day in Tonga
+12	4	National Farmers' Day in Ghana
+12	4	Gospel Day in the Marshall Islands
+12	4	Presentation of Mary in Eastern Christianity
+12	4	Eid il-Burbara (Saint Barbara's Day)
+12	4	International Cheetah Day
+12	4	Navy Day in India
+12	4	Miners' Day in Poland
+12	4	Insurance Day in Iran
+12	4	Thai Environment Day
+12	4	Epic of Manas Day in Kyrgyzstan
+12	4	National Cookie Day
+12	4	International Sweater Vestival
+12	5	King Bhumibol Adulyadej’s Birthday / National Day / Father’s Day in Thailand
+12	5	Statistician's Day in Ukraine
+12	5	Battle of Moscow Day in Russia
+12	5	Discovery Day in Haiti and the Dominican Republic
+12	5	National Sachertorte Day
+12	5	Day of the Ninja
+12	5	Repeal Day in the United States
+12	5	International Volunteer Day for Economic and Social Development
+12	5	World Soil Day
+12	5	Children's Day in Suriname
+12	6	Constitution Day in Spain
+12	6	Independence Day in Finland
+12	6	Good Neighborliness Day in Turkmenistan
+12	6	Quito Day in Ecuador
+12	6	Saint Nicholas Day
+12	6	Second Sunday of Advent
+12	6	Armed Forces Day in Ukraine
+12	6	Prosecutor's Day in Kazakhstan
+12	6	Lawyer's Day in Belarus
+12	6	Ministry of Communications and Information Technologies Day in Azerbaijan
+12	6	Sindh Cultural Day
+12	6	Commemoration Day of Victims of Genocide Against the Latvian People by the Totalitarian Communist Regime in Latvia
+12	6	National Day of Remembrance and Action on Violence Against Women in Canada
+12	6	Dubrovnik Defenders' Day in Croatia
+12	6	National Gazpacho Day
+12	7	Eve of the Immaculate Conception
+12	7	Memorial Day in East Timor
+12	7	Day of Local Self-Government in Ukraine
+12	7	Armed Forces Flag Day in India
+12	7	National Pearl Harbor Remembrance Day
+12	7	Spitak Earthquake Remembrance Day in Armenia
+12	7	National Cotton Candy Day
+12	7	International Civil Aviation Day
+12	7	Student Day in Iran
+12	8	Mother's Day in Panama
+12	8	Constitution Day in Uzbekistan
+12	8	National Youth Day in Albania
+12	8	Battle of the Falklands Day
+12	8	Constitution Day in the Northern Mariana Islands
+12	8	Saint Clement of Ohrid Day in North Macedonia
+12	8	Our Lady of Camarin Day in Guam
+12	8	Virgin of Caacupé Day in Paraguay
+12	8	Feast of the Immaculate Conception
+12	8	Bodhi Day in Japan
+12	8	Day of Radio and Television Workers in Kyrgyzstan
+12	8	Day of Finnish Music
+12	8	Constitution Day in Romania
+12	8	National Brownie Day
+12	8	Student's Day in Bulgaria
+12	8	CARICOM-Cuba Day
+12	9	National Heroes Day in Antigua and Barbuda
+12	9	Independence Day and Republic Day in Tanzania
+12	9	National Day in Myanmar
+12	9	Teachers' Day in Israel
+12	9	Army Day in Peru
+12	9	Navy Day in Sri Lanka
+12	9	Heroes of Fatherland Day in Russia
+12	9	National Pastry Day
+12	9	International Anti-Corruption Day
+12	9	International Day of Commemoration and Dignity of the Victims of the Crime of Genocide and of the Prevention of this Crime
+12	9	Anna’s Day (Lutefisk Day) in Sweden and Finland
+12	10	Constitution Day in Thailand
+12	10	Human Rights and Peace Day in Kiribati
+12	10	Human Rights Day / Women’s Day in Namibia
+12	10	Victory over Daesh Day in Iraq
+12	10	International Animal Rights Day
+12	10	Alfred Nobel Day
+12	10	National Lager Day
+12	10	Human Rights Day
+12	11	Republic Day in Burkina Faso
+12	11	Fourth Republic Day in Madagascar
+12	11	Hanukkah
+12	11	National Tango Day in Argentina
+12	11	Establishment Anniversary of the Kurdish Women Union
+12	11	Sultan of Selangor’s Birthday in Mayalsia
+12	11	National Noodle Ring Day
+12	11	International Mountain Day
+12	12	Neutrality Day in Turkmenistan
+12	12	Jamhuri Day (National Day) in Kenya
+12	12	Hanukkah
+12	12	Our Lady of Guadalupe Day in Mexico
+12	12	Ukrainian Ground Forces Day
+12	12	Customs Day in Kazakhstan
+12	12	Croatian Air Force Day
+12	12	National Literature Day in Kyrgyzstan
+12	12	Kanji Day in Japan
+12	12	Constitution Day in Russia
+12	12	National Ambrosia Day
+12	12	International Day of Neutrality
+12	12	International Universal Health Coverage Day
+12	13	Republic Day in Malta
+12	13	National Day of Saint Lucia
+12	13	Hanukkah
+12	13	Third Sunday of Advent
+12	13	St. Lucy's Day
+12	13	Sailor's Day in Brazil
+12	13	Charity Day in Ukraine
+12	13	Nusantara Day in Indonesia
+12	13	Nanking Massacre Memorial Day
+12	13	Martial Law Victims Remembrance Day in Poland
+12	13	National Cocoa Day
+12	14	Hanukkah
+12	14	Petroleum Industry and Geology Workers' Day in Turkmenistan
+12	14	National Tree Planting Day in Malawi
+12	14	Martyred Intellectuals Day in Bangladesh
+12	14	Forty-seven Ronin Remembrance Day in Japan
+12	14	National Bouillabaisse Day
+12	14	Monkey Day
+12	15	Incwala in Eswatini (Swaziland)
+12	15	Hanukkah
+12	15	Court Workers' Day in Ukraine
+12	15	Zamenhof Day
+12	15	Kingdom Day in the Netherlands
+12	15	Bill of Rights Day
+12	15	Homecoming Day in Alderney
+12	15	Greek Operation Victims Remembrance Day
+12	15	National (Lemon) Cupcake Day
+12	15	International Tea Day
+12	16	Independence Day in Kazakhstan
+12	16	National Day in Bahrain
+12	16	Day of Reconciliation in South Africa
+12	16	Victory Day in Bangladesh
+12	16	Hanukkah
+12	16	Ministry of Emergency Situations Workers' Day in Azerbaijan
+12	16	Research Day in Iran
+12	16	National Sports Day in Thailand
+12	16	National Chocolate Covered Anything Day
+12	17	National Day in Bhutan
+12	17	Hanukkah
+12	17	International Day to End Violence Against Sex Workers
+12	17	State Executive Service Day in Ukraine
+12	17	Day of Belarusian Cinema
+12	17	Wright Brothers Day
+12	17	Pan American Aviation Day
+12	17	Kurdish Flag Day
+12	17	National Maple Syrup Day
+12	18	National Day in Qatar
+12	18	Republic Day in Niger
+12	18	Police Day in Moldova
+12	18	Insurance Employee Day in Kyrgyzstan
+12	18	University Unity Day in Iran
+12	18	National Roast Suckling Pig Day
+12	18	International Migrants Day
+12	18	UN Arabic Language Day
+12	19	National Heroes and Heroines Day in Anguilla
+12	19	Saint Nicholas Day
+12	19	Advocacy Day in Ukraine
+12	19	Goa Liberation Day
+12	19	National Oatmeal Muffin Day
+12	20	Macau Special Administrative Region Establishment Day
+12	20	Abolition Day in Reunion
+12	20	Fourth Sunday of Advent
+12	20	Security Service Workers' Day
+12	20	Power Engineer's Day in Kazakhstan
+12	20	State Courier Service Day in Kazakhstan
+12	20	Mourning Day in Panama
+12	20	Bo Aung Kyaw Day in Myanmar
+12	20	National Sangria Day
+12	20	International Human Solidarity Day
+12	21	São Tomé Day in São Tomé and Príncipe
+12	21	Armed Forces Day in the Philippines
+12	21	Dongzhi Festival
+12	21	Pancha Ganapati
+12	21	Saparmurat Niyazov Memorial Day In Turkmenistan
+12	21	National French Fried Shrimp Day
+12	21	Yule
+12	21	Shab-e Yalda
+12	22	National Unity Day in Zimbabwe
+12	22	Energy Industry Day
+12	22	Diplomatic Service Day in Ukraine
+12	22	Teachers' Day in Cuba
+12	22	People's Army Day in Vietnam
+12	22	National Mathematics Day in India
+12	22	Pancha Ganapati
+12	22	Forefathers’ Day in Plymouth
+12	22	National Date Nut Bread Day
+12	22	Mother's Day in Indonesia
+12	23	HumanLight
+12	23	Pancha Ganapati
+12	23	Night of the Radishes in Oaxaca
+12	23	Birthday of Queen Silvia in Sweden
+12	23	Victory Day in Egypt
+12	23	Chaudhary Charan Singh’s Birthday in Uttar Pradesh
+12	23	National Pfeffernuesse Day
+12	23	Festivus
+12	23	Tibb’s Eve in Newfoundland and Labrador
+12	23	Tom Bawcock’s Eve in Mousehole
+12	23	Children’s Day in Sudan
+12	24	Independence Day in Libya
+12	24	Christmas Eve in Western Christianity
+12	24	Archivists' Day in Ukraine
+12	24	Pancha Ganapati
+12	24	Siege of Izmail Day in Russia
+12	24	Yap Constitution Day in Micronesia
+12	24	National Egg Nog Day
+12	25	Christmas
+12	25	Quaid-i-Azam Day in Pakistan
+12	25	Tenth of Tevet
+12	25	Pancha Ganapati
+12	25	Newtonmas (Newton’s Birthday)
+12	25	Good Governance Day in India
+12	25	Constitution Day in Taiwan
+12	25	National Pumpkin Pie Day
+12	26	Independence and Unity Day in Slovenia
+12	26	Saint Stephen’s Day / Boxing Day
+12	26	Kwanzaa
+12	26	National Candy Cane Day
+12	26	Father's Day in Bulgaria
+12	27	Constitution Day in North Korea
+12	27	Emergency Rescuer's Day in Russia
+12	27	Kwanzaa
+12	27	National Fruitcake Day
+12	28	Feast of Holy Innocents in Western Christianity
+12	28	Feast of Saint Gabriel in Ethiopia (Kulubi Gabriel)
+12	28	Kwanzaa
+12	28	King Taksin Memorial Day in Thailand
+12	28	National Chocolate Candy Day
+12	29	National Independence Day in Mongolia
+12	29	International Cello Day
+12	29	Kwanzaa
+12	29	Constitution Day in Ireland
+12	29	National Pepper Pot Day
+12	30	Rizal Day in the Philippines
+12	30	Kwanzaa
+12	30	Day of the Declaration of Slovakia as an Independent Ecclesiastic Province
+12	30	National Bicarbonate of Soda Day
+12	31	Saint Sylvester’s Day / New Year’s Eve
+12	31	International Solidarity Day of Azerbaijanis
+12	31	National Heroes Day in East Timor
+12	31	Customs Officers' Day in Kyrgyzstan
+12	31	Kwanzaa
+12	31	Restoration Day in Geneva
+12	31	National Champagne Day
+12	31	First Night in the USA

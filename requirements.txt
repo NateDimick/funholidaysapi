@@ -3,3 +3,4 @@ flask-api
 flask-cors
 gunicorn
 psycopg2
+markdown

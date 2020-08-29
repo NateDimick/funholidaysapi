@@ -1,4 +1,4 @@
-import datetime, json, psycopg2, os, random
+import datetime, json, psycopg2, os, random, markdown
 from urllib.parse import urlparse
 from flask import Flask, render_template, request, jsonify
 from flask_api import status
@@ -15,12 +15,33 @@ month_days = [31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
 
 @app.route("/")
 def index():
-    return render_template("index.html")
+    h = today().json
+    return render_template("index.html", month=h['month'], day = h['day'], holidays=h['holidays'])
 
 
 @app.route("/api")
 def docs():
-    return render_template("docs.html")
+    with open("README.md", 'r', encoding="UTF-8") as f:
+        i = f.read()
+        readme = markdown.markdown(i, extensions=["fenced_code"])
+    return render_template("docs.html", md=readme)
+
+@app.route("/app")
+def lookup():
+    return render_template("lookup.html")
+
+
+def holidays_date(month, day):
+    if not 1 <= month <= 12:
+        return {}
+    else:
+        if not 1 <= day <= month_days[month - 1]:
+            return {}
+    with open("queries/date.sql", "r") as query:
+        cur.execute(query.read(), (month, day))
+        holidays = cur.fetchall()
+        return holidays
+
 
 # actual api routes
 @app.route("/api/today")
@@ -31,9 +52,7 @@ def today():
     today = datetime.date.today()
     day = today.day
     month = today.month
-    with open("queries/date.sql", "r") as query:
-        cur.execute(query.read(), (month, day))
-        holidays = cur.fetchall()
+    holidays = holidays_date(month, day)
 
     return jsonify({"day": day, "month": month, "holidays": [h[0] for h in holidays]})
 
@@ -63,15 +82,9 @@ def date():
     """
     month = int(request.args.get("month", 0))
     day = int(request.args.get("day", 0))
-    # throw error
-    if not 1 <= month <= 12:
-        return jsonify({}), status.HTTP_400_BAD_REQUEST
-    else:
-        if not 1 <= day <= month_days[month - 1]:
-            return jsonify({}), status.HTTP_400_BAD_REQUEST
-    with open("queries/date.sql", "r") as query:
-        cur.execute(query.read(), (month, day))
-        holidays = cur.fetchall()
+    holidays = holidays_date(month, day)
+    if not holidays:
+        return jsonify(holidays), status.HTTP_400_BAD_REQUEST
 
     return jsonify({"day": day, "month": month, "holidays": [h[0] for h in holidays]})
 
@@ -103,9 +116,7 @@ def when():
 def rand_holiday():
     month = random.randint(1, 12)
     day = random.randint(1, month_days[month - 1])
-    with open("queries/date.sql", "r") as query:
-        cur.execute(query.read(), (month, day))
-        holidays = cur.fetchall()
+    holidays = holidays_date(month, day)
     random.shuffle(holidays)
     winner = holidays[0]
     h = winner[0]

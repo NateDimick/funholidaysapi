@@ -3,23 +3,18 @@
 {% set title = 'Fun Holiday Documentation' %}
 
 {% block body %}
-    <header>
-        <h1>
-            Documentation
-        </h1>
-        <div>
-            <h2>
-                <a href="/">Go Home</a>
-            </h2>
-        </div>
-    </header>
+<header>
+    <h1>
+        Documentation
+    </h1>
     <div>
-        <p>
-            Better Documentation Coming Soon
-        </p>
-        <p>
-            Or just read the <a href="https://github.com/NateDimick/funholidaysapi">README on Github</a>
-        </p>
+        <h2>
+            <a href="/">Go Home</a>
+        </h2>
     </div>
+</header>
+<div>
+    {{ md|safe }}
+</div>
 {% endblock %}
 

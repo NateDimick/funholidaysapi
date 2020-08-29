@@ -14,7 +14,7 @@ for month_num in range(12):
     print(month)
     if len(m) == 1:
         m = "0" + m
-    for day_num in range(10): #range(month_days[month_num]):
+    for day_num in range(month_days[month_num]):
         day = str(day_num + 1)
         if len(day) == 1:
             day = "0" + day
