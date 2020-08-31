@@ -1,6 +1,6 @@
 # Fun Holidays
 
-Over 5000 Holidays that you may or may not have heard of that happen annually - all convenianetly avaibale through this API. 
+Over 5000 Holidays that you may or may not have heard of that happen annually - all conveniently available through this API. 
 
 Ever wondered what obscure holidays were today? On your birthday? Or this month? Or how many pizza-related holidays there are? 
 

@@ -3,10 +3,10 @@ console.log("Hello! I've loaded");
 function appToggle(bool) {
     console.log("setting toggler");
     let displays = ['none', 'block'];
-    let colors = ['slategray', 'cadetblue']
+    let colors = ['darkcyan', 'dodgerblue']
     if (bool) {
         displays = ['block', 'none'];
-        colors = ['cadetblue', 'slategray']
+        colors = ['dodgerblue', 'darkcyan']
     }
     return () => {
         console.log("toggling");
@@ -73,7 +73,9 @@ function wordQuery() {
             resultContainer.removeChild(resultContainer.lastChild);
         };
         if (Object.keys(data).length === 0) {
-            resultPlaceholder.style.display = 'inline';
+            let failure = document.createElement("p");
+            failure.innerHTML = `No results for "${word}"`;
+            resultContainer.appendChild(failure);
         }
         Object.keys(data).forEach(month => {
             Object.keys(data[month]).forEach(day => {
