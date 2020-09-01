@@ -2,6 +2,8 @@
 this actually exports a tsv, sooooo...
 """
 import csv, html
+from textdistance import levenshtein
+from re import search
 
 months = {"Jan": 1, "Feb": 2, "Mar": 3, "Apr": 4, "May": 5, "Jun": 6, "Jul": 7, "Aug": 8, "Sep": 9, "Oct": 10, "Nov": 11, "Dec": 12}
 
@@ -70,6 +72,29 @@ def main():
                 month, day, holiday = html.unescape(line).replace('\uFFFD', "'").split('\t')
                 if "Month" not in holiday and "Week" not in holiday:
                     rows.append((int(month), int(day), holiday.strip()))
+        # copied from https://en.wikipedia.org/wiki/List_of_minor_secular_observances
+        with open("fun_holidays_6.txt", "r", encoding="UTF-8") as f:
+            for line in f:
+                cols = line.split('\t')
+                if len(cols) > 1 and line[:3] in months.keys():
+                    try:
+                        month = months[cols[0][:3]]
+                        day = int(cols[0].split()[1].split("(")[0][:2])
+                        holiday = cols[1].split("[")[0]
+                        rows.append((month, day, holiday))
+                    except:
+                        print(line)
+        # data scraped from https://checkiday.com/{month}/{day}/2020
+        with open("fun_holidays_7.txt", "r", encoding="UTF-8") as f:
+            for line in f:
+                month, day, holiday = html.unescape(line).replace('\uFFFD', "'").split('\t')
+                if "Month" not in holiday and "Week" not in holiday:
+                    rows.append((int(month), int(day), holiday.strip()))
+        # the fakest hlidays - ones made up that are exclusive to this dataset, just to see if any future data sets carry these then that means this db was the source
+        with open("copy_trap.txt", "r") as f:
+            for line in f:
+                month, day, holiday = line.split(",")
+                rows.append((int(month), int(day), holiday.strip()))
 
         rowset = set(rows)
         rows = list(rowset)
@@ -86,7 +111,7 @@ def remove_near_duplicates(rowlist):
     if only one mismatch - caused by "national" or an apostrophe, keep the longer one, ditch the shorter one
     """
     def inner_duplicates(hList):
-        set_list = {h: set(h.split()) for h in hList}  # map of holidays to their word sets
+        set_list = {h: set(h.lower().split()) for h in hList}  # map of holidays to their word sets
         new_list = []  # output set
         banned = set()
         for i, h1 in enumerate(hList):
@@ -98,7 +123,13 @@ def remove_near_duplicates(rowlist):
                     intersection = s1.intersection(s2)
                     difference = s1.symmetric_difference(s2)
                     if len(intersection) > 1 and 1 <= len(difference) <= 2:  # accounts for single differences (National added or not) and spelling differences (apostorphe)
-                        matches.append(h2)
+                        if len(difference) > 1:
+                            # checking edit distance chnged dataset from 5366 entries to 5588 entries
+                            if levenshtein(h1.lower(), h2.lower()) < 3:  # only a match if the two strings are very similar
+                                matches.append(h2)
+                            #print(difference, h1, h2)
+                        else:
+                            matches.append(h2)  # if difference == 1 then it's just an addition/ subtraction of one word, they match
                 if matches:
                     matches.append(h1)
                     matches.sort(key=lambda x: len(x), reverse=True)  # sort by longest first
@@ -128,9 +159,9 @@ def remove_multiday_duplicates(rowlist):
     hset = set()
     new_list = []
     for row in rowlist:
-        m, d, h = row
-        if h not in hset:
-            hset.add(h)
+        h = row[2]
+        if h.lower() not in hset:
+            hset.add(h.lower())
             new_list.append(row)
 
     return new_list

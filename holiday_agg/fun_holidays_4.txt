@@ -2580,3 +2580,74 @@
 12	9	International Anti-Corruption Day
 12	10	Human Rights Day
 12	10	Lager Day
+12	11	Mountain Day
+12	11	Have a Bagel Day
+12	11	Noodle Ring Day
+12	11	Lost & Found Day
+12	12	Poinsettia Day
+12	12	Gingerbread House Day
+12	12	Shareware Day
+12	12	Gingerbread Decorating Day
+12	13	Violin Day
+12	13	Hot Cocoa Day
+12	13	Worldwide Candle Lighting Day
+12	13	Choral Day
+12	14	Monkey Day
+12	14	Roast Chestnuts Day
+12	14	Bouillabaisse Day
+12	15	Cat Herders Day
+12	15	Lemon Cupcake Day
+12	15	International Tea Day
+12	16	Chocolate Covered Anything Day
+12	16	Day Of Reconciliation
+12	17	Re-gifting Day
+12	17	Maple Syrup Day
+12	17	Wright Brothers Day
+12	18	Ugly Christmas Sweater Day
+12	18	Bake Cookies Day
+12	18	Roast Suckling Pig Day
+12	18	International Migrants Day
+12	18	Arabic Language Day
+12	18	Underdog Day
+12	19	Look For An Evergreen Day
+12	19	Oatmeal Muffin Day
+12	20	Go Caroling Day
+12	20	Games Day
+12	20	Sangria Day
+12	20	A Blue Christmas
+12	20	Pear Month
+12	20	Food Service Safety Month
+12	20	Operation Santa Paws
+12	20	Write a Business Plan Month
+12	20	Human Rights Month
+12	20	Tie Month
+12	21	Humbug Day
+12	21	Flashlight Day
+12	21	Look On The Bright Side Day
+12	21	Don’t Make Your Bed Day
+12	21	Short Story Day
+12	21	Short Girl Appreciation Day
+12	21	Ribbon Candy Day
+12	21	Crossword Puzzle Day
+12	21	Dalek Remembrance Day
+12	22	Date Nut Bread Day
+12	22	Forefathers’ Day
+12	23	Roots Day
+12	23	Festivus
+12	24	Eggnog Day
+12	25	Pumpkin Pie Day
+12	26	Thank You Note Day
+12	26	Candy Cane Day
+12	26	A Blue Christmas
+12	27	Make Cut-out Snowflakes Day
+12	27	Fruitcake Day
+12	27	Visit The Zoo Day
+12	28	Card Playing Day
+12	29	Tick Tock Day
+12	29	Pepper Pot Day
+12	30	Bacon Day
+12	30	Bicarbonate of Soda Day
+12	31	No Interruptions Day
+12	31	Make Up Your Mind Day
+12	31	Champagne Day
+12	31	A Blue Christmas
