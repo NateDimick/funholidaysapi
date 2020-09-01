@@ -101,6 +101,7 @@ def main():
         rows.sort(key=lambda x: (x[0], x[1]))
         rows = remove_near_duplicates(rows)
         rows = remove_multiday_duplicates(rows)
+        rows = [(i + 1, *vals) for i, vals in enumerate(rows)]
         print(len(rows), len(set([h[2] for h in rows])))
         writer.writerows(rows)
 
