@@ -18,7 +18,7 @@ body > div {
 
 .nav {
     margin: 0% 18%;
-    width: 64%;
+    width: 64.517%;
     display: table;
     align-content: center;
     text-align: center;
@@ -71,18 +71,19 @@ a {
     background-color: darkcyan;
     border-style: none;
     border-width: 0;
+    display: table;
     padding: 0%;
-    width: 65%;
-    margin: 0% 17.5%;
+    width: 64.517%;
+    margin: 0% 18%;
 }
 
 
 .tab {
     border-radius: 2em 2em 0 0;
     width: 49%;
-    display: inline-block;
+    display: table-cell;
     border-style: solid solid none solid;
-    border-width: 5%;
+    border-width: 1%;
     border-color: dodgerblue;
     background: cadetblue;
     padding: 1%;

@@ -17,8 +17,12 @@
 </header>
 <div id="tabs">
     <!-- These tabs will toggle which of the forms below actually appears -->
-    <button class="tab" id="word-tab" style="background-color: dodgerblue;">Keyword Search</button>
-    <button class="tab" id="date-tab" style="background-color: darkcyan;">Date Search</button>
+    <div class="tab" id="word-tab" style="background-color: dodgerblue;">
+        <p>Keyword Search</p>
+    </div>
+    <div class="tab" id="date-tab" style="background-color: darkcyan;">
+        <p>Date Search</p>
+    </div>
 </div>
 <div id="word-search" class="field">
     <!-- This div will be a form to find holidays based on keyword similarity -->
@@ -42,8 +46,21 @@
     let t2 = appToggle(false);
     document.querySelector("#word-tab").addEventListener("click", t1);
     document.querySelector('#date-tab').addEventListener("click", t2);
-    console.log("hello?");
-    document.querySelector('#date').addEventListener("change", dateQuery) // TODO
+    document.querySelector('#date').addEventListener("change", dateQuery);
     document.querySelector('#keyword-search').addEventListener("click", wordQuery);
 </script>
+{% if keyword %}
+<script>
+    console.log("KEYWORD", "{{ keyword|safe }}")
+    document.getElementById("keyword").value = "{{ keyword|safe }}";
+    wordQuery();
+</script>
+{% endif %}
+{% if date %}
+<script>
+    appToggle(false)();
+    document.getElementById("date").value = "{{ date|safe }}";
+    dateQuery();
+</script>
+{% endif %}
 {% endblock %}

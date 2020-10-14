@@ -28,7 +28,14 @@ def docs():
 
 @app.route("/app")
 def lookup():
-    return render_template("lookup.html")
+    args = request.args        
+    if args.get("kw", ""):
+        return render_template("lookup.html", keyword=args["kw"])
+    elif args.get("dt", ""):
+        return render_template("lookup.html", date=args["dt"])
+    else:
+        return render_template("lookup.html")
+
 
 
 def holidays_date(month, day):

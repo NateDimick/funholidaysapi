@@ -1,5 +1,3 @@
-// coming soon
-console.log("Hello! I've loaded");
 function appToggle(bool) {
     console.log("setting toggler");
     let displays = ['none', 'block'];
@@ -48,6 +46,10 @@ function dateQuery() {
             p.innerHTML = `${date[1]}/${date[2]}: ${element}`
             resultContainer.appendChild(p);
         });
+        let h = document.createElement("h2");
+        let rawDate = document.querySelector('#date').value;
+        h.innerHTML = `Share these results <a href="https://fun-holiday-api.herokuapp.com/app?dt=${rawDate}">https://fun-holiday-api.herokuapp.com/app?dt=${rawDate}</a>`;
+        resultContainer.appendChild(h);
     });
 }
 
@@ -85,6 +87,10 @@ function wordQuery() {
                     resultContainer.appendChild(p);
                 })
             })
-        })
+        });
+        let h = document.createElement("h2");
+        let linkWord = encodeURIComponent(word);
+        h.innerHTML = `Share these results <a href="https://fun-holiday-api.herokuapp.com/app?kw=${linkWord}">https://fun-holiday-api.herokuapp.com/app?kw=${linkWord}</a>`;
+        resultContainer.appendChild(h);
     });
 }
