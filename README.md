@@ -80,9 +80,7 @@ GET /api/month/4
 
 ### GET /search/{query}
 
-arguements: like (string, required, unless you want the entire contents of the database returned)
-
-returns all the holidays that have titles that pattern match the like argument, sorted by date
+returns all the holidays that have titles that pattern match the query parameter, sorted by date
 
 ``` JSON
 GET /api/search/pizza

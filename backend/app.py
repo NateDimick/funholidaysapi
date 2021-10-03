@@ -94,7 +94,7 @@ def when(pattern):
     for h in holidays:
         m = days.get(h.month, {})  # creates new month dict if first time
         d = m.get(h.day, [])     # creates new day list if first time
-        d.back_append(h.holiday)          # append holiday 
+        d.append(h.holiday)          # append holiday 
         m[h.day] = d             # replace day list (or assign it)
         days[h.month] = m          # replace (or assign) month dict
 
