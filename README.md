@@ -26,7 +26,7 @@ GET /api/today
 }
 ```
 
-### GET /date
+### GET /date/{month}/{day}
 
 arguments: month, day (both required, both ints.)
 
@@ -34,7 +34,7 @@ returns all annual holidays that take place on month/day/year
 
 ``` JSON
 
-GET /api/date?month=11&day=26
+GET /api/date/11/26
 
 {
     "day": 26,
@@ -60,14 +60,14 @@ GET /api/random
 }
 ```
 
-### GET /month
+### GET /month/{month}
 
 arguments: month (int, required)
 
 returns all the holidays that take place in the specified month, grouped by the day they occur on.
 
 ``` JSON
-GET /api/month?month=4
+GET /api/month/4
 
 {
     "month": 4,
@@ -78,14 +78,14 @@ GET /api/month?month=4
         "4": ...
 ```
 
-### GET /when
+### GET /search/{query}
 
 arguements: like (string, required, unless you want the entire contents of the database returned)
 
 returns all the holidays that have titles that pattern match the like argument, sorted by date
 
 ``` JSON
-GET /api/when?like=pizza
+GET /api/search/pizza
 
 {
     "2": {

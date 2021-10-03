@@ -18,13 +18,13 @@ function appToggle(bool) {
 function dateQuery() {
     let date = document.querySelector('#date').value.split("-");
     try {
-        let url = `https://fun-holiday-api.herokuapp.com/api/date?month=${date[1]}&day=${date[2]}`
+        let url = `/api/date/${date[1]}/${date[2]}`
         console.log(url);
     } catch (error) {
         console.log('bad date');
         return false;
     }
-    let url = `https://fun-holiday-api.herokuapp.com/api/date?month=${date[1]}&day=${date[2]}`
+    let url = `/api/date/${date[1]}/${date[2]}`
     fetch(url)
     .then(response => response.json())
     .then(data => data.holidays)
@@ -48,7 +48,7 @@ function dateQuery() {
         });
         let h = document.createElement("h2");
         let rawDate = document.querySelector('#date').value;
-        h.innerHTML = `Share these results <a href="https://fun-holiday-api.herokuapp.com/app?dt=${rawDate}">https://fun-holiday-api.herokuapp.com/app?dt=${rawDate}</a>`;
+        h.innerHTML = `Share these results <a href="https://national-api-day.herokuapp.com/app?dt=${rawDate}">https://national-api-day.herokuapp.com/app?dt=${rawDate}</a>`;
         resultContainer.appendChild(h);
     });
 }
@@ -66,7 +66,7 @@ function wordQuery() {
     } else {
         resultPlaceholder.style.display = 'none';
     }
-    let url = `https://fun-holiday-api.herokuapp.com/api/when?like=${word}`;
+    let url = `/api/search/${word}`;
     fetch(url)
     .then(response => response.json())
     .then(data => {
@@ -90,7 +90,7 @@ function wordQuery() {
         });
         let h = document.createElement("h2");
         let linkWord = encodeURIComponent(word);
-        h.innerHTML = `Share these results <a href="https://fun-holiday-api.herokuapp.com/app?kw=${linkWord}">https://fun-holiday-api.herokuapp.com/app?kw=${linkWord}</a>`;
+        h.innerHTML = `Share these results <a href="https://national-api-day.herokuapp.com/app?kw=${linkWord}">https://national-api-day.herokuapp.com/app?kw=${linkWord}</a>`;
         resultContainer.appendChild(h);
     });
 }

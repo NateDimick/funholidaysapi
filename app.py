@@ -102,12 +102,12 @@ def date(m=0,d=0):
 
     return jsonify({"day": day, "month": month, "holidays": [h.holiday for h in holidays]})
 
-@app.route("/api/when")
-def when():
+@app.route("/api/search/<pattern>")
+def when(pattern):
     """
     returns the names and dates of holidays that match a query string
     """
-    pattern = request.args.get("like", "") # TODO: make sure this is safe from injection attacks
+    
     if not pattern:
         # throw error
         return jsonify({}), status.HTTP_400_BAD_REQUEST
@@ -116,11 +116,11 @@ def when():
     days = {}
     print(pattern, holidays)
     for h in holidays:
-        m = days.get(h[0], {})  # creates new month dict if first time
-        d = m.get(h[1], [])     # creates new day list if first time
-        d.append(h[2])          # append holiday 
-        m[h[1]] = d             # replace day list (or assign it)
-        days[h[0]] = m          # replace (or assign) month dict
+        m = days.get(h.month, {})  # creates new month dict if first time
+        d = m.get(h.day, [])     # creates new day list if first time
+        d.append(h.holiday)          # append holiday 
+        m[h.day] = d             # replace day list (or assign it)
+        days[h.month] = m          # replace (or assign) month dict
 
     return jsonify(days)
 
