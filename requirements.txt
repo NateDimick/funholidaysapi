@@ -6,4 +6,5 @@ Flask-SQLAlchemy
 gunicorn
 markdown
 psycopg2-binary
+requests
 textdistance

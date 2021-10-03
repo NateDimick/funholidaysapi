@@ -13,7 +13,7 @@
                 Need Fun Holiday Info?
             </h1>
             <h2>
-                <a href="/api">Read The API Docs</a>
+                <a href="/docs">Read The API Docs</a>
             </h2>
         </div>
         <div>
@@ -21,7 +21,7 @@
                 Not Interested in the API?
             </h1>
             <h2>
-                <a href="/app">Use the Interactive Lookup Tool</a>
+                <a href="/demo">Use the Interactive Lookup Tool</a>
             </h2>
         </div>
     </div>
@@ -35,11 +35,11 @@
     <h1>
         Today's Holidays
     </h1>
-    <ul>
-        {% for holiday in holidays %}
-            <li> {{ month }} / {{ day }} : {{ holiday }}</li>
-        {% endfor %}
+    <ul id="today">
     </ul>
+    <script>
+        todaysHolidays();
+    </script>
 </div>
 {% endblock %}
 

@@ -94,3 +94,17 @@ function wordQuery() {
         resultContainer.appendChild(h);
     });
 }
+
+function todaysHolidays() {
+    const url = "/api/today";
+    fetch(url)
+    .then(response => response.json())
+    .then(data => {
+        const list = document.querySelector("#today");
+        data.holidays.forEach(holiday => {
+            listElement = document.createElement("li");
+            listElement.innerHTML = `${data.month}/${data.day}: ${holiday}`;
+            list.appendChild(listElement);
+        })
+    })
+}
