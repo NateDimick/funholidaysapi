@@ -1,17 +1,27 @@
-import datetime, json, psycopg2, os, random, markdown
+import datetime, json, os, random, markdown
 from urllib.parse import urlparse
 from flask import Flask, render_template, request, jsonify
 from flask_api import status
 from flask_cors import CORS, cross_origin
+from flask_sqlalchemy import SQLAlchemy
 
 app = Flask(__name__)
 CORS(app)
-url = urlparse(os.environ.get('DATABASE_URL'))
-db = "dbname=%s user=%s password=%s host=%s " % (url.path[1:], url.username, url.password, url.hostname)
-conn = psycopg2.connect(db)
+app.config['SQLALCHEMY_DATABASE_URI'] = os.environ['DATABASE_URL'].replace("postgres://", "postgresql://", 1)
+app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
+app.config['SECRET_KEY'] = 'makeNewKeyLater'
+db = SQLAlchemy(app)
 
-cur = conn.cursor()
 month_days = [31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
+
+# TODO: mode to own file?
+class Holidays(db.Model):
+    month = db.Column(db.Integer)
+    day = db.Column(db.Integer)
+    holiday = db.Column(db.String(255), primary_key=True) #, unique=True)
+    # source = db.Column(db.String(255))
+    # last_updated = db.Column(db.String(255))
+    # fixed_date = db.Column(db.Boolean())
 
 @app.route("/")
 def index():
@@ -44,13 +54,11 @@ def holidays_date(month, day):
     else:
         if not 1 <= day <= month_days[month - 1]:
             return {}
-    with open("queries/date.sql", "r") as query:
-        cur.execute(query.read(), (month, day))
-        holidays = cur.fetchall()
-        return holidays
+    return Holidays.query.filter_by(month=month, day=day).all()
 
 
 # actual api routes
+# TODO: surround with try/catch in real deploy so flask error pages don't show uuuuuuuuuu
 @app.route("/api/today")
 def today():
     """
@@ -60,40 +68,39 @@ def today():
     day = today.day
     month = today.month
     holidays = holidays_date(month, day)
+    print(holidays)
 
-    return jsonify({"day": day, "month": month, "holidays": [h[0] for h in holidays]})
+    return jsonify({"day": day, "month": month, "holidays": [h.holiday for h in holidays]})
 
-@app.route("/api/month")
-def month():
+@app.route("/api/month/<m>")
+def month(m=0):
     """
     returns all of the fun holidays the specified month
     """
-    m = int(request.args.get("month", 0))
+    m = int(m)
     if not 1 <= m <= 12:
         # throw error
         return jsonify({}), status.HTTP_400_BAD_REQUEST
-    with open("queries/month.sql", "r") as query:
-        cur.execute(query.read(), (m, ))
-        holidays = cur.fetchall()
+    holidays = Holidays.query.filter_by(month=m).all()
 
     this_month = {}
     for h in holidays:
-        this_month[h[0]] = this_month.get(h[0], []) + [h[1]]
+        this_month[h.day] = this_month.get(h.day, []) + [h.holiday]
 
     return jsonify({"month": m, "holidays": this_month})
 
-@app.route("/api/date")
-def date():
+@app.route("/api/date/<m>/<d>")
+def date(m=0,d=0):
     """
     returns all the fun holidays on the specified date
     """
-    month = int(request.args.get("month", 0))
-    day = int(request.args.get("day", 0))
+    month = int(m)
+    day = int(d)
     holidays = holidays_date(month, day)
     if not holidays:
         return jsonify(holidays), status.HTTP_400_BAD_REQUEST
 
-    return jsonify({"day": day, "month": month, "holidays": [h[0] for h in holidays]})
+    return jsonify({"day": day, "month": month, "holidays": [h.holiday for h in holidays]})
 
 @app.route("/api/when")
 def when():
@@ -104,9 +111,7 @@ def when():
     if not pattern:
         # throw error
         return jsonify({}), status.HTTP_400_BAD_REQUEST
-    with open("queries/when.sql", "r") as query:
-        cur.execute(query.read(), (f"%{pattern}%", ))
-        holidays = cur.fetchall()
+    holidays = Holidays.query.filter(Holidays.holiday.ilike(f"%{pattern}%")).all()
 
     days = {}
     print(pattern, holidays)
@@ -126,8 +131,7 @@ def rand_holiday():
     holidays = holidays_date(month, day)
     random.shuffle(holidays)
     winner = holidays[0]
-    h = winner[0]
-    return jsonify({"month": month, "day": day, "holiday": h})
+    return jsonify({"month": month, "day": day, "holiday": winner.holiday})
 
 
 # use flask run -h 0.0.0.0

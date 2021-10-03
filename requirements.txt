@@ -1,7 +1,9 @@
+bs4
 flask
 flask-api
 flask-cors
+Flask-SQLAlchemy
 gunicorn
-psycopg2
 markdown
+psycopg2-binary
 textdistance
