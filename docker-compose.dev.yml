@@ -1,4 +1,4 @@
-version: '3.3'
+version: '3.3' #apt install docker-compose didn't like version 3.8
 
 services:
   web:
@@ -7,7 +7,7 @@ services:
     ports:
     - 5000:5000
     environment:
-    - DATABASE_URL=postgres://nnyawbjgmpmged:b213798d5bdda6b7a587baedcf19c4f88f682819249c22d574546d7803b284e3@ec2-34-238-26-109.compute-1.amazonaws.com:5432/d20pqjpto4a1hn
+    - DATABASE_URL=INSERT_LATER
     volumes:
     - ./:/app
 
