@@ -1,1 +1,1 @@
-web: ./bin/funholidaysapi
+web: bin/funholidaysapi
