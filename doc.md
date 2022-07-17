@@ -1,4 +1,4 @@
-# Fun Holidays
+# National API Day API Reference
 
 Over 7000 Holidays that you may or may not have heard of that happen annually - all conveniently available through this API.
 
@@ -12,7 +12,7 @@ All API urls are extended off of /api
 
 ### GET /today
 
-arguements: none
+arguments: none
 
 returns all of the holidays that take place on the date of the GET request in GMT +/- 0:00
 
@@ -46,7 +46,7 @@ GET /api/date/11/26
 
 ### GET /random
 
-arguements: none
+arguments: none
 
 returns the date and name of a single random holiday on that date
 
@@ -129,4 +129,4 @@ Can't find a holiday that you expect?
 
 * suggest adding it under the issues for this project on github
 * create a pr and add it yourself
-  * prefereably, follow the procedure in the holiday_agg directory
+  * preferably, follow the procedure in the holiday_agg directory

@@ -9,7 +9,8 @@ import (
 func LoadDotEnv() {
 	err := godotenv.Load()
 	if err != nil {
-		log.Fatal(".env load failed")
-		log.Fatal(err.Error())
+		log.Output(0, ".env load failed")
+		log.Output(0, err.Error())
+		log.Output(0, "assuming app is using pre-set env vars - continuing")
 	}
 }

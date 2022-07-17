@@ -1,5 +1,4 @@
-venv/*
 .vscode/*
-*pyc*
 .env
 *.exe
+funholidaysapi

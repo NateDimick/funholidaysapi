@@ -1,8 +1,4 @@
-{% extends "template.html" %}
-
-{% set title = 'Fun Holiday Lookup Tool' %}
-
-{% block body %}
+{{define "content"}}
 <header>
     <h1>
         Fun Holiday Lookup Portal
@@ -49,18 +45,22 @@
     document.querySelector('#date').addEventListener("change", dateQuery);
     document.querySelector('#keyword-search').addEventListener("click", wordQuery);
 </script>
-{% if keyword %}
 <script>
-    console.log("KEYWORD", "{{ keyword|safe }}")
-    document.getElementById("keyword").value = "{{ keyword|safe }}";
-    wordQuery();
+    const kw = "{{ call $.keyword }}"
+    if (kw !== "") {
+        appToggle(true)()
+        console.log("KEYWORD", kw)
+        document.getElementById("keyword").value = kw;
+        wordQuery();
+    }
 </script>
-{% endif %}
-{% if date %}
 <script>
-    appToggle(false)();
-    document.getElementById("date").value = "{{ date|safe }}";
-    dateQuery();
+    const dt = "{{ call $.date }}"
+    if (dt !== "") {
+        appToggle(false)();
+        console.log("DATETIME", dt)
+        document.getElementById("date").value = dt;
+        dateQuery();
+    }
 </script>
-{% endif %}
-{% endblock %}
+{{end}}

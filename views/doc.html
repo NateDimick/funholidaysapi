@@ -1,12 +1,6 @@
-{% extends "template.html" %}
-
-{% set title = 'Fun Holiday Documentation' %}
-
-{% block body %}
+{{define "content"}}
 <header>
-    <h1>
-        Documentation
-    </h1>
+    <h1>API Reference</h1>
     <div class="nav">
         <div>
             <h2>
@@ -21,7 +15,6 @@
     </div>
 </header>
 <div>
-    {{ md|safe }}
+    {{ .md }}
 </div>
-{% endblock %}
-
+{{end}}

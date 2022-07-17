@@ -1,8 +1,4 @@
-{% extends "template.html" %}
-
-{% set title = 'Fun Holiday API' %}
-
-{% block body %}
+{{define "content"}}
 <header>
     <h1>
         Fun Holidays!
@@ -41,5 +37,5 @@
         todaysHolidays();
     </script>
 </div>
-{% endblock %}
+{{end}}
 

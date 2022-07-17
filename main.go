@@ -4,13 +4,16 @@ import (
 	"fmt"
 	"funholidaysapi/models"
 	"funholidaysapi/mongoUtil"
+	"html/template"
 	"log"
 	"math/rand"
 	"net/http"
 	"os"
 	"strconv"
 
+	"github.com/foolin/goview/supports/ginview"
 	"github.com/gin-gonic/gin"
+	"github.com/gomarkdown/markdown"
 
 	"time"
 
@@ -130,6 +133,39 @@ func randomHoliday(c *gin.Context) {
 
 }
 
+func renderIndex(c *gin.Context) {
+	c.HTML(http.StatusOK, "index", gin.H{
+		"title": "National API Day App",
+	})
+}
+
+func renderDemo(c *gin.Context) {
+	keyword := c.Query("kw")
+	date := c.Query("dt")
+	c.HTML(http.StatusOK, "lookup", gin.H{
+		"title":   "Fun Holiday Lookup Tool",
+		"date":    func() string { return date },
+		"keyword": func() string { return keyword },
+	})
+}
+
+func renderDocs(c *gin.Context) {
+	//read file
+	md, err := os.ReadFile("doc.md")
+	if err != nil {
+		c.JSON(http.StatusInternalServerError, models.ErrorResponse{ErrorDescription: "oops. reading markdown is hard", ErrorDetails: err.Error()})
+		return
+	}
+	// parse markdown
+	mdAsHtml := markdown.ToHTML(md, nil, nil)
+	// pass markdown in to about template
+	c.HTML(http.StatusOK, "doc", gin.H{
+		"title": "National API Day API Docs",
+		"md":    template.HTML(string(mdAsHtml)),
+	})
+
+}
+
 func main() {
 	fmt.Println("running gin app holiday api")
 	mongoUtil.LoadDotEnv()
@@ -140,6 +176,7 @@ func main() {
 	holidayCollection = mongoUtil.GetCollection(mongoClient, os.Getenv("HOLIDAYCOLLECTIONNAME"))
 
 	r := gin.Default()
+	r.HTMLRender = ginview.Default()
 	api := r.Group("/api")
 	{
 		api.GET("/today", today)
@@ -148,6 +185,14 @@ func main() {
 		api.GET("/search/:keyword", searchQuery)
 		api.GET("/random", randomHoliday)
 	}
+
+	r.GET("/", renderIndex)
+
+	r.GET("/demo", renderDemo)
+
+	r.GET("/docs", renderDocs)
+
+	r.Static("/assets", "./assets")
 
 	r.Run()
 }
