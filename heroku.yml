@@ -3,4 +3,4 @@ build:
     - go
 
 run: 
-  web: funholidaysapi
+  web: ./bin/funholidaysapi
