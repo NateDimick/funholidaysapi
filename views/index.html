@@ -1,0 +1,41 @@
+{{define "content"}}
+<header>
+    <h1>
+        Fun Holidays!
+    </h1>
+    <div class="nav">
+        <div>
+            <h1>
+                Need Fun Holiday Info?
+            </h1>
+            <h2>
+                <a href="/docs">Read The API Docs</a>
+            </h2>
+        </div>
+        <div>
+            <h1>
+                Not Interested in the API?
+            </h1>
+            <h2>
+                <a href="/demo">Use the Interactive Lookup Tool</a>
+            </h2>
+        </div>
+    </div>
+</header>
+<div>
+    <p>
+        You've probably seen things like "National Donut Day" or "Talk Like a Pirate Day" on social media before. Have you ever wondered what weird holidays it is today (or any day) and also wanted a convenient API to help you with that? Look no further than here, the Fun Holidays API!
+    </p>
+</div>
+<div>
+    <h1>
+        Today's Holidays
+    </h1>
+    <ul id="today">
+    </ul>
+    <script>
+        todaysHolidays();
+    </script>
+</div>
+{{end}}
+

@@ -1,132 +1,24 @@
-# Fun Holidays
+# fun holidays version 2
 
-Over 7000 Holidays that you may or may not have heard of that happen annually - all conveniently available through this API.
+Fun holidays version 2 is built with the goals of:
 
-Ever wondered what obscure holidays were today? On your birthday? Or this month? Or how many pizza-related holidays there are?
+1. switching from python + flask to go + gin [success]
+2. upgrading from a relational DB to MongoDB (there is nothing relational about this data) [success]
+3. updating the front end (both aesthetically to the ui and the developer) [TBD]
+4. a new name? [TBD]
 
-This might be the most complete list of Holidays on the internet - I've aggregated from many sources so all your queries produce the most complete and accurate results!
+## link to a big help
 
-## Functions
+[click here](https://dev.to/hackmamba/build-a-rest-api-with-golang-and-mongodb-gin-gonic-version-269m)
 
-All API urls are extended off of /api
+## API changes
 
-### GET /today
+* may not actually be implemented yet
 
-arguements: none
+1. /api/today gets new query parameters
+    * tzname = string, optional, a timezone name. ex "America/New York
+    * tzdelta = float, optional, difference from GMT ex 5 or 4.5
 
-returns all of the holidays that take place on the date of the GET request in GMT +/- 0:00
+## Docker
 
-```JSON
-GET /api/today
-
-{
-    "day": 27,
-    "month": 8,
-    "holidays": ["Banana Lovers Day", "The Duchess Who Wasnt Day", "The Duchess Who Wasn't Day", "Petroleum Day", "Tug-of-War Day", "International Bat Night", "National Pots de Cr\u00e8me Day", "Burger Day", "Pots De Creme Day", "National Banana Lovers Day", "International Lottery Day"]
-}
-```
-
-### GET /date/{month}/{day}
-
-arguments: month, day (both required, both ints.)
-
-returns all annual holidays that take place on month/day/year
-
-``` JSON
-
-GET /api/date/11/26
-
-{
-    "day": 26,
-    "month": 11,
-    "holidays": ["A Blue Christmas", "National Cake Day", "Cakes Day", "Turkey Free Thanksgiving", "Cake Day", "Day of Mourning"]
-}
-
-```
-
-### GET /random
-
-arguements: none
-
-returns the date and name of a single random holiday on that date
-
-``` JSON
-GET /api/random
-
-{
-    "month": 1,
-    "day": 31,
-    "holiday": "Gorilla Suit Day"
-}
-```
-
-### GET /month/{month}
-
-arguments: month (int, required)
-
-returns all the holidays that take place in the specified month, grouped by the day they occur on.
-
-``` JSON
-GET /api/month/4
-
-{
-    "month": 4,
-    "holidays": {
-        "1": ["Reading Is Funny Day", "Fun at Work Day", "Day Of Hope", "One Cent Day", "Sourdough Bread Day", "Fun Day"],
-        "2": ["Love Your Produce Manager Day", "Ferret Day", "National Peanut Butter and Jelly Day", "Peanut Butter and Jelly Day", "World Autism Day", "Children's Book Day", "Tell A Lie Day"],
-        "3": ["National Find a Rainbow Day", "World Party Day", "Poet in a Cupcake Day", "Tweed Day", "Fish Fingers and Custard Day", "Find A Rainbow Day", "Chocolate Mousse Day", "Walk to Work Day"],
-        "4": ...
-```
-
-### GET /search/{query}
-
-returns all the holidays that have titles that pattern match the query parameter, sorted by date
-
-``` JSON
-GET /api/search/pizza
-
-{
-    "2": {
-        "9": ["Pizza Day", "National Pizza Day (at least five slices)[1]"],
-        "10": ["Great American Pizza Bake"],
-        "16": ["Great American Pizza Bake"]
-        },
-    "4": {
-        "5": ["Deep Dish Pizza Day"]
-        },
-    "5": {
-        "15": ["Pizza Party Day"]
-        },
-    "9": {
-        "5": ["National Cheese Pizza Day", "Cheese Pizza Day"],
-        "20": ["Pepperoni Pizza Day", "National Pepperoni Pizza Day"]
-        },
-    "10": {
-        "9": ["Beer and Pizza Day", "International Beer and Pizza Day"],
-        "11": ["Sausage Pizza Day", "National Sausage Pizza Day"]
-        },
-    "11": {
-        "12": ["Pizza With The Works Except Anchovies Day", "National Pizza with the Works Except Anchovies Day"]
-        }
-}
-
-```
-
-## About the Data
-
-The data for this app has been scraped from:
-
-* [timeanddate.com](https://www.timeanddate.com/holidays/fun/)
-* [nationaltoday.com](https://nationaltoday.com/fun-holidays/)
-* [blankcalendarpages.com](https://blankcalendarpages.com/holidays/fun)
-* [wikipedia.org](https://en.wikipedia.org/wiki/List_of_food_days)
-* [wikipedia.org again](https://en.wikipedia.org/wiki/List_of_minor_secular_observances)
-* [daysoftheyear.com](https://www.daysoftheyear.com/)
-* [anydayguide.com](https://anydayguide.com/calendar/)
-* [checkiday.com](https://checkiday.com)
-
-Can't find a holiday that you expect?
-
-* suggest adding it under the issues for this project on github
-* create a pr and add it yourself
-  * prefereably, follow the procedure in the holiday_agg directory
+Just like a late version of v1, this is app is ready to be containerized. if you want to run locally, but first you need to populate a `.env` file. see `.env-example` for what values are required. Alternatively, the env variables could be places directly in the environment/docker file

@@ -1,23 +1,33 @@
 # syntax=docker/dockerfile:1
 
-FROM python:3.9.7-slim-buster
+FROM golang:1.18-bullseye
 
 WORKDIR /app
 
-COPY requirements.txt requirements.txt
+COPY assets/ assets/
 
-RUN pip install -r requirements.txt
+COPY views/ views/
 
-COPY app.py app.py
+COPY doc.md doc.md
 
-COPY backend/ backend/
+COPY .env .env
 
-COPY frontend/ frontend/
+ENV PORT 5000
 
-COPY README.md README.md
+# COPY funholidaysapi funholidaysapi # if build is a separate step then all the source doesn't have to be copied
 
-ARG DB
+COPY main.go main.go
 
-ENV DATABASE_URL $DB
+COPY models/ models/
 
-CMD ["python", "-m", "flask", "run", "--host=0.0.0.0"]
+COPY mongoUtil/ mongoUtil/
+
+COPY go.mod go.mod
+
+COPY go.sum go.sum
+
+RUN go mod download
+
+RUN go build
+
+CMD [ "./funholidaysapi" ]
