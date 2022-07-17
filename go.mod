@@ -5,6 +5,7 @@ go 1.18
 require (
 	github.com/foolin/goview v0.3.0
 	github.com/gin-gonic/gin v1.7.7
+	github.com/gomarkdown/markdown v0.0.0-20220627144906-e9a81102ebeb
 	github.com/joho/godotenv v1.4.0
 	go.mongodb.org/mongo-driver v1.9.0
 )
@@ -17,7 +18,6 @@ require (
 	github.com/go-stack/stack v1.8.0 // indirect
 	github.com/golang/protobuf v1.3.3 // indirect
 	github.com/golang/snappy v0.0.1 // indirect
-	github.com/gomarkdown/markdown v0.0.0-20220627144906-e9a81102ebeb // indirect
 	github.com/json-iterator/go v1.1.9 // indirect
 	github.com/klauspost/compress v1.13.6 // indirect
 	github.com/leodido/go-urn v1.2.0 // indirect
