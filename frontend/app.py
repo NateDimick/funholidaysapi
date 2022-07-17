@@ -2,7 +2,7 @@ from flask import Flask, render_template, request
 from flask_cors import CORS
 import markdown
 
-app = Flask(__name__)
+app = Flask(__name__, static_folder="./app/dist")
 CORS(app)
 
 @app.route("/")
