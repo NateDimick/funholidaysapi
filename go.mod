@@ -3,7 +3,6 @@ module funholidaysapi
 go 1.18
 
 require (
-	github.com/foolin/goview v0.3.0
 	github.com/gin-gonic/gin v1.7.7
 	github.com/gomarkdown/markdown v0.0.0-20220627144906-e9a81102ebeb
 	github.com/joho/godotenv v1.4.0

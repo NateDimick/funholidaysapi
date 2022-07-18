@@ -1,4 +1,6 @@
-.vscode/*
+*.vscode*
+*node_modules*
 .env
 *.exe
 funholidaysapi
+frontendV2/public/build/*

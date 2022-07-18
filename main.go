@@ -4,14 +4,12 @@ import (
 	"fmt"
 	"funholidaysapi/models"
 	"funholidaysapi/mongoUtil"
-	"html/template"
 	"log"
 	"math/rand"
 	"net/http"
 	"os"
 	"strconv"
 
-	"github.com/foolin/goview/supports/ginview"
 	"github.com/gin-gonic/gin"
 	"github.com/gomarkdown/markdown"
 
@@ -134,8 +132,8 @@ func randomHoliday(c *gin.Context) {
 }
 
 func renderIndex(c *gin.Context) {
-	c.HTML(http.StatusOK, "index", gin.H{
-		"title": "National API Day App",
+	c.HTML(http.StatusOK, "index.html", gin.H{
+		"title": "National Api Day",
 	})
 }
 
@@ -158,12 +156,7 @@ func renderDocs(c *gin.Context) {
 	}
 	// parse markdown
 	mdAsHtml := markdown.ToHTML(md, nil, nil)
-	// pass markdown in to about template
-	c.HTML(http.StatusOK, "doc", gin.H{
-		"title": "National API Day API Docs",
-		"md":    template.HTML(string(mdAsHtml)),
-	})
-
+	c.Data(http.StatusOK, "text/html; charset=utf-8", mdAsHtml)
 }
 
 func main() {
@@ -176,7 +169,6 @@ func main() {
 	holidayCollection = mongoUtil.GetCollection(mongoClient, os.Getenv("HOLIDAYCOLLECTIONNAME"))
 
 	r := gin.Default()
-	r.HTMLRender = ginview.Default()
 	api := r.Group("/api")
 	{
 		api.GET("/today", today)
@@ -188,11 +180,11 @@ func main() {
 
 	r.GET("/", renderIndex)
 
-	r.GET("/demo", renderDemo)
+	r.GET("/raw-docs", renderDocs)
 
-	r.GET("/docs", renderDocs)
+	r.LoadHTMLGlob("frontendV2/public/*.html")
 
-	r.Static("/assets", "./assets")
+	r.Static("/assets", "./frontendV2/public")
 
 	r.Run()
 }
