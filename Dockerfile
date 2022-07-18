@@ -1,12 +1,20 @@
 # syntax=docker/dockerfile:1
 
+FROM node:18-bullseye
+
+WORKDIR /frontend
+
+COPY frontendV2/ ./
+
+RUN npm install
+
+RUN npm run build
+
 FROM golang:1.18-bullseye
 
 WORKDIR /app
 
-COPY assets/ assets/
-
-COPY views/ views/
+COPY --from=0 /frontend/public frontendV2/public
 
 COPY doc.md doc.md
 
