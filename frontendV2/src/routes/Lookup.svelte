@@ -1,7 +1,9 @@
 <script lang="ts">
     import { onMount } from "svelte";
+    import { querystring } from "svelte-spa-router";
     import HolidayList from "../components/HolidayList.svelte";
     import Navbar from "../components/Navbar.svelte";
+import { QueryParams } from "../types";
 
     const navbarInfo = {
         pageName: "API Reference",
@@ -15,6 +17,7 @@
     }
 
     let holidayList: string[] = []
+    let domain: string = ""
     let shareLink: string = ""
 
     let keyword: string
@@ -43,12 +46,12 @@
                 temp.push(`${date[1]}/${date[2]}: ${element}`)
             })
             holidayList = temp
-            shareLink = `https://national-api-day.herokuapp.com/app?dt=${keydate}`
+            shareLink = `${domain}/#/demo?dt=${keydate}`
         });
     }
 
     function wordQuery() {
-        let url = `/api/search/${keyword}`;
+        let url = `/api/search/${encodeURIComponent(keyword)}`;
         fetch(url)
         .then(response => response.json())
         .then(data => {
@@ -66,12 +69,13 @@
             })
             holidayList = temp
             let linkWord = encodeURIComponent(keyword);
-            shareLink = `https://national-api-day.herokuapp.com/app?kw=${linkWord}`
+            shareLink = `${domain}/#/demo?kw=${linkWord}`
         });
     }
 
     onMount(() => {
-        let query = new URLSearchParams()
+        domain = document.URL.split("/#/")[0]
+        let query = QueryParams.from($querystring)
         if (query.has("kw")) {
             searchMode = true
             keyword = query.get("kw")
