@@ -24,7 +24,7 @@ RUN go mod download
 
 RUN CGO_ENABLED=0 GOOS=linux go build
 
-# this last bit reduces the image size from over a gigabyte to about 20 megabytes
+# this last bit reduces the image size from over a gigabyte to about 25 megabytes
 FROM alpine:latest
 
 WORKDIR /app
