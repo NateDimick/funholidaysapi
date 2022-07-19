@@ -10,7 +10,7 @@ RUN npm install
 
 RUN npm run build
 
-FROM golang:1.18-bullseye
+FROM golang:alpine
 
 WORKDIR /backend
 
@@ -22,16 +22,10 @@ COPY mongoUtil/ mongoUtil/
 
 RUN go mod download
 
-RUN CGO_ENABLED=0 go build
+RUN CGO_ENABLED=0 GOOS=linux go build
 
 # this last bit reduces the image size from over a gigabyte to about 20 megabytes
-FROM scratch
-
-ARG HOLIDAYCOLLECTIONNAME
-
-ARG MONGODBNAME
-
-ARG MONGOURI
+FROM alpine:latest
 
 WORKDIR /app
 
@@ -45,10 +39,10 @@ COPY doc.md ./
 
 ENV PORT 5000
 
-ENV MONGOURI $MONGOURI
+ENV MONGOURI "must-be-set"
 
-ENV HOLIDAYCOLLECTIONNAME $HOLIDAYCOLLECTIONNAME
+ENV HOLIDAYCOLLECTIONNAME "holidays"
 
-ENV MONGODBNAME $MONGODBNAME
+ENV MONGODBNAME "go-holiday-api"
 
 CMD [ "./funholidaysapi" ]
