@@ -1,6 +1,3 @@
 build:
-  language:
-    - go
-
-run: 
-  web: funholidaysapi
+  docker:
+    web: Dockerfile-Heroku
