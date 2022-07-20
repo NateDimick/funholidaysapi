@@ -22,6 +22,7 @@ import { QueryParams } from "../types";
 
     let keyword: string
     let keydate: string
+    let listName: string = ""
 
     let searchMode: boolean = true
 
@@ -48,6 +49,7 @@ import { QueryParams } from "../types";
             holidayList = temp
             shareLink = `${domain}/#/demo?dt=${keydate}`
         });
+        listName = `holidays on ${date[1]}/${date[2]}`
     }
 
     function wordQuery() {
@@ -71,6 +73,7 @@ import { QueryParams } from "../types";
             let linkWord = encodeURIComponent(keyword);
             shareLink = `${domain}/#/demo?kw=${linkWord}`
         });
+        listName = `${keyword} Holidays`
     }
 
     onMount(() => {
@@ -91,26 +94,63 @@ import { QueryParams } from "../types";
 
 <main>
     <Navbar {...navbarInfo}/>
-    <div>
-        <input type="button" value="Keyword Search" on:click={() => searchMode = true}>
-        <input type="button" value="Date Search" on:click={() => searchMode = false}>
+    <div id="toggle">
+        <button on:click={() => searchMode = true}>Keyword Search</button>
+        <button on:click={() => searchMode = false}>Date Search</button>
     </div>
-
-    <div id="word-search" class="field" hidden={!searchMode}>
-        <!-- This div will be a form to find holidays based on keyword similarity -->
-        <label for="keyword">Holiday Keyword</label>
-        <input type="text" name="keyword" id="keyword" placeholder="pizza, flower, etc" bind:value={keyword}>
-        <button id="keyword-search" on:click={wordQuery}>Find Holidays</button>
-    </div>
-    <div id="date-search" class="field" hidden={searchMode}>
-        <!-- This div will be a form to find holidays based on the date -->
-        <label for="date">Find Holidays by Date</label>
-        <input type="date" name="date" id="date" on:change={dateQuery} bind:value={keydate}>   
-    </div>
-    <HolidayList {holidayList}/>
+    <section>
+        <div id="word-search" class="field" hidden={!searchMode}>
+            <!-- This div will be a form to find holidays based on keyword similarity -->
+            <label for="keyword">Holiday Keyword</label>
+            <input type="text" name="keyword" id="keyword" placeholder="pizza, flower, etc" bind:value={keyword}>
+            <button id="keyword-search" on:click={wordQuery}>Find Holidays</button>
+        </div>
+        <div id="date-search" class="field" hidden={searchMode}>
+            <!-- This div will be a form to find holidays based on the date -->
+            <label for="date">Find Holidays by Date</label>
+            <input type="date" name="date" id="date" on:change={dateQuery} bind:value={keydate}>   
+        </div>
+    </section>
+    <HolidayList {holidayList} {listName}/>
     {#if shareLink}
-    <h2>
-        Share these results <a href={shareLink}>{shareLink}</a>
-    </h2>
+        <section id="bottom">
+            <h2>
+                Share these results <a href={shareLink}>{shareLink}</a>
+            </h2>
+        </section>
     {/if}
+    
 </main>
+
+<style>
+    main {
+		width: 60%;
+		margin: 0% 18%;
+	}
+    section {
+        background-color: ghostwhite;
+		border-color: orangered;
+		border-radius: 0 0 2em 2em;
+		border-style: solid;
+		border-width: 3px;
+		padding: 2%
+    }
+    #bottom {
+        border-radius:  2em;
+    }
+    #toggle {
+        display: flex;
+    }
+    #toggle > button {
+        flex: 1 1 0px;
+        margin: 0;
+        border-radius: 2em 2em 0 0;
+        border-style: solid;
+		border-width: 3px 3px 0px 3px;
+        border-color: orangered;
+        background-color: ghostwhite;
+    }
+    #toggle > button:hover {
+        background-color: dodgerblue;
+    }
+</style>

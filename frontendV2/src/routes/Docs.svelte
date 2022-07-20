@@ -37,3 +37,18 @@
         {@html docs}
     </div>
 </main>
+
+<style>
+    main {
+		width: 60%;
+		margin: 0% 18%;
+	}
+    div {
+        background-color: ghostwhite;
+		border-color: orangered;
+		border-radius: 2em;
+		border-style: solid;
+		border-width: 3px;
+		padding: 2%
+    }
+</style>

@@ -1,6 +1,6 @@
 <script lang="ts">
     import NavbarItem from "./NavbarItem.svelte"
-    import { NavItemProp } from "../types"
+    import type { NavItemProp } from "../types"
 
     export let pageName: string
     export let itemProps: NavItemProp[]
@@ -17,6 +17,11 @@
 
 <style>
     div {
-        flex: content;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+    }
+    h1 {
+        color: ghostwhite;
     }
 </style>

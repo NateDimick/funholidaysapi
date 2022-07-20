@@ -38,15 +38,28 @@ import HolidayList from "../components/HolidayList.svelte";
 
 <main>
     <Navbar {...navbarInfo}/>
-    <div>
-        <p>
-            You've probably seen things like "National Donut Day" or "Talk Like a Pirate Day" on social media before. Have you ever wondered what weird holidays it is today (or any day) and also wanted a convenient API to help you with that? Look no further than here, the Fun Holidays API!
-        </p>
-    </div>
-    <div>
-        <h1>
-            Today's Holidays
-        </h1>
-    </div>
-    <HolidayList {holidayList}/>
+    <section>
+        <div>
+            <p>
+                You've probably seen things like "National Donut Day" or "Talk Like a Pirate Day" on social media before. Have you ever wondered what weird holidays it is today (or any day) and also wanted a convenient API to help you with that? Look no further than here, the Fun Holidays API!
+            </p>
+        </div>
+    </section>
+    <HolidayList {holidayList} listName={"Today's Holidays"}/>
 </main>
+
+<style>
+    main {
+		width: 60%;
+		margin: 0% 18%;
+		
+	}
+    section {
+        background-color: ghostwhite;
+		border-color: orangered;
+		border-radius: 2em;
+		border-style: solid;
+		border-width: 3px;
+		padding: 2%
+    }
+</style>
