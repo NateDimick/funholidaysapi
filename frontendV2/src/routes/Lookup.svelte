@@ -53,6 +53,9 @@ import { QueryParams } from "../types";
     }
 
     function wordQuery() {
+        if (keyword.trimStart() === "") {
+            return
+        }
         let url = `/api/search/${encodeURIComponent(keyword)}`;
         fetch(url)
         .then(response => response.json())
